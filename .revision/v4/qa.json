@@ -1,0 +1,266 @@
+{
+  "url": "http://127.0.0.1:8765/#14",
+  "slides": [
+    {
+      "index": 1,
+      "title": "Antes de la idea",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [
+        {
+          "tag": "VIDEO",
+          "cls": "cover-video",
+          "text": "",
+          "rect": [
+            -50,
+            -27,
+            1650,
+            871
+          ],
+          "client": [
+            1604,
+            848
+          ],
+          "scroll": [
+            1604,
+            848
+          ],
+          "reason": [
+            "bounds"
+          ]
+        }
+      ],
+      "broken": []
+    },
+    {
+      "index": 2,
+      "title": "Del planeta a la Zona T",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 3,
+      "title": "Llegar y habitar el lugar",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 4,
+      "title": "Percibir con cinco sentidos",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 5,
+      "title": "La oferta: promoción y variedad",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 6,
+      "title": "El método que ordena la mirada",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 7,
+      "title": "Evaluar: qué, quién, dónde y cuándo",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 8,
+      "title": "Evaluar: detalles e hipótesis",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 9,
+      "title": "Analizar: ocho lecturas de las observaciones",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 10,
+      "title": "Registrar: secuencia de consumo",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 11,
+      "title": "Registrar: cuatro fotografías y sus datos",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 12,
+      "title": "Concluir: seis deducciones con respaldo",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 13,
+      "title": "Concluir: contraste de las seis hipótesis",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 14,
+      "title": "Gracias",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "thanks-rings",
+          "text": "",
+          "rect": [
+            310,
+            -126,
+            1290,
+            854
+          ],
+          "client": [
+            980,
+            980
+          ],
+          "scroll": [
+            982,
+            982
+          ],
+          "reason": [
+            "bounds"
+          ]
+        },
+        {
+          "tag": "I",
+          "cls": "",
+          "text": "",
+          "rect": [
+            299,
+            -137,
+            1301,
+            865
+          ],
+          "client": [
+            978,
+            978
+          ],
+          "scroll": [
+            978,
+            978
+          ],
+          "reason": [
+            "bounds"
+          ]
+        },
+        {
+          "tag": "I",
+          "cls": "",
+          "text": "",
+          "rect": [
+            381,
+            -55,
+            1219,
+            783
+          ],
+          "client": [
+            818,
+            818
+          ],
+          "scroll": [
+            818,
+            818
+          ],
+          "reason": [
+            "bounds"
+          ]
+        }
+      ],
+      "broken": []
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "bad": []
+}

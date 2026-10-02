@@ -1,0 +1,34 @@
+YUMI YUMI — ANTES DE LA IDEA / VERSIÓN 7
+
+ABRIR
+Descomprime toda la carpeta y abre index.html en Chrome o Edge.
+La presentación, el video, las fotos y el mapa funcionan sin conexión.
+El enlace externo de Google Maps requiere internet.
+
+PRESENTAR
+15 láminas, con un guion de tiempos que suma 10 minutos.
+Flecha derecha o clic en el fondo: avanzar. Flecha izquierda: retroceder.
+F o el icono del pie: pantalla completa.
+Recorrido: saltar a una lámina. Guion: apoyo para la exposición.
+Ver carta: abre el PDF. Descargar carta: guarda el PDF sin navegar fuera de la presentación; permite elegir destino cuando el navegador lo admite.
+En Registrar, clic en una polaroid: ampliar. Flechas: recorrer fotos.
+Escape o Cerrar foto en el pie: regresar a la lámina.
+
+CRONÓMETRO
+Clic en 10:00: iniciar o pausar.
+Borde amarillo al quedar 3 minutos; rojo al quedar 1 minuto.
+Guion > Reiniciar 10:00: restablecer.
+Las láminas no avanzan automáticamente.
+
+RECORRIDO
+Portada, ubicación, llegada, cinco sentidos y carta.
+Evaluar: perfiles, nueve observaciones y doce hipótesis escritas como preguntas completas.
+Analizar: nueve lecturas en lenguaje sencillo, siguiendo el mismo orden de las observaciones.
+Registrar: una sola lámina con bebidas, nueve insumos de interacción y cuatro fotos ampliables.
+Concluir: nueve resultados y contraste de las doce hipótesis.
+Síntesis completa de hechos, análisis, registros e interpretación final; agradecimiento.
+
+Nombres ficticios y edades estimadas para describir a los participantes.
+La experiencia del equipo se distingue del consumo de la mesa observada.
+Las interpretaciones e hipótesis no verificadas están señaladas como tales.
+Cartografía: Esri World Imagery; animación local con MapLibre GL.

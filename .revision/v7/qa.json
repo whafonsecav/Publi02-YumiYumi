@@ -1,0 +1,57 @@
+{
+  "slides": [
+    {
+      "index": 7,
+      "title": "Evaluar: qué, quién, dónde y cuándo",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 8,
+      "title": "Evaluar: nueve observaciones de la mesa",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 9,
+      "title": "Evaluar: las hipótesis que nos planteamos",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 10,
+      "title": "Analizar: qué nos dicen las nueve observaciones",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 11,
+      "title": "Registrar: nueve insumos de interacción",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 12,
+      "title": "Concluir: qué deja cada observación",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 13,
+      "title": "Concluir: qué pasó con nuestras doce hipótesis",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "index": 14,
+      "title": "Síntesis: observaciones, análisis, registros y conclusión",
+      "overflow": [],
+      "broken": []
+    }
+  ],
+  "errors": [],
+  "failed": [
+    "http://127.0.0.1:8765/assets/v2/portada-loop.mp4 :: net::ERR_ABORTED"
+  ],
+  "bad": []
+}

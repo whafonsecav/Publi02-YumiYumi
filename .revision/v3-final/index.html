@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Antes de la idea · Yumi Yumi</title><link rel="stylesheet" href="lib/maplibre-gl.css"><link rel="stylesheet" href="estilos.css?v=3"></head>
+<body>
+<svg class="definitions" xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="i-note" viewBox="0 0 48 48"><path d="M11 4h20l7 8v32H11ZM30 4v9h8M18 22h13m-13 8h13m-13 7h8"/></symbol><symbol id="i-eye" viewBox="0 0 48 48"><path d="M3 24s8-13 21-13 21 13 21 13-8 13-21 13S3 24 3 24Z"/><circle cx="24" cy="24" r="6"/></symbol>
+<symbol id="i-sound" viewBox="0 0 48 48"><path d="M5 19h9l11-9v28L14 29H5ZM32 16q9 8 0 16m6-22q16 14 0 28"/></symbol>
+<symbol id="i-hand" viewBox="0 0 48 48"><path d="M12 26V13q0-5 5-3V7q4-5 7 0v3q6-4 7 3v6q6-4 7 3v12q-2 11-14 10-9 0-13-10L5 24q-1-6 5-3l7 9V11m7 0v13m7-5v7"/></symbol>
+<symbol id="i-nose" viewBox="0 0 48 48"><path d="M24 6q-2 16-11 25-3 7 5 7h3q3 7 7 0h5q8-1 3-9m-20 3h4m8 0h5"/></symbol>
+<symbol id="i-glass" viewBox="0 0 48 48"><path d="m8 8 6 27h20l6-27ZM13 17h22M24 35v8m-8 0h16M27 17l6-14h9"/></symbol>
+<symbol id="i-pin" viewBox="0 0 48 48"><path d="M24 44S9 28 9 18a15 15 0 0 1 30 0c0 10-15 26-15 26Z"/><circle cx="24" cy="18" r="5"/></symbol>
+<symbol id="i-talk" viewBox="0 0 48 48"><path d="M6 7h36v27H23L12 43v-9H6ZM14 17h20m-20 8h13"/></symbol>
+<symbol id="i-person" viewBox="0 0 48 48"><circle cx="24" cy="11" r="7"/><path d="M9 43V32q0-13 15-13t15 13v11M18 29v14m12-14v14"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 48 48"><path d="M6 24h35L27 10m14 14L27 38"/></symbol>
+<symbol id="i-qr" viewBox="0 0 48 48"><path d="M4 4h15v15H4ZM29 4h15v15H29ZM4 29h15v15H4ZM29 29h6v6h9v9H29ZM9 9h5v5H9Zm25 0h5v5h-5ZM9 34h5v5H9Z"/></symbol>
+<symbol id="i-focus" viewBox="0 0 48 48"><path d="M4 18V4h14m12 0h14v14M4 30v14h14m12 0h14V30"/><circle cx="24" cy="24" r="8"/></symbol>
+<symbol id="i-check" viewBox="0 0 48 48"><path d="m7 25 11 11L42 12"/></symbol>
+<symbol id="i-burger" viewBox="0 0 48 48"><path d="M5 20q0-16 19-16t19 16ZM5 28h38M7 36h34q0 8-17 8T7 36ZM14 12h2m9-2h2m8 5h2"/></symbol>
+<symbol id="i-stairs" viewBox="0 0 48 48"><path d="M4 42h10V30h10V18h10V6h10"/></symbol>
+</defs></svg>
+<main id="stage">
+<div id="time-edge" aria-hidden="true"></div>
+<div id="slides">
+
+<section class="slide cover active" data-title="Antes de la idea" data-seconds="20">
+<video id="cover-video" class="cover-video" autoplay muted loop playsinline poster="assets/video/portada-poster.jpg"><source src="assets/v2/portada-loop.mp4" type="video/mp4"></video><div class="cover-shade"></div>
+<div class="cover-top"><img class="poli" src="assets/logos/politecnico-w.webp" alt="Politécnico Grancolombiano"><span>PUBLICIDAD 2<br>CORTE 2 · ENTREGABLE 2</span><img class="yumi-mark" src="assets/logos/Logo YumiYumi.png" alt="Yumi Yumi"></div>
+<div class="cover-title"><p class="eyebrow reveal">METODOLOGÍA DE OBSERVACIÓN PARA LA IDEACIÓN</p><h1><span class="reveal">Antes de</span><span class="reveal">la <em>idea</em><span class="title-dot"></span></span></h1><p class="cover-sub reveal">Una noche en el gastrobar Yumi Yumi.<br>Observar el lugar. Seguir una mesa. Registrar lo que sucede.</p></div>
+<div class="cover-bottom reveal"><div><span class="small-label">EQUIPO</span><p>Juan Martinez · Mariana Silva · William Fonseca</p></div><div><span class="small-label">PROFESOR</span><p>Rudiger Estuart Gonzalez Preciado</p></div><div class="cover-campus">Bogotá<br>Presencial nocturno · Viernes</div></div>
+<div class="cover-stamp">SALIDA DE CAMPO<span>SÁB 26 SEP / 2026</span></div>
+</section>
+
+<section class="slide location" data-title="Del planeta a la Zona T" data-seconds="25">
+<div id="map"></div><div class="map-vignette"></div>
+<div class="map-copy"><p class="eyebrow reveal">01 / EL PUNTO DE PARTIDA</p><h2 class="reveal">De Bogotá<br>a una <em>mesa.</em></h2><p class="map-phase" id="map-phase">UNA CIUDAD EN EL MUNDO</p></div>
+<div class="map-target" id="map-target"><span class="small-label">DESTINO</span><h3>Yumi Yumi</h3><p>Cl. 84A #12a-22<br>Zona T · Bogotá, Colombia</p><div class="coords">4.66865° N &nbsp; 74.05370° O</div></div>
+<div class="compass"><span class="north">N</span><span class="south">S</span><span class="east">E</span><span class="west">O</span><div id="compass-needle"></div><span class="compass-center">+</span></div>
+<div class="map-route"><b class="on">MUNDO</b><i></i><b>COLOMBIA</b><i></i><b>BOGOTÁ</b><i></i><b>ZONA T</b></div>
+<span class="map-credit">Imagen satelital: Esri World Imagery · recorrido sobre cartografía</span>
+<div id="map-fallback" hidden><img src="assets/mapa/zona-t-satelite.jpg" alt="Vista satelital del sector de Yumi Yumi"><p>Zona T · Bogotá</p></div>
+</section>
+
+
+<section class="slide senses sensory-v3" data-title="Percibir con cinco sentidos" data-seconds="55">
+<div class="section-heading"><p class="eyebrow reveal">EL LUGAR / EXPERIENCIA DEL EQUIPO</p><h2 class="reveal">No solo lo vimos.<br><em>Lo percibimos.</em></h2></div>
+<div class="ambient-lens reveal"><img src="assets/fotos/foto-f62da75.webp" alt="Luz cálida, verdes y barra del gastrobar"><span>LUZ TENUE · VERDE · MADERA</span><i></i></div>
+<div class="sense-objects">
+<article class="reveal"><div class="sense-art lamp-art"><div class="lamp-cord"></div><div class="lamp-shade"></div><div class="lamp-glow"></div></div><h3>Vista</h3><p>Luz cálida y colores amenos.<br>La barra destaca al fondo.</p></article>
+<article class="reveal"><div class="sense-art music-art"><span>♪</span><div class="music-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div><h3>Oído</h3><p>Música con presencia,<br>que permitía conversar.</p></article>
+<article class="reveal"><div class="sense-art cushion-art"><i></i><i></i><span>SUAVE</span></div><h3>Tacto</h3><p>Acolchados suaves.<br>Faltaba respaldo<br>en algunos asientos.</p></article>
+<article class="reveal"><div class="sense-art air-art"><svg viewBox="0 0 160 160"><path d="M15 60h90q40 0 30-25t-35 2M15 82h119M15 104h80q42 0 34 25t-29-1"/></svg></div><h3>Olfato</h3><p>Olor neutro.<br>Sin un olor marcado<br>a alcohol o encierro.</p></article>
+<article class="reveal"><div class="sense-art taste-art"><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall violet"><i></i><b></b></div></div><h3>Gusto</h3><p>Sandía: suave y frutal.<br>Fresa con vodka:<br>alcohol más perceptible.</p></article>
+</div><div class="sensorial-bottom reveal"><span>AMBIENTE AGRADABLE</span><p>Los sabores se sintieron distintos y las preferencias también: a Juan no le gustó uno de los cócteles.</p></div>
+</section>
+
+
+<section class="slide space journey-v3" data-title="Llegar y habitar el lugar" data-seconds="40">
+<div class="section-heading"><p class="eyebrow reveal">LA VISITA / 26 DE SEPTIEMBRE DE 2026</p><h2 class="reveal">Una fila corta.<br><em>Una mesa para cuatro.</em></h2></div>
+<div class="visit-duration reveal"><b>90</b><span>MINUTOS<br>8:30–10:00 p. m.</span></div>
+<div class="journey-objects">
+<article class="reveal"><div class="entry-scene"><div class="drawn-door"></div><span class="queue-person"><svg><use href="#i-person"/></svg></span><span class="queue-person"><svg><use href="#i-person"/></svg></span></div><h3>Llegamos</h3><p>Había una fila pequeña.<br>Se liberó una mesa para cuatro.</p></article>
+<span class="journey-arrow">→</span>
+<article class="reveal"><div class="table-scene"><div class="round-table"></div><i></i><i></i><i></i><i></i><b>4</b></div><h3>Nos sentamos</h3><p>En el primer piso.<br>Mesas bajas, sofás y asientos<br>con y sin respaldo.</p></article>
+<span class="journey-arrow">→</span>
+<article class="reveal"><div class="bottle-scene"><div class="bottle-shelf"><i></i><i></i><i></i><i></i><i></i><i></i></div><div class="bar-counter"></div></div><h3>Reconocimos el entorno</h3><p>Barra y bebidas abajo.<br>Cocina, más mesas y baños arriba.</p></article>
+</div><div class="journey-bottom reveal"><span>EL BAÑO</span><p>Vestíbulo compartido · un espacio para hombres y dos para mujeres.<br>Pequeño y cómodo; sin una ambientación especialmente fotográfica.</p></div>
+</section>
+
+
+<section class="slide promo offer-v3" data-title="La oferta: promoción y variedad" data-seconds="65">
+<div class="section-heading"><p class="eyebrow reveal">LA CARTA / QUÉ OFRECE EL GASTROBAR</p><h2 class="reveal">Vimos un <em>3×1.</em><br>Accedimos al <em>2×1.</em></h2></div>
+<div class="offer-path">
+<article class="reveal"><div class="offer-stage-label">AL ABRIR EL QR</div><div class="offer-glasses triple"><div class="drink tall cream"><i></i><b></b></div><div class="drink tall cream"><i></i><b></b></div><div class="drink tall cream"><i></i><b></b></div><strong>3×1</strong></div><p>La publicidad que apareció.<br><b>Su horario ya había terminado.</b></p></article>
+<div class="offer-clock reveal"><svg viewBox="0 0 80 80"><circle cx="40" cy="40" r="32"/><path d="M40 17v25l18 9"/></svg><span>LLEGAMOS<br>8:30 p. m.</span><i>→</i></div>
+<article class="reveal"><div class="offer-stage-label">DURANTE NUESTRA VISITA</div><div class="offer-glasses double"><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall watermelon"><i></i><b></b></div><strong>2×1</strong></div><p>La promoción disponible.<br><b>Un mismo sabor por cada par.</b></p></article>
+</div>
+<div class="menu-landscape">
+<article class="reveal"><div class="mini-pours"><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall orange"><i></i><b></b></div></div><div><h3>Frutales</h3><p>Ron, vodka, tequila,<br>whisky y ginebra.</p><small>Elegir base + sabor.</small></div></article>
+<article class="reveal"><div class="mini-pours"><div class="drink tall cream"><i></i><b></b></div></div><div><h3>Cremosos</h3><p>Frutas, leche,<br>coco y chocolate.</p><small>También cambia la textura.</small></div></article>
+<article class="reveal"><div class="no-alcohol"><b>8</b><span>SIN LICOR</span></div><div><h3>Otras elecciones</h3><p>Yumilu, Red Lips,<br>Brisa y más.</p><small>Compartir sin pedir alcohol.</small></div></article>
+<article class="reveal"><div class="burger-drawing"><svg><use href="#i-burger"/></svg><svg><use href="#i-burger"/></svg></div><div><h3>Combos de dos</h3><p>Sándwiches · $61.900<br>Hamburguesas · $63.900</p><small>El formato en pares se repite.</small></div></article>
+</div><p class="offer-source">Lectura de la carta recogida en la visita. Los combos de comida son ofertas específicas.</p>
+</section>
+
+<section class="slide method" data-title="El método que ordena la mirada" data-seconds="35">
+<div class="section-heading"><p class="eyebrow reveal">EL MÉTODO / DE LA CLASE AL LUGAR</p><h2 class="reveal">Una observación.<br><em>Cuatro movimientos.</em></h2><p class="method-intro reveal">En clase entrenamos la atención al detalle. Aquí la aplicamos a un lugar real y a una sola mesa.</p></div>
+<div class="method-track"><svg class="method-link" viewBox="0 0 1410 280"><path d="M90 130C220 130 220 190 360 190S530 80 700 80S850 190 1050 190S1200 130 1320 130"/></svg>
+<article class="method-step reveal"><div class="method-orb"><svg><use href="#i-focus"/></svg><span>01</span></div><h3>Evaluar</h3><p>Definimos qué observar: la interacción de cuatro adultos con sus bebidas, en Yumi Yumi, durante 90 minutos.</p></article>
+<article class="method-step reveal"><div class="method-orb"><svg><use href="#i-eye"/></svg><span>02</span></div><h3>Analizar</h3><p>Seleccionamos lo relevante: pedidos, cambios de bebida, conversación, gestos y desplazamientos.</p></article>
+<article class="method-step reveal"><div class="method-orb"><svg><use href="#i-note"/></svg><span>03</span></div><h3>Registrar</h3><p>Organizamos las observaciones y las fotografías en una secuencia que permite seguir lo ocurrido.</p></article>
+<article class="method-step reveal"><div class="method-orb"><svg><use href="#i-check"/></svg><span>04</span></div><h3>Concluir</h3><p>Identificamos patrones visibles y conservamos los resultados como insumos para una ideación posterior.</p></article>
+</div><div class="method-foot reveal"><span>INSPIRACIÓN</span><i>→</i><span>ALINEACIÓN</span><i>→</i><b>IDEACIÓN <small>Observar aporta materia prima.</small></b></div>
+</section>
+
+
+
+
+<section class="slide evaluate-v3" data-title="Evaluar: qué, quién, dónde y cuándo" data-seconds="90">
+<div class="phase-heading"><span class="phase-token">01 / EVALUAR</span><h2 class="reveal">Cuatro personas.<br><em>Un foco definido.</em></h2></div>
+<div class="evaluation-brief reveal"><div><span>QUÉ</span><p>Su interacción con las bebidas alcohólicas.</p></div><div><span>DÓNDE</span><p>Una mesa del primer piso de Yumi Yumi, Bogotá.</p></div><div><span>CUÁNDO</span><p>Sábado 26 de septiembre · 8:30–10:00 p. m.</p></div></div>
+<span class="who-label">QUIÉNES / PERFILES DE OBSERVACIÓN</span><div class="profiles">
+<article class="profile reveal" style="--person:#aa824e"><div class="profile-bust man-bust"><i></i><b></b><span>A</span></div><h3>Carlos <small>≈52 años</small></h3><p>Camiseta negra, manga corta.<br>Habla y gesticula con las manos.</p></article>
+<article class="profile reveal" style="--person:#779564"><div class="profile-bust woman-bust glasses-bust"><i></i><b></b><span>B</span></div><h3>Patricia <small>≈48 años</small></h3><p>Gafas, reloj y ropa casual.<br>Al inicio interviene menos.</p></article>
+<article class="profile reveal" style="--person:#cf8b75"><div class="profile-bust woman-bust"><i></i><b></b><span>C</span></div><h3>Valentina <small>≈28 años</small></h3><p>Chaqueta oscura y reloj.<br>Conversa con Carlos.</p></article>
+<article class="profile reveal" style="--person:#bc9c67"><div class="profile-bust man-bust young-bust"><i></i><b></b><span>D</span></div><h3>Andrés <small>≈29 años</small></h3><p>Buzo tipo polo, pantalón beige.<br>Asiente y luego participa más.</p></article>
+</div>
+<div class="evaluation-photo reveal"><img src="assets/fotos/foto-5b05c8a.webp" alt="Mesa de las cuatro personas observadas"><span class="eval-mark ea">A</span><span class="eval-mark eb">B</span><span class="eval-mark ec">C</span><span class="eval-mark ed">D</span><div class="scan-line"></div></div>
+<div class="profile-note reveal"><b>Nombres ficticios para seguir la observación.</b><span>Edades estimadas por apariencia. No se confirmó el parentesco ni la ocupación.</span></div>
+</section>
+
+<section class="slide analyze-v3" data-title="Analizar: seleccionar lo que importa" data-seconds="75">
+<div class="phase-heading"><span class="phase-token">02 / ANALIZAR</span><h2 class="reveal">De todo lo visible,<br><em>¿qué nos sirve?</em></h2></div>
+<div class="analysis-stream">
+<article class="reveal"><div class="analysis-art selection-drinks"><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall orange"><i></i><b></b></div><span>↻</span></div><span class="small-label">LO IMPORTANTE</span><h3>Pedidos y cambios</h3><p>Seguimos qué bebidas llegaban,<br>cómo variaban y cuándo<br>se repetía el 2×1.</p><div class="selection-tag">Nos habla de la elección.</div></article>
+<article class="reveal"><div class="analysis-art gesture-lens"><img src="assets/fotos/foto-006a2a8.webp" alt="Andrés gesticula con la mano mientras habla"><div class="lens-cross"></div><span>GESTO OBSERVADO</span></div><span class="small-label">LO SOBRESALIENTE</span><h3>Gestos y conversación</h3><p>Manos al hablar, uso del pitillo<br>para señalar y cambios<br>en la participación.</p><div class="selection-tag">Nos habla de la interacción.</div></article>
+<article class="reveal"><div class="analysis-art garment-art"><svg viewBox="0 0 160 150"><path d="m49 22-31 19 17 33 16-7v70h60V67l16 7 16-33-32-19-14 16H65ZM65 23l15 15 17-15M80 38v25"/><path class="cloth-detail" d="M65 81h31M65 94h20"/></svg><span>CONTEXTO</span></div><span class="small-label">LO NECESARIO</span><h3>Apariencia y entorno</h3><p>Registramos vestuario y accesorios.<br>Los separamos de las impresiones<br>que nos provocaron.</p><div class="selection-tag">Describe; no confirma un estrato.</div></article>
+</div>
+<div class="socio-note reveal"><span>IMPRESIÓN DEL EQUIPO</span><p>La ropa de los jóvenes sugirió un nivel socioeconómico medio-alto.<br><b>Fue una apreciación: no se comprobaron ingresos, marcas ni estrato.</b></p></div>
+</section>
+<section class="slide drinks" data-title="Registrar: secuencia de consumo" data-seconds="65">
+<div class="section-heading"><p class="eyebrow reveal">03 / REGISTRAR · SECUENCIA DE CONSUMO</p><h2 class="reveal">La mesa repite.<br><em>Los sabores cambian.</em></h2></div>
+<div class="rounds">
+<article class="round reveal"><span class="round-label">AL COMIENZO</span><div class="drink-display initial"><div class="drink short amber"><i></i></div><div class="drink short amber"><i></i></div><div class="drink tall cream"><i></i><b></b></div><div class="drink tall cream"><i></i><b></b></div></div><div class="pair-labels"><span>Carlos y Andrés<br><b>Aparentemente whisky</b></span><span>Patricia y Valentina<br><b>Cócteles en 2×1</b></span></div><p>No se confirmó el nombre<br>del primer cóctel.</p></article>
+<div class="round-arrow"><svg><use href="#i-arrow"/></svg></div>
+<article class="round reveal"><span class="round-label">DESPUÉS</span><div class="drink-display"><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall watermelon"><i></i><b></b></div><div class="drink tall orange"><i></i><b></b></div><div class="drink tall orange"><i></i><b></b></div></div><div class="pair-labels"><span>Un par<br><b>Sandía</b></span><span>Otro par<br><b>Naranja</b></span></div><p>Dos promociones.<br>Sabores diferentes entre pares.</p></article>
+<div class="round-arrow"><svg><use href="#i-arrow"/></svg></div>
+<article class="round reveal"><span class="round-label">MÁS ADELANTE</span><div class="drink-display"><div class="drink tall violet"><i></i><b></b></div><div class="drink tall violet"><i></i><b></b></div><div class="drink tall mint"><i></i><b></b></div><div class="drink tall mint"><i></i><b></b></div></div><div class="pair-labels"><span class="full"><b>Otros cócteles</b><br>Se repite la dinámica del 2×1.</span></div><p>Se observaron nuevas bebidas;<br>sus nombres no se confirmaron.</p></article>
+</div><div class="round-conclusion reveal"><span class="loop-symbol">↻</span><p><b>Se mantiene la promoción.</b> Cambian las elecciones.</p><small>Esquema de pedidos observados.<br>Colores ilustrativos; no indican cantidad ingerida.</small></div>
+</section>
+
+
+<section class="slide interaction record-v3" data-title="Registrar: gestos, conversación y pausas" data-seconds="65">
+<div class="phase-heading"><span class="phase-token">03 / REGISTRAR</span><h2 class="reveal">Alrededor de los vasos,<br><em>también pasan cosas.</em></h2></div>
+<div class="record-network">
+<article class="reveal"><div class="people-conversation"><div class="talk-pair"><span>C<small>Valentina</small></span><i></i><span>A<small>Carlos</small></span></div><div class="join-person">D<small>Andrés se integra</small></div><svg class="speech-bubble" viewBox="0 0 70 55"><path d="M5 5h60v35H40L25 51V40H5Z"/><path d="M17 18h35M17 27h23"/></svg></div><h3>La participación cambia</h3><p>Valentina y Carlos conversaban más al inicio.<br>Andrés pasó de asentir a intervenir.<br>Después conversaron también las dos mujeres.</p></article>
+<article class="reveal"><div class="straw-story"><div class="drink tall watermelon"><i></i><b></b></div><div class="speaking-straw"></div><div class="motion-arcs">⌁</div></div><h3>El pitillo acompaña el gesto</h3><p>Andrés lo usaba para señalar al hablar.<br>Los hombres acompañaban<br>la conversación con las manos.</p></article>
+<article class="reveal"><div class="walk-story"><span><svg><use href="#i-person"/></svg></span><i></i><i></i><i></i><div class="wc-door">WC</div><strong>3<small>VISITAS</small></strong></div><h3>Hay pausas y desplazamientos</h3><p>Ambos hombres fueron al baño.<br>Carlos fue tres veces; en la última<br>se observó una marcha menos estable.</p></article>
+</div>
+<div class="record-photo-band reveal"><div class="record-photo-lens"><img src="assets/fotos/foto-6c13f9b.webp" alt="Valentina bebe mientras la mesa continúa reunida"></div><div class="photo-link-line"></div><p><b>Bebidas + conversación + pausas</b><br>El registro reúne acciones que ocurrieron durante la misma visita.</p><span>FOTOGRAFÍA<br>DE LA MESA</span></div>
+</section>
+
+<section class="slide findings" data-title="Concluir: patrones e insumos" data-seconds="55">
+<div class="section-heading"><p class="eyebrow reveal">04 / CONCLUIR · PATRONES DEL REGISTRO</p><h2 class="reveal">La observación<br>ya es <em>materia prima.</em></h2></div>
+<div class="evidence-river"><svg viewBox="0 0 1450 430" class="river"><path d="M20 130C260 130 270 290 470 290S660 130 870 130S1030 290 1210 290H1430"/></svg>
+<article class="finding reveal"><div class="finding-icon"><svg><use href="#i-glass"/></svg><span>↻</span></div><span class="small-label">QUÉ SE REPITE</span><h3>Elegir en pares</h3><p>El 2×1 fue una pauta repetida en los pedidos de la mesa.</p><div class="input-tag">INSUMO: formato de elección</div></article>
+<article class="finding reveal"><div class="finding-icon flavor-dots"><i></i><i></i><i></i><i></i></div><span class="small-label">QUÉ CAMBIA</span><h3>Variar el sabor</h3><p>Las elecciones variaron: no se mantuvo un único cóctel.</p><div class="input-tag">INSUMO: variedad del consumo</div></article>
+<article class="finding reveal"><div class="finding-icon"><svg><use href="#i-talk"/></svg><svg><use href="#i-glass"/></svg></div><span class="small-label">QUÉ ACOMPAÑA</span><h3>Conversar y beber</h3><p>Los pedidos convivieron con gestos, participación y pausas.</p><div class="input-tag">INSUMO: interacción social</div></article></div>
+<div class="findings-bottom reveal"><div class="scope"><b>1</b><span>mesa</span><b>90</b><span>minutos</span></div><p>Este registro describe una visita concreta.<br><strong>Queda disponible para crear después, con evidencia.</strong></p></div>
+</section>
+
+<section class="slide thanks" data-title="Gracias" data-seconds="10">
+<div class="thanks-rings"><i></i><i></i><i></i></div><p class="eyebrow reveal">OBSERVAR ES EL COMIENZO</p><h2 class="reveal">Gracias<span>.</span></h2><p class="thanks-line reveal">Primero, atención.<br>Después, ideas.</p><div class="thanks-bottom reveal"><img src="assets/logos/Logo YumiYumi.png" alt="Yumi Yumi"><span>Juan Martinez · Mariana Silva · William Fonseca<br>Publicidad 2 · Politécnico Grancolombiano</span><img src="assets/logos/politecnico-w.webp" alt="Politécnico Grancolombiano"></div>
+</section>
+</div>
+
+<div id="drawer" class="drawer" hidden><div class="drawer-top"><h3 id="drawer-title">Recorrido</h3><button id="drawer-close" aria-label="Cerrar menú">×</button></div><div id="drawer-content"></div></div>
+<div id="lightbox" hidden><div id="lightbox-content"></div><button id="lightbox-close">Cerrar ×</button></div>
+<footer id="footer">
+<div class="footer-left"><button id="index-btn" title="Ver recorrido">☷ <span>Recorrido</span></button><span class="footer-divider"></span><span id="footer-section">ANTES DE LA IDEA</span></div>
+<div class="footer-context"><div id="map-tools" hidden><button id="map-replay">↻ Repetir viaje</button><a href="https://maps.app.goo.gl/mW4h4z5dguT1ePkf6" target="_blank" rel="noopener">Google Maps ↗</a></div><div id="book-tools" hidden><a href="assets/fuentes/carta-original.pdf" target="_blank">Carta original ↗</a></div></div>
+<div class="footer-right"><button id="notes-btn" title="Guion para la persona que presenta">Guion</button><button id="fullscreen-btn" title="Pantalla completa">⛶</button><button id="timer" title="Iniciar o pausar cuenta regresiva de diez minutos"><span id="timer-icon">▷</span><span id="timer-value">10:00</span></button><button id="prev" aria-label="Diapositiva anterior">←</button><span id="slide-count">01 / 12</span><button id="next" aria-label="Diapositiva siguiente">→</button></div>
+<div id="deck-progress"></div>
+</footer>
+</main>
+<script src="lib/gsap.min.js"></script><script src="lib/maplibre-gl.js"></script><script src="assets/v2/tile-fallback.js"></script><script src="app.js?v=3"></script>
+</body></html>
+
+
+
+
+
+

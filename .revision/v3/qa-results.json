@@ -1,0 +1,665 @@
+{
+  "url": "http://127.0.0.1:8765/?v=3",
+  "httpStatus": 200,
+  "initial": {
+    "title": "Antes de la idea · Yumi Yumi",
+    "debug": "function",
+    "totalSlides": 12,
+    "timer": "10:00",
+    "seconds": "Iniciar o pausar cuenta regresiva de diez minutos"
+  },
+  "slides": [
+    {
+      "slide": 1,
+      "title": "Antes de la idea",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H1",
+          "cls": "",
+          "text": "Antes de\nla idea",
+          "client": [
+            615,
+            282
+          ],
+          "scroll": [
+            615,
+            308
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 2
+    },
+    {
+      "slide": 3,
+      "title": "Percibir con cinco sentidos",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "No solo lo vimos.\nLo percibimos.",
+          "client": [
+            1472,
+            140
+          ],
+          "scroll": [
+            1472,
+            147
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 4,
+      "title": "Llegar y habitar el lugar",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Una fila corta.\nUna mesa para cuatro.",
+          "client": [
+            1472,
+            135
+          ],
+          "scroll": [
+            1472,
+            142
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 5,
+      "title": "La oferta: promoción y variedad",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Vimos un 3×1.\nAccedimos al 2×1.",
+          "client": [
+            1472,
+            133
+          ],
+          "scroll": [
+            1472,
+            140
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 6,
+      "title": "El método que ordena la mirada",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Una observación.\nCuatro movimientos.",
+          "client": [
+            1472,
+            144
+          ],
+          "scroll": [
+            1472,
+            151
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 7,
+      "title": "Evaluar: qué, quién, dónde y cuándo",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Cuatro personas.\nUn foco definido.",
+          "client": [
+            1472,
+            131
+          ],
+          "scroll": [
+            1472,
+            138
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 8,
+      "title": "Analizar: seleccionar lo que importa",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "De todo lo visible,\n¿qué nos sirve?",
+          "client": [
+            1472,
+            133
+          ],
+          "scroll": [
+            1472,
+            140
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 9,
+      "title": "Registrar: secuencia de consumo",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "La mesa repite.\nLos sabores cambian.",
+          "client": [
+            1472,
+            144
+          ],
+          "scroll": [
+            1472,
+            151
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 10,
+      "title": "Registrar: gestos, conversación y pausas",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Alrededor de los vasos,\ntambién pasan cosas.",
+          "client": [
+            1472,
+            131
+          ],
+          "scroll": [
+            1472,
+            138
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 11,
+      "title": "Concluir: patrones e insumos",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "La observación\nya es materia prima.",
+          "client": [
+            1472,
+            150
+          ],
+          "scroll": [
+            1472,
+            159
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 12,
+      "title": "Gracias",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        867
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Gracias.",
+          "client": [
+            1600,
+            208
+          ],
+          "scroll": [
+            1600,
+            230
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 2
+    }
+  ],
+  "overflowIssues": [
+    {
+      "slide": 1,
+      "title": "Antes de la idea",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H1",
+          "cls": "",
+          "text": "Antes de\nla idea",
+          "client": [
+            615,
+            282
+          ],
+          "scroll": [
+            615,
+            308
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 2
+    },
+    {
+      "slide": 3,
+      "title": "Percibir con cinco sentidos",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "No solo lo vimos.\nLo percibimos.",
+          "client": [
+            1472,
+            140
+          ],
+          "scroll": [
+            1472,
+            147
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 4,
+      "title": "Llegar y habitar el lugar",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Una fila corta.\nUna mesa para cuatro.",
+          "client": [
+            1472,
+            135
+          ],
+          "scroll": [
+            1472,
+            142
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 5,
+      "title": "La oferta: promoción y variedad",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Vimos un 3×1.\nAccedimos al 2×1.",
+          "client": [
+            1472,
+            133
+          ],
+          "scroll": [
+            1472,
+            140
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 6,
+      "title": "El método que ordena la mirada",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Una observación.\nCuatro movimientos.",
+          "client": [
+            1472,
+            144
+          ],
+          "scroll": [
+            1472,
+            151
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 7,
+      "title": "Evaluar: qué, quién, dónde y cuándo",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Cuatro personas.\nUn foco definido.",
+          "client": [
+            1472,
+            131
+          ],
+          "scroll": [
+            1472,
+            138
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 8,
+      "title": "Analizar: seleccionar lo que importa",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "De todo lo visible,\n¿qué nos sirve?",
+          "client": [
+            1472,
+            133
+          ],
+          "scroll": [
+            1472,
+            140
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 9,
+      "title": "Registrar: secuencia de consumo",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "La mesa repite.\nLos sabores cambian.",
+          "client": [
+            1472,
+            144
+          ],
+          "scroll": [
+            1472,
+            151
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 10,
+      "title": "Registrar: gestos, conversación y pausas",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Alrededor de los vasos,\ntambién pasan cosas.",
+          "client": [
+            1472,
+            131
+          ],
+          "scroll": [
+            1472,
+            138
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 1
+    },
+    {
+      "slide": 11,
+      "title": "Concluir: patrones e insumos",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        844
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "La observación\nya es materia prima.",
+          "client": [
+            1472,
+            150
+          ],
+          "scroll": [
+            1472,
+            159
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 0
+    },
+    {
+      "slide": 12,
+      "title": "Gracias",
+      "rect": [
+        1600,
+        844
+      ],
+      "scroll": [
+        1600,
+        867
+      ],
+      "textOverflow": [
+        {
+          "tag": "H2",
+          "cls": "reveal",
+          "text": "Gracias.",
+          "client": [
+            1600,
+            208
+          ],
+          "scroll": [
+            1600,
+            230
+          ]
+        }
+      ],
+      "brokenImages": [],
+      "imageCount": 2
+    }
+  ],
+  "timer": {
+    "initial": "10:00",
+    "afterStart": "10:00",
+    "after600Seconds": "00:00",
+    "red": true
+  },
+  "errors": {
+    "console": [],
+    "page": [],
+    "failed": [],
+    "bad": []
+  }
+}

@@ -1,0 +1,7946 @@
+[
+  {
+    "start": 0.0,
+    "end": 23.0,
+    "text": "Podemos superarlo, es el metodo, cualquiera diria que las ideas que le vienen para una campaña o para una viga y tira de una campaña publicitaria, pues le puede llegar de la nada, o que las musas llegaron a usted y la homicidaron, de alguna forma para eso, yo no creo en eso,",
+    "avg_logprob": -0.258
+  },
+  {
+    "start": 23.0,
+    "end": 38.54,
+    "text": "No creo en que entonces me tomo una botella de guaro y pienso más creativo que ayer o que antes que me tomara la botella o los tragos de guaro.",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 39.32,
+    "end": 44.7,
+    "text": "O si le quiero meter a eso otro tipo de sustancias, en este caso tampoco creo que así funcione.",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 44.7,
+    "end": 48.66,
+    "text": "lo que sí funciona es el método",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 48.66,
+    "end": 50.62,
+    "text": "que es un poco lo que trataremos",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 50.62,
+    "end": 52.94,
+    "text": "de llevarlo acá y de trabajarlo",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 52.94,
+    "end": 53.82,
+    "text": "porque al final del caso",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 53.82,
+    "end": 56.26,
+    "text": "un planteamiento creativo pues sí",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 56.26,
+    "end": 58.7,
+    "text": "evidentemente tiene que ver con lo que hemos venido trabajando",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 58.7,
+    "end": 60.62,
+    "text": "recuerdan lo que decíamos",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 60.62,
+    "end": 62.22,
+    "text": "y hablamos acerca de las referencias",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 62.22,
+    "end": 64.48,
+    "text": "audiovisuales, de las referencias",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 64.48,
+    "end": 66.88,
+    "text": "literarias, del arte",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 66.88,
+    "end": 68.82,
+    "text": "que esas cosas nos ayuden precisamente",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 68.82,
+    "end": 70.36,
+    "text": "a conectarnos con",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 70.36,
+    "end": 73.74,
+    "text": "con un planteamiento",
+    "avg_logprob": -0.149
+  },
+  {
+    "start": 73.74,
+    "end": 76.14,
+    "text": "distinto de una historia, que es por lo que trabajamos",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 76.14,
+    "end": 77.64,
+    "text": "en el primer corte, lo que ven",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 77.64,
+    "end": 79.94,
+    "text": "lo que estamos viendo acá es técnicamente algo más",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 79.94,
+    "end": 81.84,
+    "text": "importante, empezamos a ver posicionamiento",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 81.84,
+    "end": 82.88,
+    "text": "y empezamos a ver marca",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 82.88,
+    "end": 85.82,
+    "text": "como inspirarnos un poco en ese",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 85.82,
+    "end": 87.82,
+    "text": "propósito que tiene una marca y ahora empezamos",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 87.82,
+    "end": 88.7,
+    "text": "a meterle a esto",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 88.7,
+    "end": 92.0,
+    "text": "la manera en que construyo conceptos alrededor",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 92.0,
+    "end": 93.72,
+    "text": "de ese posicionamiento que tiene esa marca",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 93.72,
+    "end": 97.72,
+    "text": "concepto de",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 97.72,
+    "end": 99.88,
+    "text": "posicionamiento que vamos a ir",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 99.88,
+    "end": 103.62,
+    "text": "cubriendo y que la misma",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 103.62,
+    "end": 106.28,
+    "text": "casi tendrá un impacto más caro de sus ejercicios.",
+    "avg_logprob": -0.2
+  },
+  {
+    "start": 106.78,
+    "end": 110.42,
+    "text": "Entonces, ¿cómo funciona esta parte del proceso creativo?",
+    "avg_logprob": -0.2
+  },
+  {
+    "start": 110.42,
+    "end": 119.46,
+    "text": "Miren, amigos, cada agencia de publicidad, cada agencia digital,",
+    "avg_logprob": -0.2
+  },
+  {
+    "start": 119.76,
+    "end": 122.24,
+    "text": "cada tipo de agencia tiene su propio proceso.",
+    "avg_logprob": -0.2
+  },
+  {
+    "start": 123.0,
+    "end": 128.18,
+    "text": "A nivel mundial, estas empresas gigantescas han desarrollado unas metodologías",
+    "avg_logprob": -0.2
+  },
+  {
+    "start": 128.18,
+    "end": 134.64,
+    "text": "precisamente para guiar a sus equipos en la construcción de un mensaje publicitario.",
+    "avg_logprob": -0.11
+  },
+  {
+    "start": 135.16,
+    "end": 139.18,
+    "text": "Pero todas van a coincidir en tres pasos claves, que son justamente estos.",
+    "avg_logprob": -0.11
+  },
+  {
+    "start": 140.52,
+    "end": 143.28,
+    "text": "Cuando ustedes lleguen a trabajar en una agencia, o si ya lo están haciendo,",
+    "avg_logprob": -0.11
+  },
+  {
+    "start": 143.28,
+    "end": 149.96,
+    "text": "se van a dar cuenta que al final del caso, o cuando tengan al final un contacto con alguna agencia creativa,",
+    "avg_logprob": -0.11
+  },
+  {
+    "start": 150.04,
+    "end": 153.86,
+    "text": "se van a dar cuenta que estos manes tienen unos procesos y les llaman de una manera diferente.",
+    "avg_logprob": -0.11
+  },
+  {
+    "start": 153.86,
+    "end": 159.72,
+    "text": "uno le llaman Total Work, los otros le llaman Inspire and Creativity,",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 159.84,
+    "end": 161.76,
+    "text": "el otro les van a llamar de las formas que sea posible,",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 161.9,
+    "end": 165.12,
+    "text": "pero al final del caso todo se va a centrar en tres mágicas pasos.",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 165.66,
+    "end": 165.88,
+    "text": "¿Listo?",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 166.48,
+    "end": 170.38,
+    "text": "Y esos pasos son la inspiración, la alineación y la alineación.",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 171.56,
+    "end": 172.0,
+    "text": "¿Listos?",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 174.16,
+    "end": 177.0,
+    "text": "Cada uno de los dos se da la gana, pero en este caso vamos a estar acá.",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 177.3,
+    "end": 178.68,
+    "text": "¿Qué vamos a encontrar en la inspiración?",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 179.56,
+    "end": 181.08,
+    "text": "Todo lo que tenga que ver con producto,",
+    "avg_logprob": -0.223
+  },
+  {
+    "start": 181.08,
+    "end": 184.0,
+    "text": "la información acerca del producto, sus atributos",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 184.0,
+    "end": 184.82,
+    "text": "los beneficios",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 184.82,
+    "end": 187.1,
+    "text": "la manera en que lo desarrollan",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 187.1,
+    "end": 189.72,
+    "text": "todo ese quehacer técnico",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 189.72,
+    "end": 191.78,
+    "text": "que puede llegar a plantearse dentro del producto",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 191.78,
+    "end": 192.42,
+    "text": "¿vale?",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 194.06,
+    "end": 196.38,
+    "text": "incluso las visitas que hacen a las plantas",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 196.38,
+    "end": 198.08,
+    "text": "o allá donde hacen los productos",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 198.08,
+    "end": 200.24,
+    "text": "o una entrevista o una charla",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 200.24,
+    "end": 202.08,
+    "text": "con el desarrollador",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 202.08,
+    "end": 203.22,
+    "text": "o del equipo de innovación",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 203.22,
+    "end": 205.6,
+    "text": "todo hace parte precisamente de esa parte",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 205.6,
+    "end": 207.22,
+    "text": "que termina siendo la base",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 207.22,
+    "end": 208.62,
+    "text": "un poco como la inspiración",
+    "avg_logprob": -0.126
+  },
+  {
+    "start": 208.62,
+    "end": 210.7,
+    "text": "al final del caso es la marca",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 210.7,
+    "end": 212.22,
+    "text": "lo que venimos trabajando, queridos",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 212.22,
+    "end": 214.46,
+    "text": "posicionamiento, tono, lineamientos",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 214.46,
+    "end": 217.02,
+    "text": "bien, esas cosas que venimos",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 217.02,
+    "end": 218.6,
+    "text": "trabajando son también una base",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 218.6,
+    "end": 220.14,
+    "text": "importante de esa inspiración",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 220.14,
+    "end": 221.84,
+    "text": "para la conducción de estos",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 221.84,
+    "end": 224.62,
+    "text": "de este proceso creativo, es una parte",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 224.62,
+    "end": 226.66,
+    "text": "de un inicio, y evidentemente",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 226.66,
+    "end": 228.74,
+    "text": "la audiencia, las personas",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 228.74,
+    "end": 229.92,
+    "text": "a las cuales me estoy dirigiendo",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 229.92,
+    "end": 232.8,
+    "text": "si no conozco a esas personas, pues al final del caso",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 232.8,
+    "end": 236.88,
+    "text": "pues como putas voy a hacer un mensaje si no conozco a esa gente",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 236.88,
+    "end": 238.3,
+    "text": "ahora bien",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 238.3,
+    "end": 240.96,
+    "text": "aquí nos atañe en esta clase",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 240.96,
+    "end": 241.96,
+    "text": "hablar de esto",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 241.96,
+    "end": 244.98,
+    "text": "en otras clases",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 244.98,
+    "end": 246.4,
+    "text": "como comportamiento de consumidor",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 246.4,
+    "end": 248.34,
+    "text": "hablarán de audiencias o también",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 248.34,
+    "end": 250.22,
+    "text": "en publicidad de editar si se encuentran conmigo",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 250.22,
+    "end": 252.66,
+    "text": "o si se encuentran también en publicidad",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 252.66,
+    "end": 254.52,
+    "text": "de medios, publicidad de editar",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 254.52,
+    "end": 256.5,
+    "text": "si se encuentran conmigo, hablaremos de esto",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 256.5,
+    "end": 258.24,
+    "text": "de las audiencias, por ahora",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 258.24,
+    "end": 260.48,
+    "text": "este pedacito de que nosotros vamos a trabajar",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 260.48,
+    "end": 264.1,
+    "text": "la segunda etapa es la delineación",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 264.1,
+    "end": 266.82,
+    "text": "y es que todo esto al final del caso",
+    "avg_logprob": -0.206
+  },
+  {
+    "start": 266.82,
+    "end": 272.82,
+    "text": "de cantar en un documento lo conocen que es el brief",
+    "avg_logprob": -0.276
+  },
+  {
+    "start": 272.82,
+    "end": 277.4,
+    "text": "en ese documento hay mucha información incluso está esta parte que está",
+    "avg_logprob": -0.276
+  },
+  {
+    "start": 277.4,
+    "end": 282.82,
+    "text": "concentrada en la alineación a usted el cliente le dice tengo un problema",
+    "avg_logprob": -0.276
+  },
+  {
+    "start": 282.82,
+    "end": 287.74,
+    "text": "un problema de marca o un problema de audiencia o un problema de producto",
+    "avg_logprob": -0.276
+  },
+  {
+    "start": 287.74,
+    "end": 293.0,
+    "text": "vale un problema de marca no reconoce mi",
+    "avg_logprob": -0.276
+  },
+  {
+    "start": 293.0,
+    "end": 298.86,
+    "text": "posicionamiento, no estoy suficientemente claro en estas audiencias.",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 300.0,
+    "end": 326.0,
+    "text": "Tengo que trabajar algo en marca y en branding porque no me esta funcionando, o tengo un problema de audiencia, los usuarios posiblemente tienen usos alternativos a mi producto que no son correctos, eso pasa, usan los productos de una manera que incorrecta y por eso traen los resultados incorrectos, entonces que tengo que hacer?",
+    "avg_logprob": -0.305
+  },
+  {
+    "start": 326.0,
+    "end": 333.04,
+    "text": "Trabajar justamente en enseñarle un poco a la audiencia cómo usar bien el producto.",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 333.24,
+    "end": 333.96,
+    "text": "Eso es cuando unas pasan.",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 335.02,
+    "end": 339.14,
+    "text": "Y desde el punto de vista del producto, bueno, hay cosas del producto que estoy cambiando,",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 339.32,
+    "end": 341.66,
+    "text": "cambié y por tanto tengo que comunicarlas.",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 342.14,
+    "end": 342.32,
+    "text": "¿Bien?",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 343.16,
+    "end": 346.38,
+    "text": "Eso está planteándose aquí desde el problema y toca analizarlo desde el brief.",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 347.6,
+    "end": 348.78,
+    "text": "Evidentemente son los objetivos.",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 348.78,
+    "end": 352.16,
+    "text": "Si no hay objetivos de marketing y comunicaciones, pues marica, ¿qué voy a poder hacer?",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 352.16,
+    "end": 358.26,
+    "text": "Y esto evidentemente nos va a tener mucho que ver con respecto al planteamiento que hagamos",
+    "avg_logprob": -0.143
+  },
+  {
+    "start": 358.26,
+    "end": 361.5,
+    "text": "Y luego pues al final del caso, en esa alineación",
+    "avg_logprob": -0.143
+  },
+  {
+    "start": 361.5,
+    "end": 365.6,
+    "text": "Yo tengo que determinar qué tipo de campaña u oferta",
+    "avg_logprob": -0.143
+  },
+  {
+    "start": 365.6,
+    "end": 371.14,
+    "text": "Voy a tener y voy a aplicar en mi desarrollo estratégico, en mi desarrollo creativo",
+    "avg_logprob": -0.143
+  },
+  {
+    "start": 371.14,
+    "end": 381.12,
+    "text": "¿Tipos de campaña? ¿Tienen claro los tipos de campaña?",
+    "avg_logprob": -0.143
+  },
+  {
+    "start": 382.16,
+    "end": 407.74,
+    "text": "No sé, lo del tipo de campaña, awareness, consideration, o eso.",
+    "avg_logprob": -0.458
+  },
+  {
+    "start": 407.74,
+    "end": 409.74,
+    "text": "Eso es más bien desde un punto de vista de objetivos digitales.",
+    "avg_logprob": -0.458
+  },
+  {
+    "start": 410.56,
+    "end": 410.86,
+    "text": "Ok.",
+    "avg_logprob": -0.458
+  },
+  {
+    "start": 412.16,
+    "end": 423.5,
+    "text": "¿Qué pasa cuando tengo que contar que hay un nuevo producto?",
+    "avg_logprob": -0.338
+  },
+  {
+    "start": 424.72,
+    "end": 425.64,
+    "text": "El lanzamiento",
+    "avg_logprob": -0.338
+  },
+  {
+    "start": 425.64,
+    "end": 434.84,
+    "text": "¿Qué pasa si tengo que contar una oferta específica de un producto?",
+    "avg_logprob": -0.338
+  },
+  {
+    "start": 435.12,
+    "end": 435.68,
+    "text": "Producción",
+    "avg_logprob": -0.338
+  },
+  {
+    "start": 435.68,
+    "end": 448.88,
+    "text": "¿Qué pasa si una marca ya lanzó su producto",
+    "avg_logprob": -0.327
+  },
+  {
+    "start": 448.88,
+    "end": 451.24,
+    "text": "y entonces está tratando de mantenerla?",
+    "avg_logprob": -0.327
+  },
+  {
+    "start": 459.24,
+    "end": 460.6,
+    "text": "¿Ya lanzó el producto?",
+    "avg_logprob": -0.327
+  },
+  {
+    "start": 461.0,
+    "end": 461.68,
+    "text": "Mantenimiento.",
+    "avg_logprob": -0.327
+  },
+  {
+    "start": 463.28,
+    "end": 464.62,
+    "text": "¿Mantenimiento o sostenimiento?",
+    "avg_logprob": -0.327
+  },
+  {
+    "start": 465.68,
+    "end": 474.68,
+    "text": "¿Qué pasa cuando una marca va a estar reconfigurando algo dentro de su número?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 474.68,
+    "end": 475.68,
+    "text": "¿Cómo?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 475.68,
+    "end": 476.68,
+    "text": "Reactivación.",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 476.68,
+    "end": 477.68,
+    "text": "¿Puede ser?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 477.68,
+    "end": 478.68,
+    "text": "Reactivación en español.",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 478.68,
+    "end": 479.68,
+    "text": "¿O relanzamiento?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 479.68,
+    "end": 480.68,
+    "text": "¿Hay un problema?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 480.68,
+    "end": 481.68,
+    "text": "Por ejemplo, en una situación, especifican dentro del producto y tuvo que cambiar algo.",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 481.68,
+    "end": 482.68,
+    "text": "Ah bueno, hay que relanzar la marca, cambiarlo.",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 482.68,
+    "end": 483.68,
+    "text": "¿Qué pasa cuando una marca va a estar reconfigurando algo dentro de su número?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 483.68,
+    "end": 489.8,
+    "text": "Hay un problema, por ejemplo",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 489.8,
+    "end": 491.72,
+    "text": "En una situación, estamos especificando",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 491.72,
+    "end": 493.46,
+    "text": "Un producto y tuvo que cambiar algo",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 493.46,
+    "end": 495.24,
+    "text": "Ahora no hay que arreglar la marca, cambiar",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 495.24,
+    "end": 497.46,
+    "text": "Cambiar la marca, cambiar el producto, cambiar el diseño",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 497.46,
+    "end": 498.58,
+    "text": "Para que sea un buen trabajo",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 498.58,
+    "end": 502.08,
+    "text": "Posiblemente también puede llamarse un rebranding",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 502.08,
+    "end": 503.2,
+    "text": "Esas cosas también suceden",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 503.2,
+    "end": 505.88,
+    "text": "¿Vale?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 507.28,
+    "end": 508.26,
+    "text": "Nosotros tenemos que promocionar",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 508.26,
+    "end": 511.74,
+    "text": "Si es que se me olvida una",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 511.74,
+    "end": 513.28,
+    "text": "Pero creo que estamos completos",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 513.28,
+    "end": 533.12,
+    "text": "Yo tengo una pregunta para estar alineada con otra cosa, pero yo tenía entendido que la campaña era para una empresa de salud,",
+    "avg_logprob": -0.252
+  },
+  {
+    "start": 533.12,
+    "end": 542.94,
+    "text": "puede ser una campaña de prevención y promoción de algún tipo de medicamento o cosa, para",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 542.94,
+    "end": 548.84,
+    "text": "alguna enfermedad. Eso es una campaña también, ¿cierto? O eso, ¿qué es eso?",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 549.62,
+    "end": 552.8,
+    "text": "Sí, lo que pasa es que le llaman campaña, pero al final del caso termina siendo más",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 552.8,
+    "end": 557.34,
+    "text": "bien es un objetivo publicitario, más que otra cosa.",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 557.36,
+    "end": 561.14,
+    "text": "Entonces, ¿los tipos de campañas y los objetivos publicitarios son diferentes?",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 561.14,
+    "end": 563.36,
+    "text": "Sí, son diferentes, pero son distintos.",
+    "avg_logprob": -0.23
+  },
+  {
+    "start": 564.12,
+    "end": 567.98,
+    "text": "En el caso, estas son las campañas que al final usted puede llegar a plantear, ¿no?",
+    "avg_logprob": -0.23
+  },
+  {
+    "start": 567.98,
+    "end": 572.46,
+    "text": "En ese punto, pero resulta que lo que hay más bien son,",
+    "avg_logprob": -0.23
+  },
+  {
+    "start": 572.92,
+    "end": 583.78,
+    "text": "eso que estás hablando son posiblemente, podemos llamarlo como una tipología de estado de marco, por ejemplo.",
+    "avg_logprob": -0.23
+  },
+  {
+    "start": 584.24,
+    "end": 587.12,
+    "text": "¿Por qué te refieres a...? ¿Cuál fue la que hablaste?",
+    "avg_logprob": -0.23
+  },
+  {
+    "start": 587.12,
+    "end": 595.4,
+    "text": "hay una campaña de prevención",
+    "avg_logprob": -0.343
+  },
+  {
+    "start": 595.4,
+    "end": 596.76,
+    "text": "para",
+    "avg_logprob": -0.343
+  },
+  {
+    "start": 596.76,
+    "end": 598.88,
+    "text": "digamos ahorita el tema fuerte",
+    "avg_logprob": -0.343
+  },
+  {
+    "start": 598.88,
+    "end": 599.68,
+    "text": "es el cáncer de mama",
+    "avg_logprob": -0.343
+  },
+  {
+    "start": 600.0,
+    "end": 616.0,
+    "text": "Entonces, una campaña para que ciertas empresas puedan contratar servicios de entidad de salud para ir alla y hacerles una reunión para las mujeres y para los hombres para la prevencion de casos de mas.",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 616.0,
+    "end": 625.0,
+    "text": "Claro, pero eso es solo en el caso de prevencion, estamos hablando de una linea especifica pero de objetivo de mensaje, de objetivo de comunicacion.",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 625.0,
+    "end": 629.0,
+    "text": "Es mas como una brigada, no? No es mas como una brigada eso?",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 629.0,
+    "end": 633.62,
+    "text": "que utilice explicadas para responder a ese objetivo",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 633.62,
+    "end": 634.86,
+    "text": "sí, pero eso es un objetivo",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 634.86,
+    "end": 636.14,
+    "text": "de comunicación",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 636.14,
+    "end": 641.44,
+    "text": "prevenir, capacidad de prevención",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 641.44,
+    "end": 642.14,
+    "text": "para hacer tal cosa",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 642.14,
+    "end": 643.56,
+    "text": "de alguna forma está",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 643.56,
+    "end": 646.54,
+    "text": "hacia ese estilo",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 646.54,
+    "end": 648.88,
+    "text": "aquí estamos hablando de lo que se necesita",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 648.88,
+    "end": 650.82,
+    "text": "de alguna forma desarrollar",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 650.82,
+    "end": 652.9,
+    "text": "a nivel de comunicación",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 652.9,
+    "end": 654.62,
+    "text": "como tipología de campanas",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 654.62,
+    "end": 656.0,
+    "text": "bien, ok",
+    "avg_logprob": -0.184
+  },
+  {
+    "start": 656.0,
+    "end": 661.96,
+    "text": "y en el punto de vista de la ideación",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 661.96,
+    "end": 663.18,
+    "text": "que es lo que nos vamos a enfocar",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 663.18,
+    "end": 665.22,
+    "text": "en esta materia",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 665.22,
+    "end": 666.92,
+    "text": "lo que nos encontramos es",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 666.92,
+    "end": 669.32,
+    "text": "la manera en que",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 669.32,
+    "end": 671.52,
+    "text": "empiezo a hacer preguntas en el brief",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 671.52,
+    "end": 673.94,
+    "text": "y arrancamos con",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 673.94,
+    "end": 675.16,
+    "text": "reformular el problema",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 675.16,
+    "end": 677.42,
+    "text": "posiblemente me pueden decir",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 677.42,
+    "end": 679.76,
+    "text": "puede haber un problema específico planteado",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 679.76,
+    "end": 681.36,
+    "text": "en el brief diciéndome que",
+    "avg_logprob": -0.165
+  },
+  {
+    "start": 681.36,
+    "end": 686.88,
+    "text": "La marca no es",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 686.88,
+    "end": 687.82,
+    "text": "Reconocida",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 687.82,
+    "end": 690.04,
+    "text": "Como",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 690.04,
+    "end": 694.76,
+    "text": "Como un producto",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 694.76,
+    "end": 696.94,
+    "text": "Que aporte a la",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 696.94,
+    "end": 700.02,
+    "text": "Por ejemplo",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 700.02,
+    "end": 702.08,
+    "text": "Cambiemos",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 702.08,
+    "end": 704.14,
+    "text": "Desde el punto de vista textil",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 704.14,
+    "end": 706.74,
+    "text": "No es una marca reconocida",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 706.74,
+    "end": 708.02,
+    "text": "En los jóvenes",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 708.02,
+    "end": 709.06,
+    "text": "¿Vale?",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 709.4,
+    "end": 711.26,
+    "text": "Y le plantean una problemática de ese punto",
+    "avg_logprob": -0.251
+  },
+  {
+    "start": 711.26,
+    "end": 719.2,
+    "text": "entonces en ese caso estamos planteando desde un problema que seguramente une problemáticas de marca",
+    "avg_logprob": -0.242
+  },
+  {
+    "start": 719.2,
+    "end": 722.22,
+    "text": "con seguramente con la audiencia",
+    "avg_logprob": -0.242
+  },
+  {
+    "start": 722.22,
+    "end": 728.88,
+    "text": "la pregunta que uno se tiene que hacer después al validar el brief y al investigar un poco es",
+    "avg_logprob": -0.242
+  },
+  {
+    "start": 728.88,
+    "end": 733.54,
+    "text": "¿el problema es de identificación que tiene la marca?",
+    "avg_logprob": -0.242
+  },
+  {
+    "start": 733.54,
+    "end": 737.18,
+    "text": "¿de diferenciación con ese público?",
+    "avg_logprob": -0.242
+  },
+  {
+    "start": 737.18,
+    "end": 746.2,
+    "text": "Al releer el brief uno tiene que preguntarse cosas para saber si al final del caso ese es el problema que está teniendo la marca",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 746.2,
+    "end": 748.56,
+    "text": "Posiblemente tendré que reformularlo",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 748.56,
+    "end": 749.28,
+    "text": "¿Vale?",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 749.94,
+    "end": 753.86,
+    "text": "Eso hace parte del proceso en el cual uno trabaja en los briefs",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 753.86,
+    "end": 760.86,
+    "text": "Y precisamente ese pensamiento crítico es el que al final del caso se lo va a agradecer el cliente",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 761.66,
+    "end": 765.28,
+    "text": "Y usted tenga la capacidad de darse cuenta que al final del caso ese no es el problema",
+    "avg_logprob": -0.117
+  },
+  {
+    "start": 765.28,
+    "end": 768.44,
+    "text": "posiblemente el problema es que",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 768.44,
+    "end": 769.42,
+    "text": "pues marica el producto",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 769.42,
+    "end": 771.94,
+    "text": "no sé, si estamos hablando",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 771.94,
+    "end": 774.2,
+    "text": "de esa situación con respecto a un target",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 774.2,
+    "end": 776.22,
+    "text": "joven",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 776.22,
+    "end": 778.5,
+    "text": "posiblemente lo que podemos decir es que",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 778.5,
+    "end": 779.38,
+    "text": "hay un problema",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 779.38,
+    "end": 781.64,
+    "text": "de desarrollo de producto",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 781.64,
+    "end": 786.48,
+    "text": "o posiblemente lo que hay es",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 786.48,
+    "end": 790.14,
+    "text": "hablando de industria textil",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 790.14,
+    "end": 792.08,
+    "text": "una situación asociada a",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 792.08,
+    "end": 793.18,
+    "text": "desarrollo de innovación",
+    "avg_logprob": -0.204
+  },
+  {
+    "start": 793.18,
+    "end": 796.66,
+    "text": "que el producto no está respondiendo lo suficientemente bien",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 796.66,
+    "end": 798.12,
+    "text": "para las exigencias que tienen",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 798.12,
+    "end": 799.68,
+    "text": "una audiencia más joven",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 799.68,
+    "end": 802.8,
+    "text": "que a nivel de diseño no están terminando",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 802.8,
+    "end": 804.58,
+    "text": "y trabajando correctamente",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 804.58,
+    "end": 806.4,
+    "text": "para llegar a cautivar a esa audiencia",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 806.4,
+    "end": 808.66,
+    "text": "entonces al final",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 808.66,
+    "end": 810.22,
+    "text": "del caso, fíjense que el problema",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 810.22,
+    "end": 811.54,
+    "text": "empezó siendo",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 811.54,
+    "end": 814.62,
+    "text": "no conecto con los usuarios",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 814.62,
+    "end": 815.16,
+    "text": "más jóvenes",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 815.16,
+    "end": 818.86,
+    "text": "y después en la investigación, ustedes como asesores",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 818.86,
+    "end": 821.12,
+    "text": "y como esos profesionales",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 821.12,
+    "end": 822.62,
+    "text": "que consultores en",
+    "avg_logprob": -0.135
+  },
+  {
+    "start": 822.62,
+    "end": 823.8,
+    "text": "publicidad y marketing",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 823.8,
+    "end": 826.54,
+    "text": "pues al final del caso le hablan al cliente de una problemática",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 826.54,
+    "end": 828.48,
+    "text": "asociada a su problema interno",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 828.48,
+    "end": 829.56,
+    "text": "es un problema de producto",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 829.56,
+    "end": 832.8,
+    "text": "a eso me refiero y a eso nos referimos",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 832.8,
+    "end": 834.48,
+    "text": "con la constitución de un reformulamiento",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 834.48,
+    "end": 835.9,
+    "text": "del problema, porque",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 835.9,
+    "end": 838.64,
+    "text": "bueno, no siempre tendremos que",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 838.64,
+    "end": 840.52,
+    "text": "hacer una reformulación, tal vez ese es el problema",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 840.52,
+    "end": 842.6,
+    "text": "que tiene el cliente y ya está, pero resulta que",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 842.6,
+    "end": 844.26,
+    "text": "es por lo que al final del caso nos pagan",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 844.26,
+    "end": 847.0,
+    "text": "nos pagan para hacerle al cliente",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 847.0,
+    "end": 848.76,
+    "text": "hacer las preguntas",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 848.76,
+    "end": 850.38,
+    "text": "que son incómodas para entender al final",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 850.38,
+    "end": 851.64,
+    "text": "cuál es su verdadero problema",
+    "avg_logprob": -0.158
+  },
+  {
+    "start": 851.64,
+    "end": 853.9,
+    "text": "porque pues si usted sigue hablando",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 853.9,
+    "end": 854.94,
+    "text": "y sigue comunicando",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 854.94,
+    "end": 857.98,
+    "text": "el problema inicial que tiene que entenderse no es",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 857.98,
+    "end": 859.2,
+    "text": "pues está haciendo un pull",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 859.2,
+    "end": 860.58,
+    "text": "¿vale?",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 861.14,
+    "end": 863.32,
+    "text": "eso es al final el caso de lo que tendríamos que hacer",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 863.32,
+    "end": 864.24,
+    "text": "de esa reformulación",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 864.24,
+    "end": 867.36,
+    "text": "luego hay un proceso de ideación en el cual vamos a entrar",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 867.36,
+    "end": 869.26,
+    "text": "a la profundidad a entender ahora",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 869.26,
+    "end": 872.12,
+    "text": "y al final",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 872.12,
+    "end": 873.8,
+    "text": "lo que nos enfocaremos muy bien",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 873.8,
+    "end": 874.9,
+    "text": "tendrá que ver con",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 874.9,
+    "end": 877.76,
+    "text": "la conceptualización y es entender",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 877.76,
+    "end": 878.86,
+    "text": "la plataforma copy",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 878.86,
+    "end": 881.48,
+    "text": "el lenguaje y los medios que utilizaremos en eso",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 881.48,
+    "end": 887.72,
+    "text": "¿Vale? Y nos concentraremos en las próximas clases justamente en esta parte y en esta parte.",
+    "avg_logprob": -0.315
+  },
+  {
+    "start": 889.06,
+    "end": 890.54,
+    "text": "Porque hay mucha cortera que cortar.",
+    "avg_logprob": -0.315
+  },
+  {
+    "start": 891.48,
+    "end": 892.6,
+    "text": "Y es de ahí. ¿Vale?",
+    "avg_logprob": -0.315
+  },
+  {
+    "start": 894.1,
+    "end": 895.12,
+    "text": "¿Listos? ¿Dudas?",
+    "avg_logprob": -0.315
+  },
+  {
+    "start": 897.28,
+    "end": 897.92,
+    "text": "Entonces.",
+    "avg_logprob": -0.315
+  },
+  {
+    "start": 900.0,
+    "end": 921.0,
+    "text": "Cuando nos enfocamos justamente en esa parte de la ideacion, tenemos que pensar en una parte asociada a la manera en que podemos responder a esa problematica desde el punto de vista del mensaje, de la comunicacion, desde lo creativo.",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 921.0,
+    "end": 926.0,
+    "text": "Y entonces empezamos a ver cual puede llegar a ser la formula adecuada.",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 926.0,
+    "end": 931.24,
+    "text": "y se utilizan de alguna manera",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 931.24,
+    "end": 932.84,
+    "text": "en esa metodología que hablamos",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 932.84,
+    "end": 935.7,
+    "text": "con el fin de determinar ciertos pasos",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 935.7,
+    "end": 938.32,
+    "text": "una pizca de observación",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 938.32,
+    "end": 940.6,
+    "text": "unos mililitros de experiencia",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 940.6,
+    "end": 941.64,
+    "text": "y seguramente",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 941.64,
+    "end": 944.6,
+    "text": "un planteamiento asociado a la técnica",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 944.6,
+    "end": 947.56,
+    "text": "¿será que hay un orden?",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 948.34,
+    "end": 949.56,
+    "text": "¿ustedes consideran que hay un orden",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 949.56,
+    "end": 951.22,
+    "text": "o hay una cantidad específica",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 951.22,
+    "end": 953.34,
+    "text": "de esos ingredientes",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 953.34,
+    "end": 955.6,
+    "text": "para desarrollar",
+    "avg_logprob": -0.173
+  },
+  {
+    "start": 955.6,
+    "end": 958.92,
+    "text": "de un concepto creativo",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 958.92,
+    "end": 962.12,
+    "text": "de verdad valioso",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 962.12,
+    "end": 965.78,
+    "text": "de dar más experiencia",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 965.78,
+    "end": 967.46,
+    "text": "o más observación",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 967.46,
+    "end": 968.38,
+    "text": "o más técnica",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 968.38,
+    "end": 973.6,
+    "text": "digamos que se siente",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 973.6,
+    "end": 974.72,
+    "text": "que la experiencia",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 974.72,
+    "end": 976.88,
+    "text": "no puede dar mucho",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 976.88,
+    "end": 978.82,
+    "text": "soporte",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 978.82,
+    "end": 982.06,
+    "text": "a que una idea sea un poco más factible",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 982.06,
+    "end": 983.9,
+    "text": "pero también he conocido",
+    "avg_logprob": -0.255
+  },
+  {
+    "start": 983.9,
+    "end": 985.94,
+    "text": "casos de gente que está",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 985.94,
+    "end": 987.86,
+    "text": "iniciando y por lo mismo como que no está",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 987.86,
+    "end": 989.9,
+    "text": "tan sesgada y sin ideas mundiales",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 990.5,
+    "end": 992.36,
+    "text": "pero sí",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 992.36,
+    "end": 993.58,
+    "text": "creo que todo el mundo",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 993.58,
+    "end": 995.64,
+    "text": "experiencia, ya sea",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 995.64,
+    "end": 997.86,
+    "text": "en un campo chiquito, pero la debe",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 997.86,
+    "end": 999.32,
+    "text": "haber para tener un impacto",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 999.32,
+    "end": 1003.72,
+    "text": "si yo tuviera que",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 1003.72,
+    "end": 1005.36,
+    "text": "determinar a ojo",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 1005.36,
+    "end": 1008.06,
+    "text": "lo que se requiere",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 1008.06,
+    "end": 1009.66,
+    "text": "desde el punto de vista creativo",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 1009.66,
+    "end": 1011.58,
+    "text": "yo les diría que",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 1011.58,
+    "end": 1013.94,
+    "text": "lo que al final del caso",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1013.94,
+    "end": 1016.06,
+    "text": "termina sumando para esto",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1016.06,
+    "end": 1018.12,
+    "text": "más allá de toda esa buena",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1018.12,
+    "end": 1020.36,
+    "text": "y lo que define ese proceso",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1020.36,
+    "end": 1021.12,
+    "text": "de esta mezcla",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1021.12,
+    "end": 1023.46,
+    "text": "de la observación de la experiencia",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1023.46,
+    "end": 1024.98,
+    "text": "tiene que ver con la técnica",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1024.98,
+    "end": 1028.92,
+    "text": "yo puedo observar cosas interesantísimas",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1028.92,
+    "end": 1029.9,
+    "text": "en ser un astro",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1029.9,
+    "end": 1032.06,
+    "text": "extrañando cosas y insights",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1032.06,
+    "end": 1034.4,
+    "text": "en el caso si eso no lo puedo utilizar",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1034.4,
+    "end": 1035.94,
+    "text": "en la entrevista técnico",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1035.94,
+    "end": 1037.32,
+    "text": "con lo que estamos en este momento",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1037.32,
+    "end": 1039.4,
+    "text": "y metodológico con lo que estamos aprendiendo",
+    "avg_logprob": -0.185
+  },
+  {
+    "start": 1039.4,
+    "end": 1041.9,
+    "text": "va a ser muy lindo",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1041.9,
+    "end": 1043.62,
+    "text": "y ustedes son putas y todo, pero al final del caso",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1043.62,
+    "end": 1047.02,
+    "text": "no va a tener",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1047.02,
+    "end": 1050.14,
+    "text": "los resultados que se necesitan",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1050.14,
+    "end": 1050.98,
+    "text": "desde el punto de vista",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1050.98,
+    "end": 1052.78,
+    "text": "del negocio",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1052.78,
+    "end": 1055.22,
+    "text": "porque yo puedo tener una idea de puta madre",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1055.22,
+    "end": 1056.92,
+    "text": "pero si esa idea igual",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1056.92,
+    "end": 1058.86,
+    "text": "tampoco me da lo necesario",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1058.86,
+    "end": 1061.58,
+    "text": "o no me da las herramientas para poder vender ese producto",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1061.58,
+    "end": 1063.16,
+    "text": "pues en realidad",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1063.16,
+    "end": 1064.94,
+    "text": "si es muy lindo y todo, la campaña",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1064.94,
+    "end": 1066.44,
+    "text": "pero no me va a servir para nada",
+    "avg_logprob": -0.19
+  },
+  {
+    "start": 1066.44,
+    "end": 1074.02,
+    "text": "O, entendiendo que en publicidad, pues nosotros, la publicidad no necesariamente está hecha para meter",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1074.02,
+    "end": 1077.44,
+    "text": "Porque al final del caso hay un montón de variables adicionales a eso",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1077.44,
+    "end": 1080.14,
+    "text": "Y no, no, porque el Estado no puede cargar eso",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1080.14,
+    "end": 1083.22,
+    "text": "Pero al final del caso es la técnica la que me permite plantear",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1083.22,
+    "end": 1085.46,
+    "text": "Así que vamos a empezar, ya volvemos",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1085.46,
+    "end": 1091.26,
+    "text": "Vamos a empezar, en este caso tendrá que ver con la primera parte de la observación",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1091.26,
+    "end": 1095.42,
+    "text": "Amigos, ¿ustedes consideran que la observación es viral?",
+    "avg_logprob": -0.201
+  },
+  {
+    "start": 1096.44,
+    "end": 1126.42,
+    "text": "No, no.",
+    "avg_logprob": -0.489
+  },
+  {
+    "start": 1126.44,
+    "end": 1132.42,
+    "text": "por ahí. Y otra cosa es en verdad profundizar y escudriñar un poco más para encontrar",
+    "avg_logprob": -0.085
+  },
+  {
+    "start": 1132.42,
+    "end": 1140.66,
+    "text": "lo que necesito. Y al final del caso la observación está a partir de esos cinco sentidos. Pone",
+    "avg_logprob": -0.085
+  },
+  {
+    "start": 1140.66,
+    "end": 1144.3,
+    "text": "los cinco sentidos ahí, en ese planteamiento, en esa observación que usted está haciendo",
+    "avg_logprob": -0.085
+  },
+  {
+    "start": 1144.3,
+    "end": 1149.8,
+    "text": "de un entorno, de una problemática, de una situación, de una relación entre una persona",
+    "avg_logprob": -0.085
+  },
+  {
+    "start": 1149.8,
+    "end": 1158.56,
+    "text": "y un producto, la manera en que esa persona posiblemente la consume, la usa, o la forma",
+    "avg_logprob": -0.077
+  },
+  {
+    "start": 1158.56,
+    "end": 1164.02,
+    "text": "en la que también se comporta en ciertos entornos, eso va a ser clave para entender",
+    "avg_logprob": -0.077
+  },
+  {
+    "start": 1164.02,
+    "end": 1173.26,
+    "text": "y también me ayuda a perfilar un poco más a mi propia audiencia, con ciertos detalles",
+    "avg_logprob": -0.077
+  },
+  {
+    "start": 1173.26,
+    "end": 1175.54,
+    "text": "que me hacen justamente ver",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1175.54,
+    "end": 1177.46,
+    "text": "esas personas como pueden comportarse",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1177.46,
+    "end": 1179.88,
+    "text": "muy bien, excelente",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1179.88,
+    "end": 1183.12,
+    "text": "y como es",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1183.12,
+    "end": 1185.08,
+    "text": "reconocido en esta clase",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1185.08,
+    "end": 1186.0,
+    "text": "pues",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1186.0,
+    "end": 1188.48,
+    "text": "que nos lo diga el arte",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1188.48,
+    "end": 1194.68,
+    "text": "¿alguien reconoce esta",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1194.68,
+    "end": 1196.58,
+    "text": "este tríptico, esta pintura?",
+    "avg_logprob": -0.219
+  },
+  {
+    "start": 1200.0,
+    "end": 1227.0,
+    "text": "Bien, estan enfrente de lo que se llama el jardin de las delicias, un triptico, pintura, triptico porque esta dividido en tres partes, de un señor que se llama Jeronimus Bosch, esto se ha hecho en aproximadamente, ¿cuantos años hace que es?",
+    "avg_logprob": -0.365
+  },
+  {
+    "start": 1227.0,
+    "end": 1232.56,
+    "text": "Eso es el renacimiento, el renacimiento perdido, posiblemente, en 1600.",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1234.5,
+    "end": 1239.14,
+    "text": "Pero en primer caso, no, el momento es lo de menos.",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1240.4,
+    "end": 1242.98,
+    "text": "Lo interesante es cómo alguien en el año 1600,",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1242.98,
+    "end": 1244.56,
+    "text": "en los años 1600,",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1246.24,
+    "end": 1251.86,
+    "text": "se atreve a hacer un desarrollo de este tipo.",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1253.48,
+    "end": 1254.54,
+    "text": "¿Qué ven?",
+    "avg_logprob": -0.402
+  },
+  {
+    "start": 1257.0,
+    "end": 1262.98,
+    "text": "Sí, una vez que entre lo antiguo, lo que podría ser moderno en ese tiempo,",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1263.18,
+    "end": 1270.04,
+    "text": "y algo que se utiliza más que todo por las estructuras que permanen en la parte central,",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1270.66,
+    "end": 1274.96,
+    "text": "en donde están como esas estructuras en el agua,",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1274.96,
+    "end": 1277.96,
+    "text": "y se ven como súper fritas, súper...",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1279.28,
+    "end": 1282.58,
+    "text": "como un poco también alineadas, bastante alineadas.",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1283.98,
+    "end": 1284.2,
+    "text": "Ok.",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1286.0,
+    "end": 1286.64,
+    "text": "Interesante.",
+    "avg_logprob": -0.426
+  },
+  {
+    "start": 1287.0,
+    "end": 1290.4,
+    "text": "Yo veo como el cielo, la tierra y el infierno",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1290.4,
+    "end": 1293.08,
+    "text": "¿Se ve el cielo, tierra e infierno?",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1293.22,
+    "end": 1293.54,
+    "text": "Sí",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1293.54,
+    "end": 1294.66,
+    "text": "Ok",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1294.66,
+    "end": 1301.82,
+    "text": "Por aquí es, le puedo decir, por aquí está la creación",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1301.82,
+    "end": 1306.8,
+    "text": "Sí, con la creación, allá ya está la tierra desarrollada con todavía animales",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1306.8,
+    "end": 1308.42,
+    "text": "Y allá pues está el infierno",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1308.42,
+    "end": 1310.66,
+    "text": "Muy bien",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1310.66,
+    "end": 1312.14,
+    "text": "¿Qué más ves?",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1314.84,
+    "end": 1316.9,
+    "text": "¿Qué más podemos observar?",
+    "avg_logprob": -0.289
+  },
+  {
+    "start": 1317.0,
+    "end": 1320.14,
+    "text": "caos",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1320.14,
+    "end": 1322.18,
+    "text": "en la tierra",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1322.18,
+    "end": 1323.68,
+    "text": "en la tierra",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1323.68,
+    "end": 1326.86,
+    "text": "hay muchas huevonas",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1326.86,
+    "end": 1329.82,
+    "text": "hay muchas huevonas",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1329.82,
+    "end": 1333.82,
+    "text": "casi que son como",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1333.82,
+    "end": 1335.3,
+    "text": "es como abrumante",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1335.3,
+    "end": 1337.18,
+    "text": "las cosas que hacen",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1337.18,
+    "end": 1337.86,
+    "text": "mira",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1337.86,
+    "end": 1342.46,
+    "text": "si es algo del proceso de evolución",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1342.46,
+    "end": 1343.76,
+    "text": "también interesante",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1343.76,
+    "end": 1346.82,
+    "text": "desde el punto de vista dogmático",
+    "avg_logprob": -0.387
+  },
+  {
+    "start": 1346.82,
+    "end": 1349.96,
+    "text": "desde el dogma de la religión católica",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1349.96,
+    "end": 1351.6,
+    "text": "que nos habla de la creación",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1351.6,
+    "end": 1353.34,
+    "text": "del mundo creado",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1353.34,
+    "end": 1355.06,
+    "text": "después de los siete días",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1355.06,
+    "end": 1356.86,
+    "text": "y luego lo que termina",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1356.86,
+    "end": 1358.36,
+    "text": "pasando después",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1358.36,
+    "end": 1365.04,
+    "text": "Pienso también en los años en los que se hizo la pintura, como los religiosos que eran en ese momento también,",
+    "avg_logprob": -0.348
+  },
+  {
+    "start": 1365.94,
+    "end": 1373.94,
+    "text": "está muy presente, lo oscuro y lo típico y lo caótico desde la última imagen,",
+    "avg_logprob": -0.348
+  },
+  {
+    "start": 1373.94,
+    "end": 1381.86,
+    "text": "y siento que también, dado el contexto religioso de esa época, podría ser también como algo muy crítico,",
+    "avg_logprob": -0.348
+  },
+  {
+    "start": 1381.98,
+    "end": 1387.62,
+    "text": "digamos de, ah, si vas a llegar a Sicilia es como por el periódico.",
+    "avg_logprob": -0.348
+  },
+  {
+    "start": 1388.36,
+    "end": 1391.42,
+    "text": "hay un sentido de reflexión",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1391.42,
+    "end": 1408.94,
+    "text": "si, pareciera que aquí tenemos algo",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1408.94,
+    "end": 1410.16,
+    "text": "asociado a",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1410.16,
+    "end": 1411.92,
+    "text": "esa construcción de ese reino",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1411.92,
+    "end": 1413.6,
+    "text": "hay una cantidad de elementos",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1413.6,
+    "end": 1414.8,
+    "text": "super",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1414.8,
+    "end": 1417.4,
+    "text": "como",
+    "avg_logprob": -0.335
+  },
+  {
+    "start": 1417.4,
+    "end": 1419.84,
+    "text": "detallados específicos que tienen que ver",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1419.84,
+    "end": 1421.5,
+    "text": "justamente con ese",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1421.5,
+    "end": 1423.22,
+    "text": "tamaño simbólico",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1423.22,
+    "end": 1425.98,
+    "text": "granadas",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1425.98,
+    "end": 1427.6,
+    "text": "que hablan acerca de",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1427.6,
+    "end": 1429.62,
+    "text": "fruta",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1429.62,
+    "end": 1431.14,
+    "text": "en el caso que a mí me hablan",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1431.14,
+    "end": 1433.36,
+    "text": "acerca de la fecundidad",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1433.36,
+    "end": 1438.04,
+    "text": "elementos que se utilizaban en esos casos",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1438.04,
+    "end": 1439.4,
+    "text": "precisamente para tomar",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1439.4,
+    "end": 1440.96,
+    "text": "también vemos animales de todo tipo",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1440.96,
+    "end": 1442.72,
+    "text": "aquí hay cosas interesantes",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1442.72,
+    "end": 1444.76,
+    "text": "hay como aberraciones",
+    "avg_logprob": -0.243
+  },
+  {
+    "start": 1444.76,
+    "end": 1447.9,
+    "text": "o se fue ya viendo de acá",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1447.9,
+    "end": 1448.88,
+    "text": "que se fumó",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1448.88,
+    "end": 1449.7,
+    "text": "literal",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1449.7,
+    "end": 1452.1,
+    "text": "es un viaje",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1452.1,
+    "end": 1454.62,
+    "text": "es un viaje",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1454.62,
+    "end": 1455.22,
+    "text": "de puta",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1455.22,
+    "end": 1458.46,
+    "text": "también hay algo",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1458.46,
+    "end": 1459.24,
+    "text": "es que de acá",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1459.24,
+    "end": 1462.64,
+    "text": "también hay algo",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1462.64,
+    "end": 1463.42,
+    "text": "muy interesante",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1463.42,
+    "end": 1465.44,
+    "text": "es que",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1465.44,
+    "end": 1468.7,
+    "text": "si tú te fijas las personas de la parte",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1468.7,
+    "end": 1470.52,
+    "text": "inferior están",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1470.52,
+    "end": 1472.48,
+    "text": "desnudas, es la primera",
+    "avg_logprob": -0.483
+  },
+  {
+    "start": 1472.48,
+    "end": 1499.14,
+    "text": "Hay un montón de interpretaciones",
+    "avg_logprob": -0.514
+  },
+  {
+    "start": 1500.0,
+    "end": 1509.0,
+    "text": "Frente a otra obra, uno si se pusiera a mirar en detalle varias cosas, seguramente se va a encontrar vainas sumas.",
+    "avg_logprob": -0.272
+  },
+  {
+    "start": 1509.0,
+    "end": 1516.0,
+    "text": "Mi invitacion, si quieren, si pueden, en algun instante echen una mirada a ver lo que queria decir este man a profundidad.",
+    "avg_logprob": -0.272
+  },
+  {
+    "start": 1516.0,
+    "end": 1520.0,
+    "text": "El punto de la observacion tambien tiene que ver con enfocarnos.",
+    "avg_logprob": -0.272
+  },
+  {
+    "start": 1520.0,
+    "end": 1526.0,
+    "text": "Que pasa si uno se pone a mirar especificamente, por un momento, este pedazo del cuadro.",
+    "avg_logprob": -0.272
+  },
+  {
+    "start": 1526.0,
+    "end": 1528.96,
+    "text": "¿Qué hay?",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1530.28,
+    "end": 1531.22,
+    "text": "Aves",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1531.22,
+    "end": 1532.94,
+    "text": "Aves gigantes",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1532.94,
+    "end": 1535.22,
+    "text": "Incluso más grandes que las mismas personas",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1535.22,
+    "end": 1536.36,
+    "text": "Búhos",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1536.36,
+    "end": 1538.26,
+    "text": "Sí",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1538.26,
+    "end": 1539.44,
+    "text": "¿Dónde está el búho?",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1539.98,
+    "end": 1540.58,
+    "text": "Ah, ya lo vi",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1540.58,
+    "end": 1544.94,
+    "text": "Para el exterior muestra el tercer día",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1544.94,
+    "end": 1545.84,
+    "text": "La creación del momento",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1545.84,
+    "end": 1547.62,
+    "text": "Los grises como Dios creado en la esquina",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1547.62,
+    "end": 1550.06,
+    "text": "El izquierdo que se siente",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1550.06,
+    "end": 1551.98,
+    "text": "En el paraíso terrenal",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1551.98,
+    "end": 1554.38,
+    "text": "Con anillo y anillo",
+    "avg_logprob": -0.397
+  },
+  {
+    "start": 1554.38,
+    "end": 1565.38,
+    "text": "¿Qué se está imaginando el artista al poner aquí un casco de cristal?",
+    "avg_logprob": -0.378
+  },
+  {
+    "start": 1565.38,
+    "end": 1583.38,
+    "text": "Hay una persona específica de tez negra,",
+    "avg_logprob": -0.378
+  },
+  {
+    "start": 1584.38,
+    "end": 1586.78,
+    "text": "que entendamos que para esa época",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1586.78,
+    "end": 1588.7,
+    "text": "una persona de interés negra era",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1588.7,
+    "end": 1589.7,
+    "text": "¿esclava?",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1590.48,
+    "end": 1592.9,
+    "text": "sí, uno, posiblemente pero era completamente",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1592.9,
+    "end": 1594.64,
+    "text": "extraño, en el año 1600",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1594.64,
+    "end": 1596.8,
+    "text": "Europa, seguramente esto",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1596.8,
+    "end": 1597.42,
+    "text": "ocurrió",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1597.42,
+    "end": 1600.38,
+    "text": "se movía entre",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1600.38,
+    "end": 1601.36,
+    "text": "Viena y",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1601.36,
+    "end": 1604.78,
+    "text": "entre Viena y París",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1604.78,
+    "end": 1606.74,
+    "text": "y etcétera, personas sumamente extrañas",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1606.74,
+    "end": 1608.72,
+    "text": "el caso era la extrañeza que",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1608.72,
+    "end": 1610.48,
+    "text": "implica a esas personas, por aquí hay",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1610.48,
+    "end": 1611.58,
+    "text": "alguien como que",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1611.58,
+    "end": 1613.24,
+    "text": "con un paquicio, ¿no?",
+    "avg_logprob": -0.292
+  },
+  {
+    "start": 1613.24,
+    "end": 1615.62,
+    "text": "pasa una pelea",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1615.62,
+    "end": 1617.42,
+    "text": "por aquí esta gente está comiendo",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1617.42,
+    "end": 1618.32,
+    "text": "el fruto que le da",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1618.32,
+    "end": 1621.52,
+    "text": "un fruto negro",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1621.52,
+    "end": 1623.4,
+    "text": "y precisamente no se ven muy sanos",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1623.4,
+    "end": 1624.56,
+    "text": "que se vean",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1624.56,
+    "end": 1634.36,
+    "text": "por aquí está este man de quejo",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1634.36,
+    "end": 1634.76,
+    "text": "por allá",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1634.76,
+    "end": 1637.04,
+    "text": "hay un ratón",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1637.04,
+    "end": 1640.14,
+    "text": "metidos en este lugar",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1640.14,
+    "end": 1642.6,
+    "text": "y eso es una persona",
+    "avg_logprob": -0.345
+  },
+  {
+    "start": 1642.6,
+    "end": 1643.74,
+    "text": "abierta de patas",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1643.74,
+    "end": 1646.22,
+    "text": "y una persona al revés metida en el agua",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1646.22,
+    "end": 1649.08,
+    "text": "tapándose sus partes nobles",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1649.08,
+    "end": 1650.46,
+    "text": "con una bruta",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1650.46,
+    "end": 1651.84,
+    "text": "vale amigos",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1651.84,
+    "end": 1653.7,
+    "text": "al final del caso",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1653.7,
+    "end": 1656.34,
+    "text": "lo que al final del caso",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1656.34,
+    "end": 1658.58,
+    "text": "intentamos ver también con respecto a la observación",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1658.58,
+    "end": 1660.68,
+    "text": "es enfocarnos, porque cuando vemos una cosa",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1660.68,
+    "end": 1662.32,
+    "text": "que es gigante, al final del caso",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1662.32,
+    "end": 1663.82,
+    "text": "termina abrumándome y no entiendo",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1663.82,
+    "end": 1666.58,
+    "text": "y no entendemos lo que se determina",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1666.58,
+    "end": 1668.64,
+    "text": "por eso es necesario plantear",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1668.64,
+    "end": 1670.18,
+    "text": "un enfoque en especial",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 1670.18,
+    "end": 1673.4,
+    "text": "Específico para poder avanzar en este proceso de observación",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1673.4,
+    "end": 1674.0,
+    "text": "¿Listo?",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1674.64,
+    "end": 1674.84,
+    "text": "Ok",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1674.84,
+    "end": 1676.02,
+    "text": "Echen una mirada",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1676.02,
+    "end": 1680.04,
+    "text": "Solamente un tip, un detalle",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1680.04,
+    "end": 1683.06,
+    "text": "El amigo Leonardo DiCaprio",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1683.06,
+    "end": 1684.62,
+    "text": "Vivió toda su vida",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1684.62,
+    "end": 1685.46,
+    "text": "Con una",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1685.46,
+    "end": 1687.66,
+    "text": "En su juventud y muy jovencito",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1687.66,
+    "end": 1688.76,
+    "text": "Vivió con este tríptico",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1688.76,
+    "end": 1689.92,
+    "text": "Como el tríptico original",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1689.92,
+    "end": 1691.14,
+    "text": "Pero lo colgaba en su cuarto",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1691.14,
+    "end": 1692.66,
+    "text": "Y el peón no hacía sin obedecer a la juventud",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1692.66,
+    "end": 1693.3,
+    "text": "Todos los días",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1693.3,
+    "end": 1696.64,
+    "text": "Y le decidió simplemente empezar a estudiar",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1696.64,
+    "end": 1697.76,
+    "text": "Un poco más acerca de arte",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1697.76,
+    "end": 1700.08,
+    "text": "Algo le sirvió",
+    "avg_logprob": -0.208
+  },
+  {
+    "start": 1700.08,
+    "end": 1702.38,
+    "text": "¿vale? va a convertirse",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1702.38,
+    "end": 1704.52,
+    "text": "en el actor que soy",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1704.52,
+    "end": 1706.14,
+    "text": "y en la artista que termina siendo",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1706.14,
+    "end": 1708.02,
+    "text": "solamente un tipo",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1708.02,
+    "end": 1710.1,
+    "text": "de tache que nos trae el arte",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1710.1,
+    "end": 1712.4,
+    "text": "bien amigos, entonces entrando",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1712.4,
+    "end": 1714.6,
+    "text": "en la observación, entrando en la metodología",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1714.6,
+    "end": 1716.44,
+    "text": "y cambiando el caso como les decía",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1716.44,
+    "end": 1718.36,
+    "text": "y les prometí, esto es",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1718.36,
+    "end": 1719.96,
+    "text": "un tema de técnica y de metodología",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1719.96,
+    "end": 1721.86,
+    "text": "y la única forma en la cual podemos sumarle",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1721.86,
+    "end": 1724.24,
+    "text": "podemos hacer que nuestro proceso creativo sea",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1724.24,
+    "end": 1725.12,
+    "text": "en verdad",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1725.12,
+    "end": 1726.98,
+    "text": "maravilloso",
+    "avg_logprob": -0.212
+  },
+  {
+    "start": 1726.98,
+    "end": 1731.76,
+    "text": "hay cuatro elementos o cuatro procesos que debo construir",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1731.76,
+    "end": 1732.72,
+    "text": "dentro de la observación",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1732.72,
+    "end": 1735.4,
+    "text": "tendrá que ver con evaluar",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1735.4,
+    "end": 1737.5,
+    "text": "y es lo primero, lo primero que hicimos",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1737.5,
+    "end": 1740.1,
+    "text": "antes de enfocarnos, ¿qué vamos a observar?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1741.48,
+    "end": 1741.84,
+    "text": "¿listo?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1742.54,
+    "end": 1744.2,
+    "text": "¿cuál es el objetivo de la observación que voy a hacer?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1744.84,
+    "end": 1745.72,
+    "text": "¿a lo que me voy a dedicar?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1746.86,
+    "end": 1748.1,
+    "text": "yo empiezo a pensar aquí en el",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1748.1,
+    "end": 1749.7,
+    "text": "¿quién? pero empiezo a preguntarme",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1749.7,
+    "end": 1752.72,
+    "text": "¿de dónde? ¿de cuándo vamos a observar?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1753.06,
+    "end": 1753.4,
+    "text": "¿listo?",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1753.76,
+    "end": 1755.22,
+    "text": "lo que hayamos de observar, que sea necesario",
+    "avg_logprob": -0.211
+  },
+  {
+    "start": 1755.22,
+    "end": 1757.82,
+    "text": "Al final luego lo que yo vengo",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1757.82,
+    "end": 1760.28,
+    "text": "Después de esto es seleccionar lo importante",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1760.28,
+    "end": 1762.22,
+    "text": "Que hace parte del análisis",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1762.22,
+    "end": 1764.9,
+    "text": "Voy a encontrar con un montón de cosas",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1764.9,
+    "end": 1765.78,
+    "text": "Voy a encontrar con",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1765.78,
+    "end": 1767.62,
+    "text": "Como lo vimos allá atrás en la pintura",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1767.62,
+    "end": 1769.96,
+    "text": "Con gente desnuda, con gente negra",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1769.96,
+    "end": 1771.26,
+    "text": "Con gente comiendo de una fruta",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1771.26,
+    "end": 1772.84,
+    "text": "Con pájaros gigantes",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1772.84,
+    "end": 1776.04,
+    "text": "Con gente dando vueltas con el Jesucristo",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1776.04,
+    "end": 1778.2,
+    "text": "O Dios o lo que sea",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1778.2,
+    "end": 1779.42,
+    "text": "Y luego el infierno",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1779.42,
+    "end": 1781.88,
+    "text": "Tengo que hacer caso que",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1781.88,
+    "end": 1783.04,
+    "text": "Seleccionar lo importante",
+    "avg_logprob": -0.127
+  },
+  {
+    "start": 1783.04,
+    "end": 1785.76,
+    "text": "sería lo que voy a evaluar, lo que estoy determinando",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1785.76,
+    "end": 1787.2,
+    "text": "y que eso sea su referente",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1787.2,
+    "end": 1788.6,
+    "text": "y necesario para mi objetivo",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1788.6,
+    "end": 1789.4,
+    "text": "ok",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1789.4,
+    "end": 1792.22,
+    "text": "y tengo que registrar",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1792.22,
+    "end": 1794.96,
+    "text": "cuando observo, registro",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1794.96,
+    "end": 1795.82,
+    "text": "escribo",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1795.82,
+    "end": 1799.12,
+    "text": "fotografeo, hago video",
+    "avg_logprob": -0.24
+  },
+  {
+    "start": 1800.0,
+    "end": 1814.0,
+    "text": "Si estoy en un espacio en el cual determino y necesito ver un mapa para saber como es que la gente se mueve en ese espacio, pues hago un mapa para saber como la gente se mueve y que obstaculos estan dentro de ese punto.",
+    "avg_logprob": -0.17
+  },
+  {
+    "start": 1814.0,
+    "end": 1829.0,
+    "text": "Detalle especificamente lo que hago, lo que estoy observando para que luego me sirva para determinar las conclusiones, o incluso para determinar o analizar o enfocarme en lo que necesito.",
+    "avg_logprob": -0.17
+  },
+  {
+    "start": 1829.0,
+    "end": 1838.1,
+    "text": "Y conclusión de mirar el caso, pues es generar esas deducciones con el fin de cumplir o de definir ciertas hipótesis.",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1838.92,
+    "end": 1839.08,
+    "text": "¿Vale?",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1841.08,
+    "end": 1841.74,
+    "text": "Muy bien.",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1845.62,
+    "end": 1846.1,
+    "text": "Entonces.",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1851.44,
+    "end": 1853.66,
+    "text": "¿Se han visto esa película? Yo he visto esa película.",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1854.76,
+    "end": 1856.82,
+    "text": "¿Se llama Good Fells?",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1857.88,
+    "end": 1858.56,
+    "text": "Ah, sí.",
+    "avg_logprob": -0.45
+  },
+  {
+    "start": 1859.0,
+    "end": 1864.42,
+    "text": "Entonces, antes de verlo, apaguen",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1864.42,
+    "end": 1867.56,
+    "text": "Esto es lo primero que vamos a observar",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1867.56,
+    "end": 1870.8,
+    "text": "La interacción entre Henry y Karen",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1870.8,
+    "end": 1872.38,
+    "text": "Con su entorno",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1872.38,
+    "end": 1876.26,
+    "text": "Pénganse un poquito más para acá para que puedan",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1876.26,
+    "end": 1878.52,
+    "text": "Que pasen aquí para que puedan",
+    "avg_logprob": -0.341
+  },
+  {
+    "start": 1878.52,
+    "end": 1879.52,
+    "text": "Gracias.",
+    "avg_logprob": -0.358
+  },
+  {
+    "start": 1908.52,
+    "end": 1910.5,
+    "text": "es maravilloso",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1910.5,
+    "end": 1913.34,
+    "text": "y no solo entre las pelis",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1913.34,
+    "end": 1914.46,
+    "text": "también",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1914.46,
+    "end": 1917.06,
+    "text": "no nos cerremos a lo que hablamos en la primera clase",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1917.06,
+    "end": 1919.3,
+    "text": "la literatura, la música",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1919.3,
+    "end": 1922.96,
+    "text": "son cosas que son",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1922.96,
+    "end": 1924.42,
+    "text": "todo lo que sea arte",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1924.42,
+    "end": 1926.14,
+    "text": "lo que vemos es que a veces es cultura",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1926.14,
+    "end": 1929.64,
+    "text": "todas las áreas que puedan",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1929.64,
+    "end": 1931.84,
+    "text": "que les sirvan a ustedes",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1931.84,
+    "end": 1933.46,
+    "text": "para conectarse con esa inspiración",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1933.46,
+    "end": 1934.46,
+    "text": "adelante",
+    "avg_logprob": -0.244
+  },
+  {
+    "start": 1934.46,
+    "end": 1943.82,
+    "text": "Bien, les presento a",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1943.82,
+    "end": 1953.36,
+    "text": "Les presento a Henry y a Karen",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1953.36,
+    "end": 1955.24,
+    "text": "Son ellos dos, ya los van a poder ver bien",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1955.24,
+    "end": 1956.32,
+    "text": "¿Listo? Identifiquemos",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1956.32,
+    "end": 1957.08,
+    "text": "Ahora",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1957.08,
+    "end": 1960.78,
+    "text": "Justamente, como lo dice el ejercicio",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1960.78,
+    "end": 1961.82,
+    "text": "Echen un ojo",
+    "avg_logprob": -0.228
+  },
+  {
+    "start": 1961.82,
+    "end": 1965.54,
+    "text": "precisamente a la manera en que ellos interactúan con el entorno.",
+    "avg_logprob": -0.296
+  },
+  {
+    "start": 1966.04,
+    "end": 1966.26,
+    "text": "¿Listo?",
+    "avg_logprob": -0.296
+  },
+  {
+    "start": 1970.02,
+    "end": 1970.64,
+    "text": "Bueno.",
+    "avg_logprob": -0.296
+  },
+  {
+    "start": 1991.82,
+    "end": 1993.82,
+    "text": "¡Gracias!",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2021.82,
+    "end": 2023.82,
+    "text": "¡Gracias!",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 2051.82,
+    "end": 2053.82,
+    "text": "¡Gracias!",
+    "avg_logprob": -0.475
+  },
+  {
+    "start": 2081.82,
+    "end": 2111.8,
+    "text": "Gracias por ver el video.",
+    "avg_logprob": -0.542
+  },
+  {
+    "start": 2100.0,
+    "end": 2129.98,
+    "text": "Proceso creativo 2 del Politecnico Grancolombiano. Proceso creativo 2 del Politecnico Grancolombiano.",
+    "avg_logprob": -0.326
+  },
+  {
+    "start": 2130.0,
+    "end": 2136.74,
+    "text": "Y ahora, señoras y señores, el Coro de Habana es orgulloso de presentar al rey de los monolingües,",
+    "avg_logprob": -0.484
+  },
+  {
+    "start": 2137.46,
+    "end": 2138.38,
+    "text": "¡Many y Últimos!",
+    "avg_logprob": -0.484
+  },
+  {
+    "start": 2145.28,
+    "end": 2159.98,
+    "text": "¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien! ¡Muy bien!",
+    "avg_logprob": -0.484
+  },
+  {
+    "start": 2159.98,
+    "end": 2167.64,
+    "text": "Dinero, influencia, poder",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2167.64,
+    "end": 2169.34,
+    "text": "La época, ¿no?",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2169.34,
+    "end": 2174.28,
+    "text": "O sea, la época en donde transcurre todo eso",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2174.28,
+    "end": 2182.48,
+    "text": "Pareciera ser, no, no sé, pero pareciera ser tipo 1945, posguerra mundial o más o menos por esa época alrededor",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2182.48,
+    "end": 2186.58,
+    "text": "¿Estás de acuerdo con esa época? ¿Con el 45 o 50?",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2188.16,
+    "end": 2188.9,
+    "text": "No sé",
+    "avg_logprob": -0.265
+  },
+  {
+    "start": 2188.9,
+    "end": 2191.24,
+    "text": "no, no he visto la película, no sabría",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2191.24,
+    "end": 2197.74,
+    "text": "al inicio yo pensaba que eran pareja",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2197.74,
+    "end": 2199.0,
+    "text": "luego lo último",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2199.0,
+    "end": 2206.26,
+    "text": "a lo último ya la idea se me va",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2206.26,
+    "end": 2209.1,
+    "text": "porque pareciera que era la primera cita entre ellos dos",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2209.1,
+    "end": 2211.44,
+    "text": "porque hasta la chica, la vieja le pregunta",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2211.44,
+    "end": 2212.68,
+    "text": "¿a qué te dedicas?",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2212.68,
+    "end": 2216.32,
+    "text": "digamos que hay carisma por parte de la manía",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2216.32,
+    "end": 2218.82,
+    "text": "y como mucha incertidumbre por parte de la vieja",
+    "avg_logprob": -0.197
+  },
+  {
+    "start": 2218.82,
+    "end": 2222.02,
+    "text": "Siento que es una persona que está como muy alerta.",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2222.04,
+    "end": 2224.18,
+    "text": "Posiblemente su primera cita, ¿no?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2224.56,
+    "end": 2225.58,
+    "text": "O segunda.",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2226.32,
+    "end": 2229.8,
+    "text": "O por lo menos la primera vez que salen a la barra.",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2231.38,
+    "end": 2232.92,
+    "text": "¿Cómo apareces?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2233.62,
+    "end": 2234.5,
+    "text": "¿Qué era para estar ahí?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2235.5,
+    "end": 2235.94,
+    "text": "¿Quién?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2236.96,
+    "end": 2237.48,
+    "text": "Henry.",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2239.26,
+    "end": 2242.02,
+    "text": "Sí, Henry, al final del caso está en Levante, ¿sí o no?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2242.86,
+    "end": 2243.72,
+    "text": "¿Cómo Levante?",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2243.88,
+    "end": 2245.26,
+    "text": "El tipo está en la barra.",
+    "avg_logprob": -0.506
+  },
+  {
+    "start": 2245.26,
+    "end": 2250.84,
+    "text": "Era muy dañoso en efecto",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2250.84,
+    "end": 2256.54,
+    "text": "Hablamos justamente de la interacción con el entorno",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2256.54,
+    "end": 2258.16,
+    "text": "Si no, era lo que nos estábamos",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2258.16,
+    "end": 2259.78,
+    "text": "Bien",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2259.78,
+    "end": 2262.84,
+    "text": "Al final del caso también tenemos que entender",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2262.84,
+    "end": 2266.86,
+    "text": "Pues este público",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2266.86,
+    "end": 2267.76,
+    "text": "Y estas personas que",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2267.76,
+    "end": 2272.74,
+    "text": "¿A cuántas personas le entrega dinero a gente?",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2273.3,
+    "end": 2274.72,
+    "text": "Yo conté con unas 7",
+    "avg_logprob": -0.278
+  },
+  {
+    "start": 2274.72,
+    "end": 2280.76,
+    "text": "El valiente parking",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2280.76,
+    "end": 2282.82,
+    "text": "Al man que entró",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2282.82,
+    "end": 2283.6,
+    "text": "Fueron cuatro",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2283.6,
+    "end": 2286.08,
+    "text": "Ya después del man que entró",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2286.08,
+    "end": 2294.16,
+    "text": "Al man que le da",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2294.16,
+    "end": 2295.24,
+    "text": "Le paga",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2295.24,
+    "end": 2298.06,
+    "text": "Le cuida el carro",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2298.06,
+    "end": 2299.82,
+    "text": "Al man que le abre la puerta",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2299.82,
+    "end": 2302.12,
+    "text": "Ahora seguramente hay alguien más",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2302.12,
+    "end": 2303.34,
+    "text": "Por ahí en medio de la vuelta",
+    "avg_logprob": -0.303
+  },
+  {
+    "start": 2303.34,
+    "end": 2303.66,
+    "text": "¿Cómo?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2303.94,
+    "end": 2306.66,
+    "text": "Entre a alguno de la cocina con el que saluda de pronto.",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2306.78,
+    "end": 2307.68,
+    "text": "¿A alguno de la cocina?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2307.86,
+    "end": 2308.04,
+    "text": "Sí.",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2308.88,
+    "end": 2310.9,
+    "text": "¿A ya le da billetes que le acomoda la mesa?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2311.22,
+    "end": 2314.56,
+    "text": "A mitad del pasillo, antes de llegar a la cocina, también le da billetes.",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2314.56,
+    "end": 2315.48,
+    "text": "¿También le empieza a dar billetes?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2315.58,
+    "end": 2315.96,
+    "text": "¿Sí me entienden?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2316.08,
+    "end": 2317.1,
+    "text": "O sea, ¿cómo queda al final del caso?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2318.06,
+    "end": 2325.42,
+    "text": "Son detalles que al final del caso me permiten a mí entender ese personaje en qué.",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2327.66,
+    "end": 2329.46,
+    "text": "¿A él le dan los billetes o a su hermana le dan?",
+    "avg_logprob": -0.352
+  },
+  {
+    "start": 2329.46,
+    "end": 2332.74,
+    "text": "Bajito, bajito le digo",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2332.74,
+    "end": 2334.2,
+    "text": "Por lo menos a cinco de ellos",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2334.2,
+    "end": 2336.1,
+    "text": "Ya le fueron haciéndoles",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2336.1,
+    "end": 2338.06,
+    "text": "Rápido",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2338.06,
+    "end": 2339.08,
+    "text": "¿Vale?",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2341.2,
+    "end": 2341.48,
+    "text": "¿Entonces?",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2342.76,
+    "end": 2343.12,
+    "text": "Bien",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2343.12,
+    "end": 2350.06,
+    "text": "Había un montón de etnias",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2350.06,
+    "end": 2350.68,
+    "text": "¿Sí o no?",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2352.36,
+    "end": 2353.5,
+    "text": "Un montón de personas",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2353.5,
+    "end": 2355.86,
+    "text": "De esas etnias que se encontraron",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2355.86,
+    "end": 2359.4,
+    "text": "¿Qué etnias había?",
+    "avg_logprob": -0.354
+  },
+  {
+    "start": 2359.46,
+    "end": 2363.3,
+    "text": "¿Qué pasas?",
+    "avg_logprob": -0.736
+  },
+  {
+    "start": 2364.58,
+    "end": 2365.4,
+    "text": "¿Están ahí, no?",
+    "avg_logprob": -0.736
+  },
+  {
+    "start": 2367.02,
+    "end": 2367.82,
+    "text": "¿Asiáticos?",
+    "avg_logprob": -0.736
+  },
+  {
+    "start": 2369.08,
+    "end": 2369.88,
+    "text": "¿Asiáticos?",
+    "avg_logprob": -0.736
+  },
+  {
+    "start": 2369.88,
+    "end": 2369.96,
+    "text": "¿Asiáticos?",
+    "avg_logprob": -0.736
+  },
+  {
+    "start": 2369.96,
+    "end": 2389.5,
+    "text": "Empezamos a ver un poco de gente",
+    "avg_logprob": -0.76
+  },
+  {
+    "start": 2389.5,
+    "end": 2395.72,
+    "text": "Chinos, japoneses",
+    "avg_logprob": -0.76
+  },
+  {
+    "start": 2395.72,
+    "end": 2396.72,
+    "text": "Gracias.",
+    "avg_logprob": -0.697
+  },
+  {
+    "start": 2400.0,
+    "end": 2429.0,
+    "text": "Proceso ambiental, latinoamericano, seguramente hay italianos de por medio, en la cocina, si en la cocina hay italianos, otros chavizos, hay un monton de ambientales y hay un monton de latinos ahi metidos en todo este proceso, entonces es importante entender las personas que se estan relacionando con este mani, vale?",
+    "avg_logprob": -0.503
+  },
+  {
+    "start": 2430.0,
+    "end": 2431.3,
+    "text": "la gente que está alrededor",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2431.3,
+    "end": 2433.4,
+    "text": "y es del punto en el que se relacionan",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2433.4,
+    "end": 2435.82,
+    "text": "porque esas etnias no están allá",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2435.82,
+    "end": 2436.78,
+    "text": "en el",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2436.78,
+    "end": 2439.28,
+    "text": "en la obra",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2439.28,
+    "end": 2441.24,
+    "text": "y en la parte más cómoda",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2441.24,
+    "end": 2442.92,
+    "text": "sino que están en la parte donde les toca",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2442.92,
+    "end": 2445.34,
+    "text": "esto es otro contexto que hay que entender",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2445.34,
+    "end": 2447.44,
+    "text": "seguramente, exacto",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2447.44,
+    "end": 2448.82,
+    "text": "hay un contexto social asociado ahí",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2448.82,
+    "end": 2450.44,
+    "text": "hay una jerarquía social determinada",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2450.44,
+    "end": 2452.36,
+    "text": "y es este tipo que al final del caso",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2452.36,
+    "end": 2455.36,
+    "text": "entra por detrás",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2455.36,
+    "end": 2457.86,
+    "text": "entra por la puerta de atrás",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2457.86,
+    "end": 2459.92,
+    "text": "eso es asociado",
+    "avg_logprob": -0.205
+  },
+  {
+    "start": 2459.92,
+    "end": 2461.76,
+    "text": "una costumbre",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2461.76,
+    "end": 2463.9,
+    "text": "que se quedó viva",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2463.9,
+    "end": 2466.18,
+    "text": "para ciertas",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2466.18,
+    "end": 2467.92,
+    "text": "personas después de la prohibición",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2467.92,
+    "end": 2468.4,
+    "text": "del 30",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2468.4,
+    "end": 2472.22,
+    "text": "en Estados Unidos usted no podía",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2472.22,
+    "end": 2472.88,
+    "text": "vender trago",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2472.88,
+    "end": 2475.8,
+    "text": "estaba prohibido vender trago",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2475.8,
+    "end": 2477.82,
+    "text": "ni whisky, ni alcohol",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2477.82,
+    "end": 2479.34,
+    "text": "nada de alcohol, absolutamente nada",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2479.34,
+    "end": 2481.74,
+    "text": "entonces como hace la gente para divertirse en teoría",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2481.74,
+    "end": 2483.7,
+    "text": "pues en los restaurantes que no vendían",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2483.7,
+    "end": 2485.62,
+    "text": "usted entraba por la puerta de atrás",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2485.62,
+    "end": 2487.94,
+    "text": "y entraba directamente a la cocina",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2487.94,
+    "end": 2489.84,
+    "text": "y luego entraba a unos espacios",
+    "avg_logprob": -0.132
+  },
+  {
+    "start": 2489.84,
+    "end": 2491.94,
+    "text": "más privados en los cuales si le venden a usted",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2491.94,
+    "end": 2494.38,
+    "text": "es como un poco",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2494.38,
+    "end": 2495.48,
+    "text": "lo que se llama hoy",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2495.48,
+    "end": 2498.08,
+    "text": "esos espacios",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2498.08,
+    "end": 2500.1,
+    "text": "como específicos",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2500.1,
+    "end": 2501.52,
+    "text": "donde esas cosas sucedían",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2501.52,
+    "end": 2503.9,
+    "text": "y así funciona y se mantiene acá para ciertos",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2503.9,
+    "end": 2505.98,
+    "text": "y ya veremos para qué tipo de",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2505.98,
+    "end": 2507.96,
+    "text": "personas o de la sociedad",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2507.96,
+    "end": 2508.88,
+    "text": "están a ese incluido",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2508.88,
+    "end": 2514.1,
+    "text": "¿a quién presentan en el Copocaba?",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2515.56,
+    "end": 2516.9,
+    "text": "a un comediante",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2516.9,
+    "end": 2518.56,
+    "text": "¿cómo se llama?",
+    "avg_logprob": -0.283
+  },
+  {
+    "start": 2519.84,
+    "end": 2521.18,
+    "text": "¿Henry? ¿Henry qué?",
+    "avg_logprob": -0.523
+  },
+  {
+    "start": 2529.44,
+    "end": 2531.14,
+    "text": "Espérate, yo raro escucho, ¿sí o no?",
+    "avg_logprob": -0.523
+  },
+  {
+    "start": 2533.3,
+    "end": 2536.14,
+    "text": "Aquí está mi tío Henry...",
+    "avg_logprob": -0.523
+  },
+  {
+    "start": 2536.14,
+    "end": 2537.24,
+    "text": "No lo sé.",
+    "avg_logprob": -0.523
+  },
+  {
+    "start": 2538.5,
+    "end": 2539.54,
+    "text": "Es nosotros.",
+    "avg_logprob": -0.523
+  },
+  {
+    "start": 2549.84,
+    "end": 2552.4,
+    "text": "No se siente bien la construcción.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2552.88,
+    "end": 2554.26,
+    "text": "No, no se siente bien la construcción.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2555.76,
+    "end": 2561.56,
+    "text": "Y ahora, señoras y señores, el Código de la Manipulación está dispuesto a presentar a los reyes de la Línea 1.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2562.52,
+    "end": 2562.8,
+    "text": "¡Hey!",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2563.28,
+    "end": 2563.84,
+    "text": "Youngman.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2564.34,
+    "end": 2564.7,
+    "text": "Youngman.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2564.7,
+    "end": 2566.14,
+    "text": "Ok. Youngman.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2566.52,
+    "end": 2566.62,
+    "text": "Ok.",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2566.92,
+    "end": 2573.66,
+    "text": "También por parte de Man puede haber cierto nivel de manipulación, ¿no?",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2574.06,
+    "end": 2579.26,
+    "text": "Porque pues esa facilidad con la que vaya Dios a saber si es obrero, o sea, si trabaja en la construcción,",
+    "avg_logprob": -0.547
+  },
+  {
+    "start": 2579.26,
+    "end": 2580.86,
+    "text": "por esa facilidad con la que miente",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2580.86,
+    "end": 2583.0,
+    "text": "vamos a revisar",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2583.0,
+    "end": 2583.78,
+    "text": "la siguiente",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2583.78,
+    "end": 2586.96,
+    "text": "¿hay un coctelero en la cocina?",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2587.98,
+    "end": 2589.64,
+    "text": "¿hay alguien que haga cocteles en la cocina?",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2590.38,
+    "end": 2590.66,
+    "text": "no",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2590.66,
+    "end": 2591.56,
+    "text": "seguro que no",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2591.56,
+    "end": 2594.7,
+    "text": "¿seguro?",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2595.8,
+    "end": 2596.7,
+    "text": "por eso le digo",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2596.7,
+    "end": 2600.36,
+    "text": "posiblemente puede haber un coctelero en la cocina",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2600.36,
+    "end": 2601.46,
+    "text": "y si hay alguien que está ahí",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2601.46,
+    "end": 2602.78,
+    "text": "sacando algunas cosas",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2602.78,
+    "end": 2604.38,
+    "text": "dentro de ese punto",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2604.38,
+    "end": 2607.42,
+    "text": "¿cómo es el vestido de la primera mujer que saluda a Henry?",
+    "avg_logprob": -0.313
+  },
+  {
+    "start": 2609.26,
+    "end": 2614.88,
+    "text": "Ahí con vestido negro",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2614.88,
+    "end": 2617.32,
+    "text": "Creo que está como por acá",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2617.32,
+    "end": 2622.48,
+    "text": "La primera mujer",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2622.48,
+    "end": 2623.52,
+    "text": "Ok",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2623.52,
+    "end": 2637.82,
+    "text": "Negro con unos espolitos",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2637.82,
+    "end": 2639.02,
+    "text": "Blancos",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 2639.02,
+    "end": 2645.92,
+    "text": "Al final del caso, lo que termina haciendo eso es",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2645.92,
+    "end": 2648.54,
+    "text": "determinarlo también usted en dónde se encuentra,",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2648.76,
+    "end": 2649.38,
+    "text": "qué está viendo,",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2649.92,
+    "end": 2653.18,
+    "text": "cómo le puede servir eso al final como punto de información",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2653.18,
+    "end": 2654.52,
+    "text": "o como punto clave.",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2656.52,
+    "end": 2659.7,
+    "text": "¿Quién le invita a una botella a Henry y a Karen?",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2660.26,
+    "end": 2661.1,
+    "text": "¿Quién es el señor?",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2661.9,
+    "end": 2662.72,
+    "text": "¿Señor Tony?",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2663.12,
+    "end": 2663.78,
+    "text": "¿Don Tony?",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2664.94,
+    "end": 2665.88,
+    "text": "¿Don Tony?",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2666.38,
+    "end": 2667.54,
+    "text": "Que por acá llegue y le dice,",
+    "avg_logprob": -0.391
+  },
+  {
+    "start": 2667.54,
+    "end": 2669.06,
+    "text": "Uy amigo, ¿qué le mandan?",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2672.92,
+    "end": 2674.16,
+    "text": "Muchas gracias Tony",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2674.16,
+    "end": 2675.46,
+    "text": "El señor que está de otro lado",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2675.46,
+    "end": 2677.26,
+    "text": "Otros cinco manes allá que lo saludan",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2677.26,
+    "end": 2678.42,
+    "text": "Diciéndole bienvenido",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2678.42,
+    "end": 2681.46,
+    "text": "Ya nos podemos ir haciendo una idea",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2681.46,
+    "end": 2683.74,
+    "text": "De lo que este personaje representa",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2683.74,
+    "end": 2684.82,
+    "text": "Bien",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2684.82,
+    "end": 2687.24,
+    "text": "Vamos a ver en detalle qué es lo que hay",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2687.24,
+    "end": 2688.96,
+    "text": "Y qué es lo que vemos en este momento",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2688.96,
+    "end": 2690.72,
+    "text": "Muy bien",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2690.72,
+    "end": 2694.84,
+    "text": "Que ya estábamos evaluando",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2694.84,
+    "end": 2696.8,
+    "text": "Y que estábamos observando la interacción de Henry y Karen",
+    "avg_logprob": -0.247
+  },
+  {
+    "start": 2696.8,
+    "end": 2697.56,
+    "text": "con su intervención",
+    "avg_logprob": -0.419
+  },
+  {
+    "start": 2700.0,
+    "end": 2718.0,
+    "text": "Hay cosas como, Henry, posiblemente no es un obrero, es seguramente un aspirante a mafioso, ok, y no es un mafioso, porque no sera un mafioso o no determinamos que es un mafioso consagrado?",
+    "avg_logprob": -0.314
+  },
+  {
+    "start": 2718.0,
+    "end": 2722.1,
+    "text": "¿Cómo sabéis eso?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2722.1,
+    "end": 2730.92,
+    "text": "¿Cómo se diría con escobetas, con las personas mafiosas, con los amigos mafiosos?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2731.64,
+    "end": 2733.38,
+    "text": "Ok, ese puede ser un punto. ¿Algo más?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2734.24,
+    "end": 2734.74,
+    "text": "¿Qué haría?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2735.26,
+    "end": 2736.56,
+    "text": "¿No creería en eso?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2737.12,
+    "end": 2738.34,
+    "text": "¿Qué haría por lo menos?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2738.34,
+    "end": 2740.52,
+    "text": "¿Tendría una mesa ya como apartada?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2740.52,
+    "end": 2740.62,
+    "text": "¿Qué puede estar?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2740.62,
+    "end": 2743.22,
+    "text": "¿No les tiene un... o sea, le hago como una mesa?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2743.32,
+    "end": 2743.78,
+    "text": "¿La una mesa?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2743.78,
+    "end": 2744.34,
+    "text": "¿La otra mesa?",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2744.58,
+    "end": 2744.8,
+    "text": "Ok.",
+    "avg_logprob": -0.634
+  },
+  {
+    "start": 2744.8,
+    "end": 2754.18,
+    "text": "¿Algún otro rasgo de Henry que lo hace ver como un aspirante, más que un mafioso consagrado?",
+    "avg_logprob": -0.186
+  },
+  {
+    "start": 2755.12,
+    "end": 2765.84,
+    "text": "Busca protagonismo, no sé, que lo vean, o sea, como ese afán de ser dadivoso a propósito como para que lo reconozcan.",
+    "avg_logprob": -0.186
+  },
+  {
+    "start": 2765.84,
+    "end": 2770.02,
+    "text": "es una boleta",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2770.02,
+    "end": 2772.36,
+    "text": "es una boleta",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2772.36,
+    "end": 2774.06,
+    "text": "se entra por atrás",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2774.06,
+    "end": 2776.16,
+    "text": "haciéndose el malo",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2776.16,
+    "end": 2777.58,
+    "text": "haciéndose el putas",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2777.58,
+    "end": 2779.64,
+    "text": "mostrándole a ella que tiene todo el poder del caso",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2779.64,
+    "end": 2782.18,
+    "text": "pero al final está llamando la atención de todo el mundo",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2782.18,
+    "end": 2784.38,
+    "text": "también en el caso quiere que lo vean",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2784.38,
+    "end": 2785.66,
+    "text": "un mafioso de verdad",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2785.66,
+    "end": 2788.22,
+    "text": "sabe que en el caso que",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2788.22,
+    "end": 2789.42,
+    "text": "entre menos lo vean",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2789.42,
+    "end": 2790.08,
+    "text": "mejor",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2790.08,
+    "end": 2793.74,
+    "text": "bien posiblemente voy a llegar a tener unos 28 años",
+    "avg_logprob": -0.207
+  },
+  {
+    "start": 2793.74,
+    "end": 2796.36,
+    "text": "fíjese que empiezo a detallar algunos demográficos",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2796.36,
+    "end": 2797.92,
+    "text": "es un tipo impetuoso",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2797.92,
+    "end": 2799.66,
+    "text": "pero así mismo también",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2799.66,
+    "end": 2800.84,
+    "text": "marca esa",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2800.84,
+    "end": 2804.2,
+    "text": "marca ese impetu",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2804.2,
+    "end": 2805.92,
+    "text": "a partir de cierta",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2805.92,
+    "end": 2808.16,
+    "text": "gracia, un tipo que cae",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2808.16,
+    "end": 2810.24,
+    "text": "bien, que hace chachistes",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2810.24,
+    "end": 2811.92,
+    "text": "los veo todas las noches, ¿no? ¿qué cosa?",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2812.08,
+    "end": 2813.86,
+    "text": "trabajen, ¿sí?",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2814.72,
+    "end": 2815.9,
+    "text": "el tipo tiende a tener",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2815.9,
+    "end": 2817.62,
+    "text": "como ese charme, ese",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2817.62,
+    "end": 2820.0,
+    "text": "espíritu ahí como para conectar con la gente",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2820.0,
+    "end": 2821.98,
+    "text": "es un tipo divertido, tiende a ser",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2821.98,
+    "end": 2822.88,
+    "text": "algo amistoso también",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 2822.88,
+    "end": 2825.32,
+    "text": "pues saluda a todos, así como estás",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2825.32,
+    "end": 2826.66,
+    "text": "saluda al camarero",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2826.66,
+    "end": 2829.68,
+    "text": "el tipo al final del caso tiene ese punto",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2829.68,
+    "end": 2831.8,
+    "text": "y quiere ser justamente el centro",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2831.8,
+    "end": 2832.4,
+    "text": "de las miradas",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2832.4,
+    "end": 2834.98,
+    "text": "Karen",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2834.98,
+    "end": 2837.52,
+    "text": "24 años",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2837.52,
+    "end": 2839.48,
+    "text": "estudiante de psicología",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2839.48,
+    "end": 2841.64,
+    "text": "lo único que le dicen a la verdad",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2841.64,
+    "end": 2844.82,
+    "text": "es una chica amable",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2844.82,
+    "end": 2849.58,
+    "text": "que definitivamente disfruta lo que está viendo",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2849.58,
+    "end": 2850.66,
+    "text": "o no, que no lo disfruta",
+    "avg_logprob": -0.25
+  },
+  {
+    "start": 2850.66,
+    "end": 2856.54,
+    "text": "ella disfruta",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2856.54,
+    "end": 2858.28,
+    "text": "de los tipos adelantes, es lo que está viviendo",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2858.28,
+    "end": 2860.16,
+    "text": "con este man, ella sabe y se siente",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2860.16,
+    "end": 2862.2,
+    "text": "alrededor de Henry como",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2862.2,
+    "end": 2863.96,
+    "text": "Mánica me está poniendo en un pedestal",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2863.96,
+    "end": 2865.4,
+    "text": "¿quién es este tipo?",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2866.88,
+    "end": 2868.04,
+    "text": "Henry sabe que a ella le gusta",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2868.04,
+    "end": 2869.7,
+    "text": "pero evidentemente la niña",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2869.7,
+    "end": 2871.64,
+    "text": "no es idiota",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2871.64,
+    "end": 2873.88,
+    "text": "porque le hace una pregunta específica",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2873.88,
+    "end": 2874.2,
+    "text": "¿cuál es?",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2874.94,
+    "end": 2878.36,
+    "text": "¿en qué trabaja?",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2878.44,
+    "end": 2879.06,
+    "text": "¿cuál es un tan raro?",
+    "avg_logprob": -0.264
+  },
+  {
+    "start": 2879.06,
+    "end": 2886.54,
+    "text": "Pero lo reafirma, ¿no?",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2886.74,
+    "end": 2888.88,
+    "text": "Porque luego lo vuelvo a cuestionar",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2888.88,
+    "end": 2889.92,
+    "text": "Con el tema de las manos",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2889.92,
+    "end": 2892.46,
+    "text": "La verdad quiere entender",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2892.46,
+    "end": 2894.62,
+    "text": "Ella quiere entender, pero al final del caso",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2894.62,
+    "end": 2896.5,
+    "text": "Está pasando bien",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2896.5,
+    "end": 2897.24,
+    "text": "Como una",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2897.24,
+    "end": 2900.26,
+    "text": "Esto pasa en New York",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2900.26,
+    "end": 2902.04,
+    "text": "En las calles de",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2902.04,
+    "end": 2904.38,
+    "text": "Calles de bares, restaurantes",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2904.38,
+    "end": 2904.92,
+    "text": "De esas zonas",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2904.92,
+    "end": 2907.78,
+    "text": "Y aproximadamente desde el 60 y el 65",
+    "avg_logprob": -0.217
+  },
+  {
+    "start": 2907.78,
+    "end": 2912.4,
+    "text": "Básicamente por los autos, básicamente por las investigaciones de la gente",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 2912.4,
+    "end": 2916.4,
+    "text": "Ahí nos podemos ir dando cuenta de esos puntos",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 2916.4,
+    "end": 2922.4,
+    "text": "Fíjense que lo que estamos extrayendo es de un pedazo que vimos específico",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 2922.4,
+    "end": 2922.96,
+    "text": "Pero la idea",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 2922.96,
+    "end": 2937.66,
+    "text": "Sí, claro, evalúas un poco lo que pasa",
+    "avg_logprob": -0.152
+  },
+  {
+    "start": 2937.66,
+    "end": 2939.26,
+    "text": "puede ser un poco más",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2939.26,
+    "end": 2941.8,
+    "text": "al final lo que digo es la interacción de Henry Cannon con su entorno",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2941.8,
+    "end": 2943.02,
+    "text": "pasa algo",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2943.02,
+    "end": 2944.76,
+    "text": "si hay una declaración",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2944.76,
+    "end": 2947.32,
+    "text": "del comediante",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2947.32,
+    "end": 2949.48,
+    "text": "con ellos, pues posiblemente lo puedo llegar a tocar",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2949.48,
+    "end": 2950.1,
+    "text": "pero si no",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2950.1,
+    "end": 2952.64,
+    "text": "son de esos datos que tú dices",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2952.64,
+    "end": 2955.22,
+    "text": "no me sirve para nada, pero posiblemente si me sirve",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2955.22,
+    "end": 2955.56,
+    "text": "¿de quién?",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2956.44,
+    "end": 2957.66,
+    "text": "¿de quién?",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2959.98,
+    "end": 2960.98,
+    "text": "el que le dio la botella",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2960.98,
+    "end": 2962.58,
+    "text": "¿Toni? ¿quién putas es ese man?",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2963.34,
+    "end": 2965.24,
+    "text": "¿qué putas que le da una botella a ese man?",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2965.62,
+    "end": 2967.12,
+    "text": "y también muy seguramente",
+    "avg_logprob": -0.268
+  },
+  {
+    "start": 2967.12,
+    "end": 2973.5,
+    "text": "Seguramente el otro tipo",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2973.5,
+    "end": 2974.76,
+    "text": "El tipo que lo vio",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2974.76,
+    "end": 2976.44,
+    "text": "El tipo estaba hablando y como que lo vio",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2976.44,
+    "end": 2978.62,
+    "text": "Y dijo, uy, mi mejor gente",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2978.62,
+    "end": 2980.46,
+    "text": "Viva para acá, le pongo una mesa",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2980.46,
+    "end": 2982.18,
+    "text": "Muchachos, aquí, asiento",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2982.18,
+    "end": 2983.96,
+    "text": "Para mi querido Henry",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2983.96,
+    "end": 2985.64,
+    "text": "Es otro personaje que se relaciona con él",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2985.64,
+    "end": 2987.64,
+    "text": "¿Cuál será la relación que tiene? De dependencia",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2987.64,
+    "end": 2988.7,
+    "text": "¿No?",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2990.16,
+    "end": 2993.06,
+    "text": "La que tiene Tony con Henry",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2993.06,
+    "end": 2995.38,
+    "text": "Posiblemente también tiene que ver con",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2995.38,
+    "end": 2996.52,
+    "text": "Negocios",
+    "avg_logprob": -0.254
+  },
+  {
+    "start": 2996.52,
+    "end": 2998.46,
+    "text": "con conexiones, ¿vale?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 2998.8,
+    "end": 2999.58,
+    "text": "¿Qué se está hablando acá?",
+    "avg_logprob": -0.431
+  },
+  {
+    "start": 3000.0,
+    "end": 3011.0,
+    "text": "Empezamos a analizar, empezamos a seleccionar lo importante. Henry se va relacionando casi, pues amablemente y muy familiar con los camareros. ¿Qué quiere decir eso?",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 3017.0,
+    "end": 3022.0,
+    "text": "¿Qué quiere decir que este man se está relacionando amablemente con esos camareros?",
+    "avg_logprob": -0.245
+  },
+  {
+    "start": 3022.0,
+    "end": 3029.92,
+    "text": "Es que todo el tiempo entra por ahí, o sea, que va muy constantemente y ya desde su familia probablemente salió de ahí.",
+    "avg_logprob": -0.294
+  },
+  {
+    "start": 3030.24,
+    "end": 3031.1,
+    "text": "Que es populista.",
+    "avg_logprob": -0.294
+  },
+  {
+    "start": 3033.7,
+    "end": 3036.12,
+    "text": "Sí, es un poco popular, claramente.",
+    "avg_logprob": -0.294
+  },
+  {
+    "start": 3041.2,
+    "end": 3042.4,
+    "text": "Probablemente sucio de ahí.",
+    "avg_logprob": -0.294
+  },
+  {
+    "start": 3044.02,
+    "end": 3049.48,
+    "text": "Ok, pudo haber sido el camarero de la zona, tal vez, tal vez sí, tal vez no.",
+    "avg_logprob": -0.294
+  },
+  {
+    "start": 3049.48,
+    "end": 3055.54,
+    "text": "pero si me pudiera preguntarme acerca de esa relación tan cercana con esos personajes es por qué, qué, a ver",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3055.54,
+    "end": 3056.72,
+    "text": "porque saben quién es el",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3056.72,
+    "end": 3057.66,
+    "text": "sí",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3057.66,
+    "end": 3060.72,
+    "text": "podría ser de pronto para",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3060.72,
+    "end": 3062.88,
+    "text": "pues yo me quiero ver con la hierba",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3062.88,
+    "end": 3065.72,
+    "text": "manteniendo una relación también de dependencia con este man",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3065.72,
+    "end": 3071.48,
+    "text": "y al final del caso la relación que planteé, que va planteando Henry con estas personas es",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3071.48,
+    "end": 3074.26,
+    "text": "sí, pero, ¿y qué más?",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3075.02,
+    "end": 3076.26,
+    "text": "relacionar mi estatus",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3076.26,
+    "end": 3077.06,
+    "text": "es que es como",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3077.06,
+    "end": 3077.64,
+    "text": "mi estatus",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 3077.64,
+    "end": 3100.18,
+    "text": "Es como el fenómeno, es un mal ejemplo, pero el fenómeno de Pablo Escobar que algunos lo ven como que ayudó a ciertos barrios y en su momento que ayudaba, que construía casas, que había un barrio, que no sé qué, y de cierta manera en su momento lo vieron como una persona que los ayudaba a pesar de que empezaron a llegar los rumores de lo demás.",
+    "avg_logprob": -0.083
+  },
+  {
+    "start": 3100.18,
+    "end": 3103.7,
+    "text": "yo siento que el malo que busca",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3103.7,
+    "end": 3105.08,
+    "text": "es como, venga",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3105.08,
+    "end": 3106.08,
+    "text": "en algún momento",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3106.08,
+    "end": 3109.5,
+    "text": "en algún momento usted va a necesitar",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3109.5,
+    "end": 3110.72,
+    "text": "un favor mío",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3110.72,
+    "end": 3111.78,
+    "text": "no sé, como",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3111.78,
+    "end": 3115.32,
+    "text": "claro, tiene que ver justamente con la manera",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3115.32,
+    "end": 3116.88,
+    "text": "en la que usted se relaciona con otros",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3116.88,
+    "end": 3119.02,
+    "text": "con el fin de algo, en ese caso",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3119.02,
+    "end": 3121.28,
+    "text": "ese tipo necesita que lo adulen y que lo atiendan",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3121.88,
+    "end": 3122.14,
+    "text": "¿no?",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3124.3,
+    "end": 3125.04,
+    "text": "muchas personas",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3125.04,
+    "end": 3126.3,
+    "text": "mucha gente que",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3126.3,
+    "end": 3128.66,
+    "text": "la confianza y las personas",
+    "avg_logprob": -0.203
+  },
+  {
+    "start": 3128.66,
+    "end": 3147.28,
+    "text": "pero también es como un tema de los que están a su nivel un mayor nivel es difícil que a mí",
+    "avg_logprob": -0.151
+  },
+  {
+    "start": 3147.28,
+    "end": 3155.84,
+    "text": "me alaben porque pues ya está en un estatus mayor que me queda pues como los rasos y venga",
+    "avg_logprob": -0.151
+  },
+  {
+    "start": 3155.84,
+    "end": 3158.56,
+    "text": "y me vendo esa de ellos y luego...",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3158.56,
+    "end": 3159.86,
+    "text": "Y eso justamente es lo que lo ponen",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3159.86,
+    "end": 3162.68,
+    "text": "en un aspirante. Eso es lo más...",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3162.68,
+    "end": 3164.1,
+    "text": "Porque si fuese otro, evidentemente",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3164.1,
+    "end": 3166.04,
+    "text": "no tendría todo ese show que está alrededor.",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3167.56,
+    "end": 3168.46,
+    "text": "Hay una actitud de pago",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3168.46,
+    "end": 3169.12,
+    "text": "a todos, ¿sí o no?",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3171.4,
+    "end": 3172.26,
+    "text": "Posiblemente es como pagar",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3172.26,
+    "end": 3172.76,
+    "text": "un peaje.",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3174.66,
+    "end": 3176.3,
+    "text": "Por la verdad, al final el tipo se gastó",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3176.3,
+    "end": 3176.66,
+    "text": "100 dólares.",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3177.52,
+    "end": 3179.24,
+    "text": "No sé cuánto vale la entrada en Copacabana.",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3180.9,
+    "end": 3181.96,
+    "text": "Pero casi 100 dólares",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3181.96,
+    "end": 3184.24,
+    "text": "es lo que el tipo entrega solamente para...",
+    "avg_logprob": -0.263
+  },
+  {
+    "start": 3184.24,
+    "end": 3189.66,
+    "text": "y al final de cuentas también está planteando",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3189.66,
+    "end": 3190.86,
+    "text": "una actitud sonriente",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3190.86,
+    "end": 3193.4,
+    "text": "algunos camareros se sorprenden por un invitado de la cocina",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3193.4,
+    "end": 3194.36,
+    "text": "no sé si le dieron cuenta",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3194.36,
+    "end": 3198.92,
+    "text": "bueno, pues se parte justamente",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3198.92,
+    "end": 3200.6,
+    "text": "como también de que",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3200.6,
+    "end": 3202.86,
+    "text": "no es una dinámica muy",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3202.86,
+    "end": 3204.6,
+    "text": "reconocida",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3204.6,
+    "end": 3207.12,
+    "text": "no es porque todo el tiempo un ejemplista entra todo",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3207.12,
+    "end": 3207.82,
+    "text": "por ahí",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3207.82,
+    "end": 3210.9,
+    "text": "posiblemente en esta oportunidad lo que hizo va a ser",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3210.9,
+    "end": 3212.82,
+    "text": "justamente para ponerse",
+    "avg_logprob": -0.221
+  },
+  {
+    "start": 3212.82,
+    "end": 3215.24,
+    "text": "y mostrarle, demostrar algo",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3215.24,
+    "end": 3217.52,
+    "text": "con esta doña con la que estaba",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3217.52,
+    "end": 3221.46,
+    "text": "hay varias",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3221.46,
+    "end": 3222.72,
+    "text": "setias trabajando en la cocina",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3222.72,
+    "end": 3224.58,
+    "text": "es lo que hablábamos un poco",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3224.58,
+    "end": 3226.14,
+    "text": "si me pongo a determinar eso",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3226.14,
+    "end": 3229.44,
+    "text": "habla posiblemente de la jerarquía que se está",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3229.44,
+    "end": 3230.04,
+    "text": "planteando acá",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3230.04,
+    "end": 3233.18,
+    "text": "y posiblemente hay un pastel, si vieron que estaban",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3233.18,
+    "end": 3233.82,
+    "text": "tirando un pastel",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3233.82,
+    "end": 3236.3,
+    "text": "posiblemente hay un cumpleaños",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3236.3,
+    "end": 3239.0,
+    "text": "algo van a celebrar",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3239.0,
+    "end": 3241.18,
+    "text": "entonces fíjense como empiezo a destacar",
+    "avg_logprob": -0.188
+  },
+  {
+    "start": 3241.18,
+    "end": 3243.2,
+    "text": "aquellas cosas que pueden llegar a ser interesantes",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3243.2,
+    "end": 3244.78,
+    "text": "y que luego me van a generar",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3244.78,
+    "end": 3245.86,
+    "text": "algo",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3245.86,
+    "end": 3249.64,
+    "text": "que plantear, a nivel del registro",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3249.64,
+    "end": 3251.2,
+    "text": "yo puedo levantar ciertos datos",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3251.2,
+    "end": 3252.86,
+    "text": "o ciertos temas",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3252.86,
+    "end": 3255.88,
+    "text": "frente a este punto",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3255.88,
+    "end": 3256.46,
+    "text": "yo podría",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3256.46,
+    "end": 3259.52,
+    "text": "en ese proceso ir viendo",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3259.52,
+    "end": 3261.78,
+    "text": "algunos fotogramas en los cuales veo a Henry",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3261.78,
+    "end": 3263.32,
+    "text": "veo a Karen, hay una sonrisa",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3263.32,
+    "end": 3265.86,
+    "text": "la persona que saludó",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3265.86,
+    "end": 3267.62,
+    "text": "el primero que le dio plata, el que estaba comiendo",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3267.62,
+    "end": 3269.98,
+    "text": "y le recibió algo de dinero",
+    "avg_logprob": -0.129
+  },
+  {
+    "start": 3269.98,
+    "end": 3272.14,
+    "text": "el mar que le puso la mesa, etcétera, etcétera",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3272.14,
+    "end": 3274.3,
+    "text": "yo puedo encontrarle todos esos detalles para apoyar",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3274.3,
+    "end": 3274.84,
+    "text": "justamente",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3274.84,
+    "end": 3278.2,
+    "text": "cosas a nivel del análisis o incluso",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3278.2,
+    "end": 3280.06,
+    "text": "conclusiones",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3280.06,
+    "end": 3281.92,
+    "text": "¿no? como las que vemos acá",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3281.92,
+    "end": 3284.2,
+    "text": "efectivamente el tipo es un conocido",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3284.2,
+    "end": 3284.94,
+    "text": "del Copacabana",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3284.94,
+    "end": 3288.4,
+    "text": "sí o sí, lo conocen porque si no no le ponen",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3288.4,
+    "end": 3288.98,
+    "text": "¿cierto?",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3290.06,
+    "end": 3292.18,
+    "text": "hay negocios que están plátanos en el bar, ¿cierto?",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3293.0,
+    "end": 3294.2,
+    "text": "o con las personas",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3294.2,
+    "end": 3295.14,
+    "text": "que están a su alrededor",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3295.14,
+    "end": 3298.04,
+    "text": "no va a ser en una botella de la nada",
+    "avg_logprob": -0.233
+  },
+  {
+    "start": 3298.04,
+    "end": 3299.04,
+    "text": "Gracias.",
+    "avg_logprob": -0.527
+  },
+  {
+    "start": 3300.0,
+    "end": 3330.0,
+    "text": "Empiezo a desmayar justamente esos elementos que evidentemente Henry se esta levantando a Karen, fue lo primero que vimos, por supuesto, es la primera cita, y la quiso sorprender con una velada que es completamente perfecta, para que ella vea lo importante que es el mal, y así termina siendo encantada de salir con el personaje, aunque ella en su cabeza se pregunte, eso esta muy raro,",
+    "avg_logprob": -0.213
+  },
+  {
+    "start": 3330.0,
+    "end": 3336.1,
+    "text": "y el tipo al final del caso",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3336.1,
+    "end": 3337.56,
+    "text": "es un experto",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3337.56,
+    "end": 3339.96,
+    "text": "que tiene un ego gigante y que se pabonea",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3339.96,
+    "end": 3341.12,
+    "text": "por todo el lugar",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3341.12,
+    "end": 3343.72,
+    "text": "sin importarle al final del caso",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3343.72,
+    "end": 3344.32,
+    "text": "quien lo pille",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3344.32,
+    "end": 3348.08,
+    "text": "incluso el personaje con el que hay negocios",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3348.08,
+    "end": 3350.1,
+    "text": "le eleva ese estatus",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3350.1,
+    "end": 3351.42,
+    "text": "mandándole algo o un presente",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3351.42,
+    "end": 3354.22,
+    "text": "sabe, identifica",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3354.22,
+    "end": 3355.34,
+    "text": "que a ese man",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3355.34,
+    "end": 3358.48,
+    "text": "genera una relación con el tipo",
+    "avg_logprob": -0.193
+  },
+  {
+    "start": 3358.48,
+    "end": 3362.38,
+    "text": "sumándole o subiéndole",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3362.38,
+    "end": 3363.66,
+    "text": "el estatus que está planteando",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3363.66,
+    "end": 3366.1,
+    "text": "no ha guardado las aspiraciones",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3366.1,
+    "end": 3368.42,
+    "text": "no ha guardado apariencias de ningún caso",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3368.42,
+    "end": 3369.92,
+    "text": "y evidentemente pues es",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3369.92,
+    "end": 3372.2,
+    "text": "una persona que está en ese proceso",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3372.2,
+    "end": 3374.26,
+    "text": "de definirse",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3374.26,
+    "end": 3375.0,
+    "text": "como mafioso",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3375.0,
+    "end": 3377.76,
+    "text": "y así pasa, en esta película",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3377.76,
+    "end": 3379.48,
+    "text": "que se llama como les decía Kurt Feders",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3379.48,
+    "end": 3381.08,
+    "text": "él es como la base",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3381.08,
+    "end": 3384.32,
+    "text": "de una organización mafiosa",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3384.32,
+    "end": 3386.7,
+    "text": "terrible de New York",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3386.7,
+    "end": 3388.12,
+    "text": "que evidentemente",
+    "avg_logprob": -0.179
+  },
+  {
+    "start": 3388.12,
+    "end": 3389.2,
+    "text": "tiene un final",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3389.2,
+    "end": 3391.44,
+    "text": "complejo, no se los voy a contar",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3391.44,
+    "end": 3394.2,
+    "text": "es un poquito larga pero es una chinga",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3394.2,
+    "end": 3396.36,
+    "text": "actuada por Robert De Niro",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3396.36,
+    "end": 3398.28,
+    "text": "actuada por Esteban, por Joe Pesci",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3398.28,
+    "end": 3399.34,
+    "text": "no hay que",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3399.34,
+    "end": 3401.62,
+    "text": "estar recogiendo mucho",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3401.62,
+    "end": 3404.18,
+    "text": "muy bien amigos, entonces",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3404.18,
+    "end": 3405.8,
+    "text": "eh",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3405.8,
+    "end": 3408.34,
+    "text": "pareja",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3408.34,
+    "end": 3411.74,
+    "text": "el grupo",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3411.74,
+    "end": 3414.6,
+    "text": "ustedes",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3414.6,
+    "end": 3417.22,
+    "text": "en los grupos que ya tienen",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3417.22,
+    "end": 3421.3,
+    "text": "van a escoger",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3421.3,
+    "end": 3423.0,
+    "text": "un lugar",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3423.0,
+    "end": 3424.96,
+    "text": "un bar, un restaurante",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3424.96,
+    "end": 3426.48,
+    "text": "¿listo?",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3427.4,
+    "end": 3428.1,
+    "text": "y van a ir",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3428.1,
+    "end": 3429.9,
+    "text": "en grupo, juntos",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3429.9,
+    "end": 3432.98,
+    "text": "lo que van a observar",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3432.98,
+    "end": 3435.2,
+    "text": "es la interacción de los grupos presentes en el lugar",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3435.2,
+    "end": 3436.3,
+    "text": "lo que se encuentre",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3436.3,
+    "end": 3439.58,
+    "text": "van a un restaurante y se encontraron con familias",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3439.58,
+    "end": 3440.86,
+    "text": "lo pueden hacer, por supuesto",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3440.86,
+    "end": 3444.06,
+    "text": "van a un bar y se encontraron con amigos",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3444.06,
+    "end": 3445.62,
+    "text": "está bien, lo máximo",
+    "avg_logprob": -0.191
+  },
+  {
+    "start": 3445.62,
+    "end": 3448.1,
+    "text": "Alrededor hay gente que están novios",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3448.1,
+    "end": 3449.12,
+    "text": "Alrededor hay amantes",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3449.12,
+    "end": 3451.46,
+    "text": "Alrededor posiblemente hay personas de forma general",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3451.46,
+    "end": 3452.94,
+    "text": "Que es lo que está pasando en ese lugar",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3452.94,
+    "end": 3454.3,
+    "text": "Que ustedes escogieron",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3454.3,
+    "end": 3457.76,
+    "text": "Y lo que van a revisar",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3457.76,
+    "end": 3459.0,
+    "text": "Es la interacción de esos grupos",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3459.0,
+    "end": 3460.8,
+    "text": "Con las bebidas alcohólicas",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3460.8,
+    "end": 3462.68,
+    "text": "¿Listo?",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3463.9,
+    "end": 3464.92,
+    "text": "Ese es el objetivo",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3464.92,
+    "end": 3467.46,
+    "text": "Eso es lo que hay que entrar a evaluar",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3468.1,
+    "end": 3471.1,
+    "text": "Van a tener que aplicar el método",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3471.1,
+    "end": 3472.08,
+    "text": "Que acabamos de ver",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3472.08,
+    "end": 3474.02,
+    "text": "Justamente ese",
+    "avg_logprob": -0.189
+  },
+  {
+    "start": 3474.02,
+    "end": 3479.2,
+    "text": "para detallar",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3479.2,
+    "end": 3480.7,
+    "text": "esa experiencia",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3480.7,
+    "end": 3482.54,
+    "text": "esa observación",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3482.54,
+    "end": 3484.94,
+    "text": "van a tener que evaluar",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3484.94,
+    "end": 3486.38,
+    "text": "ya sabemos lo que tenemos que observar",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3486.38,
+    "end": 3488.76,
+    "text": "pero entonces tienen que detallar y describir",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3488.76,
+    "end": 3489.62,
+    "text": "quiénes están",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3489.62,
+    "end": 3492.16,
+    "text": "en dónde, cuándo",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3492.16,
+    "end": 3493.14,
+    "text": "vamos a observar",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3493.14,
+    "end": 3496.14,
+    "text": "recomendación, como lo hicimos aquí",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3496.14,
+    "end": 3497.58,
+    "text": "enfoquémonos en alguien",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3497.58,
+    "end": 3499.7,
+    "text": "enfoquémonos en un grupo, en un par",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3499.7,
+    "end": 3502.1,
+    "text": "si nos enfocamos en otro mundo",
+    "avg_logprob": -0.182
+  },
+  {
+    "start": 3502.1,
+    "end": 3504.88,
+    "text": "va a pasar lo de la obra",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3504.88,
+    "end": 3505.28,
+    "text": "marica",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3505.28,
+    "end": 3507.32,
+    "text": "que miro",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3507.32,
+    "end": 3510.44,
+    "text": "a Chuchito o miro a Diablo",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3510.44,
+    "end": 3513.0,
+    "text": "entonces enfóquese en uno de estos",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3513.0,
+    "end": 3514.78,
+    "text": "en esos grupos, en una de esas personas",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3514.78,
+    "end": 3516.72,
+    "text": "que escogieron y ahí determinen justamente",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3516.72,
+    "end": 3518.22,
+    "text": "esas relaciones",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3518.22,
+    "end": 3521.16,
+    "text": "detallen y definan dónde lo hicieron",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3521.16,
+    "end": 3522.3,
+    "text": "necesito saber en dónde",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3522.3,
+    "end": 3524.06,
+    "text": "y cuándo",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3524.06,
+    "end": 3527.1,
+    "text": "ojalá el dónde es",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3527.1,
+    "end": 3528.52,
+    "text": "nombre del lugar",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3528.52,
+    "end": 3530.62,
+    "text": "dirección del lugar, ciudad del lugar",
+    "avg_logprob": -0.187
+  },
+  {
+    "start": 3530.62,
+    "end": 3532.98,
+    "text": "hora en la cual lo realizamos",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3532.98,
+    "end": 3533.82,
+    "text": "¿listo?",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3535.0,
+    "end": 3535.4,
+    "text": "bien",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3535.4,
+    "end": 3543.64,
+    "text": "hoy, 10 de la noche",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3543.64,
+    "end": 3547.12,
+    "text": "registren esa observación",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3547.12,
+    "end": 3549.06,
+    "text": "en un documento que ustedes van a traer",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3549.06,
+    "end": 3550.74,
+    "text": "para entregar, donde esté detallado",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3550.74,
+    "end": 3552.24,
+    "text": "lo que estamos viendo, las etapas",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3552.24,
+    "end": 3555.44,
+    "text": "la evaluación, el análisis, el registro",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3555.44,
+    "end": 3556.88,
+    "text": "quiero ver fotos",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3556.88,
+    "end": 3557.98,
+    "text": "quiero ver videos",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3557.98,
+    "end": 3561.4,
+    "text": "Quiero ver lo que puedan plantear",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3561.4,
+    "end": 3564.26,
+    "text": "Si escriben en una servilleta",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3564.26,
+    "end": 3567.94,
+    "text": "Uy, me vi como se estaban haciendo foto blanco",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3567.94,
+    "end": 3570.1,
+    "text": "Me sirve esa servilleta",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3570.1,
+    "end": 3574.66,
+    "text": "Si consideran que hay que plantear un mapa",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3574.66,
+    "end": 3576.2,
+    "text": "Para entender cómo es ese espacio",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3576.2,
+    "end": 3579.88,
+    "text": "Eso nos va a ayudar a detallar varias cosas",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3579.88,
+    "end": 3585.58,
+    "text": "Posiblemente hay espacios en los cuales se van a encontrar",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3585.58,
+    "end": 3587.64,
+    "text": "Donde el consumo es diferente a otros",
+    "avg_logprob": -0.145
+  },
+  {
+    "start": 3587.64,
+    "end": 3589.58,
+    "text": "mirenlo, detalle",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3589.58,
+    "end": 3590.18,
+    "text": "ok",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3590.18,
+    "end": 3593.54,
+    "text": "va a ser necesario que bueno, quizás no han pasado",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3593.54,
+    "end": 3595.66,
+    "text": "los videos, audios también funcionan",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3595.66,
+    "end": 3597.48,
+    "text": "no sé, se metieron allá",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3597.48,
+    "end": 3599.76,
+    "text": "se pusieron a hablar con alguno y lo grabaron",
+    "avg_logprob": -0.241
+  },
+  {
+    "start": 3600.0,
+    "end": 3625.0,
+    "text": "Queremos entender cual es la relación de las personas con las bebidas alcohólicas, y ese documento que ustedes traen con estas fases respondidas, con estos elementos, van a plantear justamente estas conclusiones al final, y lo van a traer en un documento que van a presentar a la proxima clase, ¿listos?",
+    "avg_logprob": -0.407
+  },
+  {
+    "start": 3625.0,
+    "end": 3625.98,
+    "text": "¿Entendido?",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3627.32,
+    "end": 3629.26,
+    "text": "Bueno, tienen entre hoy",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3629.26,
+    "end": 3631.32,
+    "text": "Y el próximo jueves",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3631.32,
+    "end": 3631.94,
+    "text": "Para hacer esto",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3631.94,
+    "end": 3632.82,
+    "text": "¿Cómo?",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3634.14,
+    "end": 3635.46,
+    "text": "Para hacerlo ya",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3635.46,
+    "end": 3637.94,
+    "text": "Pagan el viernes",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3637.94,
+    "end": 3639.5,
+    "text": "Pagan el viernes",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3639.5,
+    "end": 3640.92,
+    "text": "Por favor amigos, fíjate",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3640.92,
+    "end": 3641.22,
+    "text": "Hasta ahora",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3641.22,
+    "end": 3646.88,
+    "text": "Hasta ahora amigos",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3646.88,
+    "end": 3648.62,
+    "text": "Yo le digo que vaya a hacer una observación",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3648.62,
+    "end": 3650.04,
+    "text": "No que vaya a beberse la observación",
+    "avg_logprob": -0.425
+  },
+  {
+    "start": 3650.04,
+    "end": 3657.0,
+    "text": "Ahora les recomiendo que no me lleven en medio",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3657.0,
+    "end": 3660.84,
+    "text": "Para que traigan verdad lo que necesiten",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3660.84,
+    "end": 3664.92,
+    "text": "No, o sea, se lo traen después",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3664.92,
+    "end": 3668.84,
+    "text": "Aprovechen este instante, muchachos",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3668.84,
+    "end": 3670.58,
+    "text": "Aquí terminamos, aprovechen este instante",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3670.58,
+    "end": 3672.12,
+    "text": "Para coordinar cosas que tengan que hacer",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3672.12,
+    "end": 3674.26,
+    "text": "Para la otra, pues esta tarea",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3674.26,
+    "end": 3675.62,
+    "text": "Y bueno, ya está",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3675.62,
+    "end": 3676.76,
+    "text": "¿Listos?",
+    "avg_logprob": -0.286
+  },
+  {
+    "start": 3676.76,
+    "end": 3685.14,
+    "text": "¿Se puede entrevistar?",
+    "avg_logprob": -0.58
+  },
+  {
+    "start": 3686.14,
+    "end": 3687.58,
+    "text": "¿Puedes entrevistar?",
+    "avg_logprob": -0.58
+  },
+  {
+    "start": 3687.58,
+    "end": 3688.06,
+    "text": "¿Cómo?",
+    "avg_logprob": -0.58
+  },
+  {
+    "start": 3691.38,
+    "end": 3692.9,
+    "text": "¿Cómo hacer la relación de la vez?",
+    "avg_logprob": -0.58
+  },
+  {
+    "start": 3697.48,
+    "end": 3702.7,
+    "text": "Sí, a ver, le va a funcionar al final del caso, porque no tiene problema,",
+    "avg_logprob": -0.58
+  },
+  {
+    "start": 3702.7,
+    "end": 3707.6,
+    "text": "Pero intenten más bien extraer las cosas desde lo que están observando",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3707.6,
+    "end": 3714.36,
+    "text": "Al final del caso nos va a ayudar también a profundizar y a afinar ese instinto",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3714.36,
+    "end": 3715.26,
+    "text": "Tengo 32 segundos",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3715.26,
+    "end": 3716.06,
+    "text": "¿Vale?",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3717.06,
+    "end": 3719.78,
+    "text": "Profe, qué pena, ¿puedes devolver el slide?",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3720.28,
+    "end": 3721.38,
+    "text": "¿Por favor?",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3722.52,
+    "end": 3723.44,
+    "text": "¿A dónde va?",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3723.94,
+    "end": 3724.72,
+    "text": "A la talla",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3724.72,
+    "end": 3725.16,
+    "text": "A ver",
+    "avg_logprob": -0.377
+  },
+  {
+    "start": 3732.7,
+    "end": 3734.7,
+    "text": "¡Gracias!",
+    "avg_logprob": -0.507
+  },
+  {
+    "start": 3762.7,
+    "end": 3764.5,
+    "text": "¿Cómo así va?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3768.58,
+    "end": 3771.78,
+    "text": "Es primero el psss y después el psss",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3771.78,
+    "end": 3775.54,
+    "text": "¿Sí? ¿Por eso o no?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3778.18,
+    "end": 3779.48,
+    "text": "¿Estás instalado?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3780.82,
+    "end": 3781.9,
+    "text": "¿Con gratis?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3781.9,
+    "end": 3781.92,
+    "text": "¿Con gratis?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3785.92,
+    "end": 3786.92,
+    "text": "¿Con gratis?",
+    "avg_logprob": -0.644
+  },
+  {
+    "start": 3786.92,
+    "end": 3802.82,
+    "text": "Pero, Mary, hay más paciencia.",
+    "avg_logprob": -0.519
+  },
+  {
+    "start": 3816.92,
+    "end": 3817.92,
+    "text": "Gracias.",
+    "avg_logprob": -0.231
+  },
+  {
+    "start": 3846.92,
+    "end": 3867.92,
+    "text": "No sé, porque si después de otro jueves, el otro viernes, yo la hago, así no tengo",
+    "avg_logprob": -0.564
+  },
+  {
+    "start": 3867.92,
+    "end": 3880.92,
+    "text": "Tampoco es mi intención irme por allá a un bar a baquearme toda la noche haciendo...",
+    "avg_logprob": -0.421
+  },
+  {
+    "start": 3880.92,
+    "end": 3882.92,
+    "text": "¿No le gustó el ejercicio?",
+    "avg_logprob": -0.421
+  },
+  {
+    "start": 3882.92,
+    "end": 3890.92,
+    "text": "No, no, igual le toca hacerlo. Obviamente cuando no tengo cliente y cosas así no tiene que hacer eso.",
+    "avg_logprob": -0.421
+  },
+  {
+    "start": 3890.92,
+    "end": 3895.92,
+    "text": "Lo que digo es que no sé temas de tiempo, estoy revisando.",
+    "avg_logprob": -0.421
+  },
+  {
+    "start": 3895.92,
+    "end": 3899.2,
+    "text": "El blog es ya listo, así que vamos a ir bañándonos más de nuevo.",
+    "avg_logprob": -0.826
+  },
+  {
+    "start": 3900.0,
+    "end": 3909.0,
+    "text": "¿Acaso seria mañana en la tarde o en la noche?",
+    "avg_logprob": -0.447
+  },
+  {
+    "start": 3909.0,
+    "end": 3912.0,
+    "text": "Pues mañana es tu trabajo.",
+    "avg_logprob": -0.447
+  },
+  {
+    "start": 3912.0,
+    "end": 3921.0,
+    "text": "¿A las 3 de la tarde o a las 4 de la noche?",
+    "avg_logprob": -0.447
+  },
+  {
+    "start": 3921.0,
+    "end": 3925.0,
+    "text": "A las 3 de la tarde o a las 4 de la noche.",
+    "avg_logprob": -0.447
+  },
+  {
+    "start": 3925.0,
+    "end": 3927.0,
+    "text": "¿A las 3 de la tarde o a las 4 de la noche?",
+    "avg_logprob": -0.447
+  },
+  {
+    "start": 3927.0,
+    "end": 3930.0,
+    "text": "Sí, ahora el lugar.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3930.0,
+    "end": 3931.0,
+    "text": "¿El lugar?",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3931.0,
+    "end": 3932.0,
+    "text": "Sí.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3932.0,
+    "end": 3933.0,
+    "text": "¿El lugar?",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3933.0,
+    "end": 3934.0,
+    "text": "No.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3934.0,
+    "end": 3936.0,
+    "text": "No, el presupuesto está abajo.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3936.0,
+    "end": 3938.0,
+    "text": "El resto, el desordenadero, no.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3938.0,
+    "end": 3942.0,
+    "text": "No sé, decídelo ustedes.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3942.0,
+    "end": 3944.0,
+    "text": "Pues yo no tengo el libro, pero...",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3944.0,
+    "end": 3947.0,
+    "text": "Ese desordenadero no se reconoce.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3947.0,
+    "end": 3948.0,
+    "text": "¿Qué?",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3948.0,
+    "end": 3949.0,
+    "text": "No sé.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3949.0,
+    "end": 3950.0,
+    "text": "Me hacen un gastrobar.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3950.0,
+    "end": 3951.0,
+    "text": "No se puede.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3951.0,
+    "end": 3952.0,
+    "text": "No se puede.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3952.0,
+    "end": 3954.0,
+    "text": "Tienen que hacer un gastrobar.",
+    "avg_logprob": -0.379
+  },
+  {
+    "start": 3954.0,
+    "end": 3956.9,
+    "text": "Este es el tipo que se ve en Colombia.",
+    "avg_logprob": -0.404
+  },
+  {
+    "start": 3960.2,
+    "end": 3964.86,
+    "text": "Correcto, por eso digo que es el tipo tarde noche, el tipo siete de la noche.",
+    "avg_logprob": -0.404
+  },
+  {
+    "start": 3984.0,
+    "end": 3987.4,
+    "text": "La próxima clase",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3987.4,
+    "end": 3991.26,
+    "text": "Además de esto",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3991.26,
+    "end": 3992.84,
+    "text": "Traer una crema en tal",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3992.84,
+    "end": 3995.28,
+    "text": "Igual que más",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3995.28,
+    "end": 3997.36,
+    "text": "Pero cada grupo",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3997.36,
+    "end": 3999.44,
+    "text": "O persona",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 3999.44,
+    "end": 4002.0,
+    "text": "Si tienen la sala",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 4002.0,
+    "end": 4002.56,
+    "text": "Acostumbrese",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 4002.56,
+    "end": 4004.0,
+    "text": "Pero",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 4004.0,
+    "end": 4008.0,
+    "text": "Profe grande o chiquita",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 4008.6,
+    "end": 4012.08,
+    "text": "Que tenga contenido",
+    "avg_logprob": -0.486
+  },
+  {
+    "start": 4012.08,
+    "end": 4014.52,
+    "text": "la quedan en el abierto",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4014.52,
+    "end": 4020.34,
+    "text": "si, solo que es en un lugar",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4020.34,
+    "end": 4020.96,
+    "text": "que sea",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4020.96,
+    "end": 4023.4,
+    "text": "que no",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4023.4,
+    "end": 4025.46,
+    "text": "que no sea tan costoso",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4025.46,
+    "end": 4028.08,
+    "text": "no, no digo tanto que sea tan costoso",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4028.08,
+    "end": 4030.58,
+    "text": "sino que haya interacciones con alcohol",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4030.58,
+    "end": 4032.78,
+    "text": "que haya interacción con alcohol",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4032.78,
+    "end": 4033.46,
+    "text": "claramente",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4033.46,
+    "end": 4036.12,
+    "text": "y también",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4036.12,
+    "end": 4037.86,
+    "text": "mirar el target",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4037.86,
+    "end": 4040.58,
+    "text": "si es jóvenes, solo niños",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4040.58,
+    "end": 4041.78,
+    "text": "o son adultos",
+    "avg_logprob": -0.321
+  },
+  {
+    "start": 4041.78,
+    "end": 4044.42,
+    "text": "O que como es el lugar que tú planteas",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4044.42,
+    "end": 4049.48,
+    "text": "¿Tú qué cargo target quieres?",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4050.48,
+    "end": 4051.92,
+    "text": "No, no, yo no, yo no lo quiero",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4051.92,
+    "end": 4052.76,
+    "text": "Pues lo digo así",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4052.76,
+    "end": 4063.26,
+    "text": "Cósmico",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4063.26,
+    "end": 4066.46,
+    "text": "Es costosito",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4069.1,
+    "end": 4070.48,
+    "text": "Cósmico es re...",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4070.48,
+    "end": 4071.68,
+    "text": "Es bonito",
+    "avg_logprob": -0.508
+  },
+  {
+    "start": 4071.68,
+    "end": 4076.68,
+    "text": "Sí, Cosmic es... no es gastrobarrio.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4076.68,
+    "end": 4078.68,
+    "text": "Es como Photoshop.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4078.68,
+    "end": 4080.68,
+    "text": "Ajá, tiene pantallas.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4080.68,
+    "end": 4082.68,
+    "text": "¿Tú has ido?",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4082.68,
+    "end": 4084.68,
+    "text": "A Photoshop y a Cosmic no.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4084.68,
+    "end": 4086.68,
+    "text": "Entonces vamos a Gaia.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4086.68,
+    "end": 4088.68,
+    "text": "De Carlos León.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4090.68,
+    "end": 4096.68,
+    "text": "Pues yo estaba pensando justamente en Cosmic y me parece buena idea porque es chévere.",
+    "avg_logprob": -0.408
+  },
+  {
+    "start": 4096.68,
+    "end": 4105.84,
+    "text": "Aparte el target de allá es más joven, de 30, no, como de 28 a 50.",
+    "avg_logprob": -0.477
+  },
+  {
+    "start": 4105.84,
+    "end": 4115.24,
+    "text": "Un sábado no, un sábado no, de 28 a 50.",
+    "avg_logprob": -0.477
+  },
+  {
+    "start": 4115.24,
+    "end": 4119.82,
+    "text": "¿Cuánto es la hora? ¿7?",
+    "avg_logprob": -0.477
+  },
+  {
+    "start": 4120.82,
+    "end": 4121.34,
+    "text": "12.",
+    "avg_logprob": -0.477
+  },
+  {
+    "start": 4121.34,
+    "end": 4126.88,
+    "text": "Y ya se queda toda la noche",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4126.88,
+    "end": 4127.66,
+    "text": "Muchachos vayan",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4127.66,
+    "end": 4137.62,
+    "text": "Yo les voy avisando al igual",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4137.62,
+    "end": 4138.52,
+    "text": "Que ahora salgo a trabajar",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4138.52,
+    "end": 4141.02,
+    "text": "Pero no sé, mañana llega a contar",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4141.02,
+    "end": 4142.42,
+    "text": "Pero igual a las 7",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4142.42,
+    "end": 4147.28,
+    "text": "También di que tienes que hacer eso",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4147.28,
+    "end": 4148.3,
+    "text": "En la universidad",
+    "avg_logprob": -0.325
+  },
+  {
+    "start": 4148.3,
+    "end": 4154.18,
+    "text": "Cuando eres hijo, ¿eres el jefe?",
+    "avg_logprob": -0.33
+  },
+  {
+    "start": 4154.9,
+    "end": 4160.22,
+    "text": "Oh, no, comentan la verdad, o sea, sí vamos, pero...",
+    "avg_logprob": -0.33
+  },
+  {
+    "start": 4160.22,
+    "end": 4162.58,
+    "text": "Vamos a mirar a la gente, pero le vamos a escoger a...",
+    "avg_logprob": -0.33
+  },
+  {
+    "start": 4162.58,
+    "end": 4176.7,
+    "text": "No, no, no, si queremos tomar, tomamos el olio, yo no tengo lío con eso, yo digo es que no terminemos en parche justo en el momento de la observación, porque entonces terminamos todos haciendo el mismo conmigo todos.",
+    "avg_logprob": -0.33
+  },
+  {
+    "start": 4176.7,
+    "end": 4190.86,
+    "text": "Ya después sí, donde andan, listo, venga, reunámonos y sale, pero, o sea, yo creo que con media, una hora, lo que dure la escena se puede observar y ya, y probar los cocteles.",
+    "avg_logprob": -0.261
+  },
+  {
+    "start": 4194.12,
+    "end": 4195.0,
+    "text": "¿Cómo funciona?",
+    "avg_logprob": -0.261
+  },
+  {
+    "start": 4195.6,
+    "end": 4199.5,
+    "text": "No, pues nada, nada, tú quieres y ya, pero venden comida y todo eso.",
+    "avg_logprob": -0.261
+  },
+  {
+    "start": 4200.0,
+    "end": 4203.0,
+    "text": "Es rico, es lindo el lugar, es lindo.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4203.0,
+    "end": 4205.0,
+    "text": "Yo me he tomado el coctel, ese es el herido.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4205.0,
+    "end": 4207.0,
+    "text": "Sí, sí.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4207.0,
+    "end": 4208.0,
+    "text": "Pero es muy rico.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4208.0,
+    "end": 4210.0,
+    "text": "¿Cuánto vale el coctel?",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4210.0,
+    "end": 4212.0,
+    "text": "Creo que esa vez, yo no recuerdo.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4212.0,
+    "end": 4215.0,
+    "text": "No, no estaban tan costosos.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4215.0,
+    "end": 4218.0,
+    "text": "No estaban tan costosos, era...",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4218.0,
+    "end": 4221.0,
+    "text": "El coctel no pasaba de esta cuenta.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4223.0,
+    "end": 4226.0,
+    "text": "Es que es muy bonito y la musica, me gusta mucho.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4226.0,
+    "end": 4229.0,
+    "text": "Sí, a mí también me gustó harto. Fui una sola vez y me gustó el resto.",
+    "avg_logprob": -0.359
+  },
+  {
+    "start": 4229.0,
+    "end": 4240.3,
+    "text": "La verdad es que no es como un joven que sabe que llega y a bailar.",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 4240.3,
+    "end": 4250.0,
+    "text": "Hola, ¿a dónde van a ir ustedes? Vamos a ir a Cósmico, por si de pronto se coinciden, para que no coincida.",
+    "avg_logprob": -0.362
+  },
+  {
+    "start": 4250.0,
+    "end": 4255.04,
+    "text": "Yo creo que la presentación, el tiempo que tienes dedicado a la presentación es de 10 minutos.",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4255.9,
+    "end": 4258.56,
+    "text": "Entonces, porque tenemos que hacerlo muy rápido, ¿listo?",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4259.28,
+    "end": 4263.3,
+    "text": "Básicamente, seguramente en 10 minutos no van a poder presentarlo todo.",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4263.86,
+    "end": 4267.5,
+    "text": "Así que en el caso, traten de sintetizarlo todo.",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4267.5,
+    "end": 4273.58,
+    "text": "Sin embargo, si hay algo que ustedes no van a poder, o sea, no alcancen a mostrarlo evidentemente,",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4273.76,
+    "end": 4279.2,
+    "text": "porque no hay tiempo, pues oculten eso dentro de la presentación y déjenlo para que se pueda ver, ¿no?",
+    "avg_logprob": -0.279
+  },
+  {
+    "start": 4280.0,
+    "end": 4291.66,
+    "text": "20 fotografías, 50, 60, 2 videos, 4, 6, vamos a ver uno más importante y los dejamos ahí, guardados, para poderlos chequear ustedes cuando se pasen las cosas.",
+    "avg_logprob": -0.463
+  },
+  {
+    "start": 4293.8,
+    "end": 4302.64,
+    "text": "Entonces, no coincidimos con cósmico, dile a tu grupo también.",
+    "avg_logprob": -0.463
+  },
+  {
+    "start": 4305.64,
+    "end": 4307.42,
+    "text": "No, yo no escogí el cósmico.",
+    "avg_logprob": -0.463
+  },
+  {
+    "start": 4307.42,
+    "end": 4310.52,
+    "text": "los jóvenes",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4310.52,
+    "end": 4312.9,
+    "text": "la gente que vaya a zapachar",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4312.9,
+    "end": 4314.76,
+    "text": "a hablar, puro viejito",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4314.76,
+    "end": 4316.38,
+    "text": "como que con barba, puro",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4316.38,
+    "end": 4319.98,
+    "text": "¿a dónde van a ir?",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4321.5,
+    "end": 4322.58,
+    "text": "ya terminé",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4322.58,
+    "end": 4324.66,
+    "text": "las fotos, se me ahorraron",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4324.66,
+    "end": 4326.02,
+    "text": "un montón y yo dije",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4326.02,
+    "end": 4327.88,
+    "text": "que esta semana",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4327.88,
+    "end": 4330.14,
+    "text": "la que viene iba a tomar más fotos",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4330.14,
+    "end": 4332.72,
+    "text": "pero la profesora me dijo que así estaba bien",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4332.72,
+    "end": 4333.9,
+    "text": "me dijo déjalas así",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4333.9,
+    "end": 4336.28,
+    "text": "pues igual esas son como algunas",
+    "avg_logprob": -0.287
+  },
+  {
+    "start": 4336.28,
+    "end": 4338.9,
+    "text": "Hay otras más bonitas y me falta editarlas",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4338.9,
+    "end": 4340.3,
+    "text": "Tengo que pasarlas a blanco y negro",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4340.3,
+    "end": 4345.6,
+    "text": "Entonces las saqué así como para",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4345.6,
+    "end": 4346.7,
+    "text": "Demostrárselas",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4346.7,
+    "end": 4351.7,
+    "text": "No entendí, ¿están abocadas?",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4351.86,
+    "end": 4352.62,
+    "text": "No, esa no",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4352.62,
+    "end": 4354.86,
+    "text": "Esa la puse ahí porque me gustó",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4354.86,
+    "end": 4359.22,
+    "text": "Pero digamos en esta yo no le tenía fe",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4359.22,
+    "end": 4360.4,
+    "text": "Creo que es esta",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4360.4,
+    "end": 4362.44,
+    "text": "No es otra, espera",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4362.44,
+    "end": 4363.4,
+    "text": "La que está arriba",
+    "avg_logprob": -0.232
+  },
+  {
+    "start": 4363.4,
+    "end": 4366.42,
+    "text": "esta, entonces cuando la edite",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4366.42,
+    "end": 4367.38,
+    "text": "en photoshop",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4367.38,
+    "end": 4370.1,
+    "text": "se veían bien",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4370.1,
+    "end": 4372.34,
+    "text": "o sea se veía esto y de fondo se veía",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4372.34,
+    "end": 4374.22,
+    "text": "oscuro, entonces me dijo así está bien",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4374.22,
+    "end": 4377.48,
+    "text": "valió la pena",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4377.48,
+    "end": 4380.26,
+    "text": "tanto esfuerzo, pero tienes que revisar el tema en la cámara",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4380.26,
+    "end": 4381.4,
+    "text": "porque te va a seguir pasando",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4381.4,
+    "end": 4384.68,
+    "text": "tienes que buscar, yo creo que la memoria",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4384.68,
+    "end": 4386.34,
+    "text": "prueba, cómprate otra sede",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4386.34,
+    "end": 4387.48,
+    "text": "o búscate otra sede",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4387.48,
+    "end": 4389.46,
+    "text": "y si te sigue fallando te toca",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4389.46,
+    "end": 4389.94,
+    "text": "una grande",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4389.94,
+    "end": 4392.64,
+    "text": "hola, ¿cómo vas?",
+    "avg_logprob": -0.22
+  },
+  {
+    "start": 4393.4,
+    "end": 4395.4,
+    "text": "Nos vemos, chao",
+    "avg_logprob": -0.691
+  }
+]

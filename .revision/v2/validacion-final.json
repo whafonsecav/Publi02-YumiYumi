@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warn": [
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+    "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback."
+  ],
+  "fail": [],
+  "started": "09:59",
+  "pause": true,
+  "yellow": "time-yellow",
+  "red": "time-red",
+  "drawer": {
+    "x": 20.813312530517578,
+    "y": 338.6000061035156,
+    "width": 648.5333671569824,
+    "height": 382.4667053222656
+  },
+  "map": {
+    "current": 1,
+    "bookIndex": 0,
+    "turning": false,
+    "totalSeconds": 600,
+    "remaining": 598.7055999999941,
+    "running": false,
+    "mapReady": true,
+    "mapZoom": 17.55,
+    "mapCenter": {
+      "lng": -74.05370160000064,
+      "lat": 4.668654500000713
+    },
+    "mapBearing": -30.29884444443383
+  },
+  "textBounds": [
+    {
+      "t": "09 / BEBER TAMBIÉN ES UN CONTEXTO",
+      "b": 52.90666961669922
+    },
+    {
+      "t": "Entre sorbos,la conversación sigue.",
+      "b": 184.8800048828125
+    },
+    {
+      "t": "La joven y el hombre mayor hablaban más al inicio. Luego el joven pasó de asentir a participar.",
+      "b": 301.8133544921875
+    },
+    {
+      "t": "El joven movía las manos y utilizaba el pitillo para señalar mientras hablaba.",
+      "b": 460.52001953125
+    },
+    {
+      "t": "Los dos hombres fueron al baño. Del mayor se registraron tres visitas; en la última, una marcha menos estable.",
+      "b": 650.239990234375
+    },
+    {
+      "t": "Bebidas y conversaciónocurren a la vez.",
+      "b": 664.7467041015625
+    }
+  ],
+  "offline": true
+}

@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "index": 8,
+      "title": "Evaluar: detalles que abren preguntas",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    },
+    {
+      "index": 9,
+      "title": "Analizar: personas, vínculos y consumo",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    },
+    {
+      "index": 10,
+      "title": "Registrar: seis insumos de interacción",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    },
+    {
+      "index": 11,
+      "title": "Concluir: cómo interactuaron las cuatro personas",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    },
+    {
+      "index": 12,
+      "title": "Concluir: ocho hipótesis y su alcance",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    },
+    {
+      "index": 13,
+      "title": "Síntesis: de la observación al insumo",
+      "rect": [
+        0,
+        0,
+        1600,
+        844
+      ],
+      "clipped": [],
+      "images": []
+    }
+  ],
+  "errors": [],
+  "failed": [
+    "http://127.0.0.1:8765/assets/v2/portada-loop.mp4 :: net::ERR_ABORTED"
+  ],
+  "bad": []
+}

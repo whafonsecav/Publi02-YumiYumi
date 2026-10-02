@@ -1,0 +1,543 @@
+{
+  "pdfs": {
+    "carta": {
+      "source": "assets/Carta/Yumi_Yumi_85_compressed.pdf",
+      "page_count": 2,
+      "text_chars": 9793,
+      "rendered_pages": [
+        {
+          "path": "assets/carta/carta-01.jpg",
+          "width": 1000,
+          "height": 4242,
+          "bytes": 603344
+        },
+        {
+          "path": "assets/carta/carta-02.jpg",
+          "width": 1000,
+          "height": 10291,
+          "bytes": 1392296
+        }
+      ],
+      "reader_folios": [
+        {
+          "path": "assets/carta/folios/folio-01.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 137700,
+          "pdf_pages": [
+            1
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 1,
+              "source_y_start_px": 0,
+              "source_y_end_px": 1297,
+              "source_page_height_px": 4242,
+              "source_y_fraction": [
+                0.0,
+                0.305752
+              ]
+            }
+          ],
+          "virtual_y_start_px": 0,
+          "virtual_y_end_px": 1297,
+          "content_height_px": 1297
+        },
+        {
+          "path": "assets/carta/folios/folio-02.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 175994,
+          "pdf_pages": [
+            1
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 1,
+              "source_y_start_px": 1297,
+              "source_y_end_px": 2587,
+              "source_page_height_px": 4242,
+              "source_y_fraction": [
+                0.305752,
+                0.609854
+              ]
+            }
+          ],
+          "virtual_y_start_px": 1297,
+          "virtual_y_end_px": 2587,
+          "content_height_px": 1290
+        },
+        {
+          "path": "assets/carta/folios/folio-03.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 168260,
+          "pdf_pages": [
+            1
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 1,
+              "source_y_start_px": 2587,
+              "source_y_end_px": 3871,
+              "source_page_height_px": 4242,
+              "source_y_fraction": [
+                0.609854,
+                0.912541
+              ]
+            }
+          ],
+          "virtual_y_start_px": 2587,
+          "virtual_y_end_px": 3871,
+          "content_height_px": 1284
+        },
+        {
+          "path": "assets/carta/folios/folio-04.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 116226,
+          "pdf_pages": [
+            1,
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 1,
+              "source_y_start_px": 3871,
+              "source_y_end_px": 4242,
+              "source_page_height_px": 4242,
+              "source_y_fraction": [
+                0.912541,
+                1.0
+              ]
+            },
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 0,
+              "source_y_end_px": 806,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.0,
+                0.078321
+              ]
+            }
+          ],
+          "virtual_y_start_px": 3871,
+          "virtual_y_end_px": 5120,
+          "content_height_px": 1249
+        },
+        {
+          "path": "assets/carta/folios/folio-05.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 154668,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 806,
+              "source_y_end_px": 2070,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.078321,
+                0.201147
+              ]
+            }
+          ],
+          "virtual_y_start_px": 5120,
+          "virtual_y_end_px": 6384,
+          "content_height_px": 1264
+        },
+        {
+          "path": "assets/carta/folios/folio-06.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 128514,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 2070,
+              "source_y_end_px": 3325,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.201147,
+                0.323098
+              ]
+            }
+          ],
+          "virtual_y_start_px": 6384,
+          "virtual_y_end_px": 7639,
+          "content_height_px": 1255
+        },
+        {
+          "path": "assets/carta/folios/folio-07.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 157554,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 3325,
+              "source_y_end_px": 4621,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.323098,
+                0.449033
+              ]
+            }
+          ],
+          "virtual_y_start_px": 7639,
+          "virtual_y_end_px": 8935,
+          "content_height_px": 1296
+        },
+        {
+          "path": "assets/carta/folios/folio-08.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 144342,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 4621,
+              "source_y_end_px": 5857,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.449033,
+                0.569138
+              ]
+            }
+          ],
+          "virtual_y_start_px": 8935,
+          "virtual_y_end_px": 10171,
+          "content_height_px": 1236
+        },
+        {
+          "path": "assets/carta/folios/folio-09.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 118116,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 5857,
+              "source_y_end_px": 7077,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.569138,
+                0.687688
+              ]
+            }
+          ],
+          "virtual_y_start_px": 10171,
+          "virtual_y_end_px": 11391,
+          "content_height_px": 1220
+        },
+        {
+          "path": "assets/carta/folios/folio-10.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 149154,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 7077,
+              "source_y_end_px": 8335,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.687688,
+                0.809931
+              ]
+            }
+          ],
+          "virtual_y_start_px": 11391,
+          "virtual_y_end_px": 12649,
+          "content_height_px": 1258
+        },
+        {
+          "path": "assets/carta/folios/folio-11.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 111364,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 8335,
+              "source_y_end_px": 9574,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.809931,
+                0.930327
+              ]
+            }
+          ],
+          "virtual_y_start_px": 12649,
+          "virtual_y_end_px": 13888,
+          "content_height_px": 1239
+        },
+        {
+          "path": "assets/carta/folios/folio-12.webp",
+          "width": 1000,
+          "height": 1300,
+          "bytes": 114818,
+          "pdf_pages": [
+            2
+          ],
+          "source_ranges": [
+            {
+              "pdf_page": 2,
+              "source_y_start_px": 9574,
+              "source_y_end_px": 10291,
+              "source_page_height_px": 10291,
+              "source_y_fraction": [
+                0.930327,
+                1.0
+              ]
+            }
+          ],
+          "virtual_y_start_px": 13888,
+          "virtual_y_end_px": 14605,
+          "content_height_px": 717
+        }
+      ],
+      "reader_folio_note": "Flujo vertical consecutivo de las dos páginas, separadas por 72px blancos; 1000x1300 WEBP con cortes sobre bandas horizontales claras. Cada folio identifica páginas y coordenadas fuente. Las páginas completas JPG de 1000px de ancho permiten zoom/scroll.",
+      "folios_contact_sheet": "assets/carta/folios-contact-sheet.jpg"
+    },
+    "clase": {
+      "source": "assets/Presentacion Calse y Tarea/Clase Concepto Creativo.pdf",
+      "page_count": 12,
+      "text_chars": 3758,
+      "rendered_pages": [
+        {
+          "path": "assets/clase/clase-01.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 70322
+        },
+        {
+          "path": "assets/clase/clase-02.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 32001
+        },
+        {
+          "path": "assets/clase/clase-03.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 89598
+        },
+        {
+          "path": "assets/clase/clase-04.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 86183
+        },
+        {
+          "path": "assets/clase/clase-05.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 60287
+        },
+        {
+          "path": "assets/clase/clase-06.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 20617
+        },
+        {
+          "path": "assets/clase/clase-07.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 292602
+        },
+        {
+          "path": "assets/clase/clase-08.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 157089
+        },
+        {
+          "path": "assets/clase/clase-09.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 71889
+        },
+        {
+          "path": "assets/clase/clase-10.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 96352
+        },
+        {
+          "path": "assets/clase/clase-11.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 124181
+        },
+        {
+          "path": "assets/clase/clase-12.jpg",
+          "width": 1300,
+          "height": 731,
+          "bytes": 85601
+        }
+      ],
+      "contact_sheet": "assets/clase/clase-contact-sheet.jpg"
+    }
+  },
+  "images": [
+    {
+      "role": "promo",
+      "source": "assets/Carta/Promo 3 por 1.png",
+      "path": "assets/promo-3x1.webp",
+      "source_size": [
+        1209,
+        1212
+      ],
+      "size": [
+        1209,
+        1212
+      ],
+      "bytes": 176912
+    },
+    {
+      "role": "observation_photo",
+      "source": "assets/Fotos/WhatsApp Image 2026-09-27 at 10.44.33 AM.jpeg",
+      "path": "assets/fotos/foto-6c13f9b.webp",
+      "source_size": [
+        1200,
+        1600
+      ],
+      "size": [
+        1200,
+        1600
+      ],
+      "bytes": 305754,
+      "sha256": "ef46358adea471d7c2e63c7f5fcad353390a656beb714d4694acc2576c3cdbee"
+    },
+    {
+      "role": "observation_photo",
+      "source": "assets/Fotos/WhatsApp Image 2026-09-27 at 10.44.43 AM.jpeg",
+      "path": "assets/fotos/foto-006a2a8.webp",
+      "source_size": [
+        1200,
+        1600
+      ],
+      "size": [
+        1200,
+        1600
+      ],
+      "bytes": 205534,
+      "sha256": "5eb5be2233a44d8e8d6ccc8f843745477d7438204428f783adf00598e54940ed"
+    },
+    {
+      "role": "observation_photo",
+      "source": "assets/Fotos/WhatsApp Image 2026-09-27 at 10.44.50 AM (1).jpeg",
+      "path": "assets/fotos/foto-5b05c8a.webp",
+      "source_size": [
+        1200,
+        1600
+      ],
+      "size": [
+        1200,
+        1600
+      ],
+      "bytes": 424400,
+      "sha256": "2e772d1b9d9a108d7f572cd887762e3520022755bdf7b064673463c87a83259a"
+    },
+    {
+      "role": "observation_photo",
+      "source": "assets/Fotos/WhatsApp Image 2026-09-27 at 10.44.50 AM.jpeg",
+      "path": "assets/fotos/foto-f62da75.webp",
+      "source_size": [
+        1200,
+        1600
+      ],
+      "size": [
+        1200,
+        1600
+      ],
+      "bytes": 297890,
+      "sha256": "afa8de57fb8f5034953e6dcb9a33561727300e8ad8a9e0df7ec9fd677f19bd9f"
+    }
+  ],
+  "logos": [
+    {
+      "source": "assets/Logo/Logo YumiYumi.png",
+      "path": "assets/logos/Logo YumiYumi.png",
+      "bytes": 406045
+    },
+    {
+      "source": "assets/Logo/politecnico-b.png",
+      "path": "assets/logos/politecnico-b.png",
+      "bytes": 47684
+    },
+    {
+      "source": "assets/Logo/politecnico-w.png",
+      "path": "assets/logos/politecnico-w.png",
+      "bytes": 53285
+    },
+    {
+      "source": "assets/Logo/politecnico-w.webp",
+      "path": "assets/logos/politecnico-w.webp",
+      "bytes": 29528
+    }
+  ],
+  "video": {
+    "source": "assets/Videos/Video YumiYumi.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 980,
+          "height": 718,
+          "r_frame_rate": "30/1",
+          "duration": "16.366667"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "duration": "16.483311"
+        }
+      ],
+      "format": {
+        "duration": "16.483311",
+        "size": "2860631",
+        "tags": {}
+      }
+    },
+    "path": "assets/video/portada-1080p.mp4",
+    "poster": "assets/video/portada-poster.jpg",
+    "bytes": 2760369,
+    "transcode_ok": true,
+    "note": "Transcode from original, H.264, 980x718 (no upscale), no audio, 16.37 s"
+  },
+  "contact_sheet": "assets/clase/clase-contact-sheet.jpg",
+  "discrepancies": [
+    "La promo PNG comunica 3x1 hasta 7 PM; el PDF de la carta comunica 2x1 siempre en todos los cócteles del mismo sabor y 3x1 en cócteles seleccionados hasta 6:30 PM. Son piezas con horarios y condiciones diferentes.",
+    "Los nombres de las cuatro fotos indican 27/09/2026, aunque la visita fue el 26/09/2026 según contexto del equipo.",
+    "Dos fotos comparten escenario y ángulo parecido, pero tienen hashes distintos; ninguna es duplicado exacto."
+  ]
+}

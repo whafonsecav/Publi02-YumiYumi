@@ -1,0 +1,821 @@
+{
+  "format": "jpeg-concat-base64-v1",
+  "path": "assets/v2/map-tiles.js",
+  "raw_pack_bytes": 36924163,
+  "base64_bytes": 49232220,
+  "javascript_bytes": 49314192,
+  "tile_count": 2886,
+  "min_zoom": 0,
+  "max_zoom": 18,
+  "levels": {
+    "0": {
+      "tile_count": 1,
+      "bytes": 14401,
+      "x_range": [
+        0,
+        0
+      ],
+      "y_range": [
+        0,
+        0
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 1,
+        "x_range": [
+          0,
+          0
+        ],
+        "y_range": [
+          0,
+          0
+        ]
+      }
+    },
+    "1": {
+      "tile_count": 4,
+      "bytes": 47517,
+      "x_range": [
+        0,
+        1
+      ],
+      "y_range": [
+        0,
+        1
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 4,
+        "x_range": [
+          0,
+          1
+        ],
+        "y_range": [
+          0,
+          1
+        ]
+      }
+    },
+    "2": {
+      "tile_count": 16,
+      "bytes": 167496,
+      "x_range": [
+        0,
+        3
+      ],
+      "y_range": [
+        0,
+        3
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 16,
+        "x_range": [
+          0,
+          3
+        ],
+        "y_range": [
+          0,
+          3
+        ]
+      }
+    },
+    "3": {
+      "tile_count": 64,
+      "bytes": 557856,
+      "x_range": [
+        0,
+        7
+      ],
+      "y_range": [
+        0,
+        7
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 64,
+        "x_range": [
+          0,
+          7
+        ],
+        "y_range": [
+          0,
+          7
+        ]
+      }
+    },
+    "4": {
+      "tile_count": 256,
+      "bytes": 2090749,
+      "x_range": [
+        0,
+        15
+      ],
+      "y_range": [
+        0,
+        15
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 256,
+        "x_range": [
+          0,
+          15
+        ],
+        "y_range": [
+          0,
+          15
+        ]
+      }
+    },
+    "5": {
+      "tile_count": 1024,
+      "bytes": 8444200,
+      "x_range": [
+        0,
+        31
+      ],
+      "y_range": [
+        0,
+        31
+      ],
+      "coverage": {
+        "type": "global",
+        "tiles_expected": 1024,
+        "x_range": [
+          0,
+          31
+        ],
+        "y_range": [
+          0,
+          31
+        ]
+      }
+    },
+    "6": {
+      "tile_count": 117,
+      "bytes": 1261856,
+      "x_range": [
+        12,
+        24
+      ],
+      "y_range": [
+        27,
+        35
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          18,
+          31
+        ],
+        "x_range": [
+          12,
+          24
+        ],
+        "y_range": [
+          27,
+          35
+        ]
+      }
+    },
+    "7": {
+      "tile_count": 117,
+      "bytes": 1063933,
+      "x_range": [
+        31,
+        43
+      ],
+      "y_range": [
+        58,
+        66
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          37,
+          62
+        ],
+        "x_range": [
+          31,
+          43
+        ],
+        "y_range": [
+          58,
+          66
+        ]
+      }
+    },
+    "8": {
+      "tile_count": 117,
+      "bytes": 1210195,
+      "x_range": [
+        69,
+        81
+      ],
+      "y_range": [
+        120,
+        128
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          75,
+          124
+        ],
+        "x_range": [
+          69,
+          81
+        ],
+        "y_range": [
+          120,
+          128
+        ]
+      }
+    },
+    "9": {
+      "tile_count": 117,
+      "bytes": 1512165,
+      "x_range": [
+        144,
+        156
+      ],
+      "y_range": [
+        245,
+        253
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          150,
+          249
+        ],
+        "x_range": [
+          144,
+          156
+        ],
+        "y_range": [
+          245,
+          253
+        ]
+      }
+    },
+    "10": {
+      "tile_count": 117,
+      "bytes": 1910140,
+      "x_range": [
+        295,
+        307
+      ],
+      "y_range": [
+        494,
+        502
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          301,
+          498
+        ],
+        "x_range": [
+          295,
+          307
+        ],
+        "y_range": [
+          494,
+          502
+        ]
+      }
+    },
+    "11": {
+      "tile_count": 117,
+      "bytes": 2062368,
+      "x_range": [
+        596,
+        608
+      ],
+      "y_range": [
+        993,
+        1001
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          602,
+          997
+        ],
+        "x_range": [
+          596,
+          608
+        ],
+        "y_range": [
+          993,
+          1001
+        ]
+      }
+    },
+    "12": {
+      "tile_count": 117,
+      "bytes": 1685513,
+      "x_range": [
+        1199,
+        1211
+      ],
+      "y_range": [
+        1990,
+        1998
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          1205,
+          1994
+        ],
+        "x_range": [
+          1199,
+          1211
+        ],
+        "y_range": [
+          1990,
+          1998
+        ]
+      }
+    },
+    "13": {
+      "tile_count": 117,
+      "bytes": 1934167,
+      "x_range": [
+        2404,
+        2416
+      ],
+      "y_range": [
+        3985,
+        3993
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          2410,
+          3989
+        ],
+        "x_range": [
+          2404,
+          2416
+        ],
+        "y_range": [
+          3985,
+          3993
+        ]
+      }
+    },
+    "14": {
+      "tile_count": 117,
+      "bytes": 2322425,
+      "x_range": [
+        4815,
+        4827
+      ],
+      "y_range": [
+        7975,
+        7983
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          4821,
+          7979
+        ],
+        "x_range": [
+          4815,
+          4827
+        ],
+        "y_range": [
+          7975,
+          7983
+        ]
+      }
+    },
+    "15": {
+      "tile_count": 117,
+      "bytes": 2485324,
+      "x_range": [
+        9637,
+        9649
+      ],
+      "y_range": [
+        15954,
+        15962
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          9643,
+          15958
+        ],
+        "x_range": [
+          9637,
+          9649
+        ],
+        "y_range": [
+          15954,
+          15962
+        ]
+      }
+    },
+    "16": {
+      "tile_count": 117,
+      "bytes": 2739413,
+      "x_range": [
+        19280,
+        19292
+      ],
+      "y_range": [
+        31913,
+        31921
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          19286,
+          31917
+        ],
+        "x_range": [
+          19280,
+          19292
+        ],
+        "y_range": [
+          31913,
+          31921
+        ]
+      }
+    },
+    "17": {
+      "tile_count": 117,
+      "bytes": 2770236,
+      "x_range": [
+        38567,
+        38579
+      ],
+      "y_range": [
+        63830,
+        63838
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          38573,
+          63834
+        ],
+        "x_range": [
+          38567,
+          38579
+        ],
+        "y_range": [
+          63830,
+          63838
+        ]
+      }
+    },
+    "18": {
+      "tile_count": 117,
+      "bytes": 2644209,
+      "x_range": [
+        77141,
+        77153
+      ],
+      "y_range": [
+        127664,
+        127672
+      ],
+      "coverage": {
+        "type": "regional",
+        "tiles_expected": 117,
+        "center_xy": [
+          77147,
+          127668
+        ],
+        "x_range": [
+          77141,
+          77153
+        ],
+        "y_range": [
+          127664,
+          127672
+        ]
+      }
+    }
+  },
+  "coverage_by_level": {
+    "4": {
+      "type": "global",
+      "tiles_expected": 256,
+      "x_range": [
+        0,
+        15
+      ],
+      "y_range": [
+        0,
+        15
+      ]
+    },
+    "5": {
+      "type": "global",
+      "tiles_expected": 1024,
+      "x_range": [
+        0,
+        31
+      ],
+      "y_range": [
+        0,
+        31
+      ]
+    },
+    "6": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        18,
+        31
+      ],
+      "x_range": [
+        12,
+        24
+      ],
+      "y_range": [
+        27,
+        35
+      ]
+    },
+    "7": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        37,
+        62
+      ],
+      "x_range": [
+        31,
+        43
+      ],
+      "y_range": [
+        58,
+        66
+      ]
+    },
+    "8": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        75,
+        124
+      ],
+      "x_range": [
+        69,
+        81
+      ],
+      "y_range": [
+        120,
+        128
+      ]
+    },
+    "9": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        150,
+        249
+      ],
+      "x_range": [
+        144,
+        156
+      ],
+      "y_range": [
+        245,
+        253
+      ]
+    },
+    "10": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        301,
+        498
+      ],
+      "x_range": [
+        295,
+        307
+      ],
+      "y_range": [
+        494,
+        502
+      ]
+    },
+    "11": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        602,
+        997
+      ],
+      "x_range": [
+        596,
+        608
+      ],
+      "y_range": [
+        993,
+        1001
+      ]
+    },
+    "12": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        1205,
+        1994
+      ],
+      "x_range": [
+        1199,
+        1211
+      ],
+      "y_range": [
+        1990,
+        1998
+      ]
+    },
+    "13": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        2410,
+        3989
+      ],
+      "x_range": [
+        2404,
+        2416
+      ],
+      "y_range": [
+        3985,
+        3993
+      ]
+    },
+    "14": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        4821,
+        7979
+      ],
+      "x_range": [
+        4815,
+        4827
+      ],
+      "y_range": [
+        7975,
+        7983
+      ]
+    },
+    "15": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        9643,
+        15958
+      ],
+      "x_range": [
+        9637,
+        9649
+      ],
+      "y_range": [
+        15954,
+        15962
+      ]
+    },
+    "16": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        19286,
+        31917
+      ],
+      "x_range": [
+        19280,
+        19292
+      ],
+      "y_range": [
+        31913,
+        31921
+      ]
+    },
+    "17": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        38573,
+        63834
+      ],
+      "x_range": [
+        38567,
+        38579
+      ],
+      "y_range": [
+        63830,
+        63838
+      ]
+    },
+    "18": {
+      "type": "regional",
+      "tiles_expected": 117,
+      "center_xy": [
+        77147,
+        127668
+      ],
+      "x_range": [
+        77141,
+        77153
+      ],
+      "y_range": [
+        127664,
+        127672
+      ]
+    }
+  },
+  "pin_wgs84": {
+    "longitude": -74.0537016,
+    "latitude": 4.6686545
+  },
+  "attribution": "Esri, Maxar, Earthstar Geographics, and the GIS User Community.",
+  "notes": [
+    "z0–3 reused from complete global pyramid in reference pack.",
+    "z4–5 downloaded from Esri World_Imagery for full-world transition.",
+    "z6–18 downloaded from Esri World_Imagery in a 13×9 tile rectangle centered on Yumi Yumi (clamped at world edges).",
+    "map-tiles.js includes a byte index and base64 pack for file:// use; `YUMI_MAP_TILE_PACK.registerMapLibre(maplibregl)` registers offline://z/y/x. `YUMI_MAP_TILES` exposes lazy dataURL getters keyed z/y/x."
+  ],
+  "libraries": {
+    "lib/maplibre-gl.js": {
+      "bytes": 1056837,
+      "source": "reference/lib/maplibre-gl.js"
+    },
+    "lib/maplibre-gl.css": {
+      "bytes": 70024,
+      "source": "reference/lib/maplibre-gl.css"
+    },
+    "lib/gsap.min.js": {
+      "bytes": 72927,
+      "source": "reference/lib/gsap.min.js"
+    }
+  },
+  "fonts": {
+    "assets/v2/fonts/inter-tight-latin-wght-normal.woff2": {
+      "bytes": 44872,
+      "source": "reference/lib/fonts/inter-tight-latin-wght-normal.woff2"
+    },
+    "assets/v2/fonts/inter-tight-latin-ext-wght-normal.woff2": {
+      "bytes": 89800,
+      "source": "reference/lib/fonts/inter-tight-latin-ext-wght-normal.woff2"
+    },
+    "assets/v2/fonts/fraunces-latin-wght-italic.woff2": {
+      "bytes": 45656,
+      "source": "reference/lib/fonts/fraunces-latin-wght-italic.woff2"
+    }
+  },
+  "api": {
+    "global": "window.YUMI_MAP_TILE_PACK",
+    "protocol": "offline://{z}/{y}/{x}",
+    "registration": "YUMI_MAP_TILE_PACK.registerMapLibre(maplibregl)",
+    "data_url_dictionary": "window.YUMI_MAP_TILES[key], e.g. z/y/x",
+    "max_zoom": 18
+  },
+  "video_loop": {
+    "path": "assets/v2/portada-loop.mp4",
+    "source": "assets/Videos/Video YumiYumi.mp4",
+    "width": 980,
+    "height": 718,
+    "duration_seconds": 15.066016,
+    "frames": 452,
+    "frame_rate": "30/1",
+    "audio": false,
+    "crossfade_seconds": 1.333333,
+    "first_last_mean_absolute_rgb_difference_0_255": 2.558365,
+    "first_last_max_rgb_difference": 47,
+    "file_bytes": 3644362
+  },
+  "fallback": {
+    "path": "assets/v2/tile-fallback.js",
+    "bytes": 4728,
+    "api": "YUMI_MAP_TILE_FALLBACK.install(maplibregl)",
+    "install_after": "YUMI_MAP_TILE_PACK.registerMapLibre(maplibregl)",
+    "behavior": "For a missing offline tile, walks to the nearest indexed ancestor, crops the matching x/y quadrant, scales to 256x256, and caches the JPEG. No network fallback."
+  }
+}
